@@ -9,8 +9,24 @@
 		<tr><th align="left">Name</th><th align="left">Host:port</th></tr>
 	</thead>
 	<tbody>
+		<tr><td align="left">AUSPASS</td><td align="left">auspass.edu.au:18000</td></tr>
+		<tr><td align="left">BGR</td><td align="left">eida.bgr.de:18000</td></tr>
+		<tr><td align="left">GEOFON, GFZ</td><td align="left">geofon.gfz-potsdam.de:18000</td></tr>
+    		<tr><td align="left">GEONET</td><td align="left">link.geonet.org.nz:18000</td></tr>
+		<tr><td align="left">Geoscience Australia</td><td align="left">192.104.43.82:18000</td></tr>
+		<tr><td align="left">ICGC</td><td align="left">ws.icgc.cat:18000</td></tr>
+		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu:18000</td></tr>
+		<tr><td align="left">IPGP</td><td align="left">rtserver.ipgp.fr:18000</td></tr>
+		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu:18000</td></tr>
 		<tr><td align="left">IRIS DMC</td><td align="left">rtserve.iris.washington.edu:18000</td></tr>
-    		<tr><td align="left">GEOFON, GFZ</td><td align="left">geofon.gfz-potsdam.de:18000</td></tr>
+		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org:18000</td></tr>
+		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr:18000</td></tr>
+		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br:18000</td></tr>
+		<tr><td align="left">SEISME IRD</td><td align="left">rtserve.ird.nc:18000</td></tr>
+		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu:18000</td></tr>
+		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15:18000</td></tr>
+		<tr><td align="left">USP - IAG</td><td align="left">seisrequest.iag.usp.br:18000</td></tr>
+		<tr><td align="left">ZAMG</td><td align="left">195.96.231.100:18000</td></tr>
 	</tbody>
 </table>
 

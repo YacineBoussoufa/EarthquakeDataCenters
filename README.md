@@ -29,6 +29,7 @@
 		<tr><td align="left">ZAMG</td><td align="left">195.96.231.100</td></tr>
 	</tbody>
 </table>
+
 ***Note**: seedlink port is 18000*
 
 ### FDSNWS
@@ -69,4 +70,5 @@
 		<tr><td align="left">AusPass</td><td align="left">http://auspass.edu.au:8080/fdsnws/station/1/</td></tr>
 	
 </table>
+
 ***Note**: only fdsnws-station are listed*

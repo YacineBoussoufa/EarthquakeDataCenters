@@ -1,9 +1,10 @@
 # EarthquakeDataCenters
 ## Overview
-The *SeedLink protocol* is a robust data transmission intended for use on the Internet or private circuits that support TCP/IP. The protocol is robust in that clients may disconnect and reconnect without losing data, in other words transmissions may be resumed as long as the data still exist in the servers buffer. Requested data streams may be limited to specific networks, stations, locations and/or channels. All data packets are 512-byte Mini-SEED records
+The *SeedLink protocol* is a robust data transmission intended for use on the Internet or private circuits that support TCP/IP. The protocol is robust in that clients may disconnect and reconnect without losing data, in other words transmissions may be resumed as long as the data still exist in the servers buffer. Requested data streams may be limited to specific networks, stations, locations and/or channels. All data packets are 512-byte Mini-SEED records.
+<br>(More information [here](https://www.seiscomp.de/doc/apps/seedlink.html))
 
-The purpose of the FDSN StationXML schema is to define an XML representation of the most important and commonly used structures of SEED 2.4 metadata with enhancements.
-The goal is to allow mapping between SEED 2.4 dataless SEED volumes and this schema with as little transformation or loss of information as possible while at the same time simplifying station metadata representation when possible. Also, content and clarification has been added where lacking in the SEED standard.
+The *FSDNWS-Station* provides access to station metadata and instrument specifics in FDSN StationXML format. Metadata can be selected on SEED network, station, location or channel identifiers in addition to spatiotemporal constraints. Metadata can be extracted at multiple levels of detail.
+<br>(More information [here](http://www.fdsn.org/webservices/))
 
 ## List
 
@@ -74,5 +75,3 @@ The goal is to allow mapping between SEED 2.4 dataless SEED volumes and this sch
 		<tr><td align="left">AusPass</td><td align="left">http://auspass.edu.au:8080/fdsnws/station/1/</td></tr>
 	
 </table>
-
-***Note**: only fdsnws-station are listed*

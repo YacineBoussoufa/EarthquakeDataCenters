@@ -13,7 +13,7 @@
 		<tr><td align="left">BGR</td><td align="left">eida.bgr.de</td></tr>
 		<tr><td align="left">GEOFON, GFZ</td><td align="left">geofon.gfz-potsdam.de</td></tr>
     		<tr><td align="left">GEONET</td><td align="left">link.geonet.org.nz</td></tr>
-		<tr><td align="left">Geoscience Australia</td><td align="left">192.104.43.82</td></tr>
+		<tr><td align="left">Geoscience Australia</td><td align="left">seis-pub.ga.gov.au</td></tr>
 		<tr><td align="left">ICGC</td><td align="left">ws.icgc.cat</td></tr>
 		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu</td></tr>
 		<tr><td align="left">IPGP</td><td align="left">rtserver.ipgp.fr</td></tr>

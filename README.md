@@ -22,8 +22,9 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">ICGC</td><td align="left">ws.icgc.cat</td></tr>
 		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu</td></tr>
 		<tr><td align="left">IPGP</td><td align="left">rtserver.ipgp.fr</td></tr>
-		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">IRIS DMC</td><td align="left">rtserve.iris.washington.edu</td></tr>
+		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>
+		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>
 		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr</td></tr>
 		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br</td></tr>

@@ -29,6 +29,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr</td></tr>
 		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br</td></tr>
 		<tr><td align="left">Seisme IRD</td><td align="left">rtserve.ird.nc</td></tr>
+		<tr><td align="left">SNAC NOA</td><td align="left">snac.gein.noa.gr</td></tr>
 		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">seisrequest.iag.usp.br</td></tr>

@@ -33,6 +33,8 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">Seisme IRD</td><td align="left">rtserve.ird.nc</td></tr>
 		<tr><td align="left">SNAC NOA</td><td align="left">snac.gein.noa.gr</td></tr>
 		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu</td></tr>
+		www.sismocal.org
+		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">148.213.24.15</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">seisrequest.iag.usp.br</td></tr>
 		<tr><td align="left">ZAMG</td><td align="left">195.96.231.100</td></tr>

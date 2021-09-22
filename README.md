@@ -28,6 +28,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>
 		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>
+		<tr><td align="left">Red Sìsmica Baru</td><td align="left">helis.redsismicabaru.com</td></tr>
 		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr</td></tr>
 		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br</td></tr>
 		<tr><td align="left">Seisme IRD</td><td align="left">rtserve.ird.nc</td></tr>

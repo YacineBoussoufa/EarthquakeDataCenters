@@ -67,7 +67,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">ETHZ</td><td align="left">http://eida.ethz.ch/fdsnws/station/1/</td>
    		<tr><td align="left">GEOFON, GFZ</td><td align="left">http://geofon.gfz-potsdam.de/fdsnws/station/1/</td></tr>
 		<tr><td align="left">ICGC</td><td align="left">http://ws.icgc.cat/fdsnws/station/1/</td>
-		<tr><td align="left">GEOFON, GFZ</td><td align="left">http://eida.ipgp.fr/fdsnws/station/1/</td>
+		<tr><td align="left">IPGP</td><td align="left">http://eida.ipgp.fr/fdsnws/station/1/</td>
 		<tr><td align="left">INGV</td><td align="left">http://webservices.ingv.it/fdsnws/station/1/</td>
 		<tr><td align="left">LMU</td><td align="left">http://erde.geophysik.uni-muenchen.de/fdsnws/station/1/</td>
 		<tr><td align="left">NIEP</td><td align="left">http://eida-sc3.infp.ro/fdsnws/station/1/</td>

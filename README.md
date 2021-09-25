@@ -34,7 +34,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">Seisme IRD</td><td align="left">rtserve.ird.nc</td></tr>
 		<tr><td align="left">SNAC NOA</td><td align="left">snac.gein.noa.gr</td></tr>
 		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu</td></tr>
-		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www.sismocal.org</td></tr>
+		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>
 		<tr><td align="left">UNITS<br>Università degli studi di Trieste</td><td align="left">rtweb.units.it</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">seisrequest.iag.usp.br</td></tr>
@@ -59,10 +59,19 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">TexNet</td><td align="left">http://rtserve.beg.utexas.edu/fdsnws/station/1/</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">http://seisrequest.iag.usp.br/fdsnws/station/1/</td></tr>
 		<tr><td align="left">Raspberry Shake</td><td align="left">https://fdsnws.raspberryshakedata.com/fdsnws/station/1</td></tr>
+	</tbody>
+	<thead>
+		<tr><th colspan="2" align="center">Asia</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">BMKG</td><td align="left">https://geof.bmkg.go.id/fdsnws/station/1/</td></tr>
+	</tbody>
 	<thead>
 		<tr><th colspan="2" align="center">Europe</th></tr>
 	</thead>
+	<tbody>
 		<tr><td align="left">BGR</td><td align="left">http://eida.bgr.de/fdsnws/station/1/</td>
+		<tr><td align="left">KNMI</td><td align="left">http://rdsa.knmi.nl/fdsnws/station/1/</td>
 		<tr><td align="left">KOERI</td><td align="left">http://eida-service.koeri.boun.edu.tr/fdsnws/station/1/</td>
 		<tr><td align="left">ETHZ</td><td align="left">http://eida.ethz.ch/fdsnws/station/1/</td>
    		<tr><td align="left">GEOFON, GFZ</td><td align="left">http://geofon.gfz-potsdam.de/fdsnws/station/1/</td></tr>
@@ -74,11 +83,13 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">NOA</td><td align="left">http://eida.gein.noa.gr/fdsnws/station/1/</td>
 		<tr><td align="left">ORFEUS</td><td align="left">http://www.orfeus-eu.org/fdsnws/station/1/</td>
 		<tr><td align="left">RESIF</td><td align="left">http://ws.resif.fr/fdsnws/station/1/</td>
+		<tr><td align="left">SNAC NOA</td><td align="left">http://snac.gein.noa.gr:8080/fdsnws/station/1/</td>	
 	</tbody>
 	<thead>
 		<tr><th colspan="2" align="center">Oceania</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="left">AusPass</td><td align="left">http://auspass.edu.au:8080/fdsnws/station/1/</td></tr>
+	</tbody>
 	
 </table>

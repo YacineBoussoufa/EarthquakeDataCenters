@@ -19,6 +19,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">GEOFON, GFZ</td><td align="left">geofon.gfz-potsdam.de</td></tr>
     		<tr><td align="left">GEONET</td><td align="left">link.geonet.org.nz</td></tr>
 		<tr><td align="left">Geoscience Australia</td><td align="left">seis-pub.ga.gov.au</td></tr>
+		<tr><td align="left">Haiti</td><td align="left">ayiti.unice.fr</td></tr>
 		<tr><td align="left">ICGC</td><td align="left">ws.icgc.cat</td></tr>
 		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu</td></tr>
 		<tr><td align="left">IPGP</td><td align="left">rtserver.ipgp.fr</td></tr>

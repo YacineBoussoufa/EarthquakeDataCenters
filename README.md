@@ -29,6 +29,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>
 		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>
+		<tr><td align="left">Red Sìsmica de Puerto Rico</td><td align="left">161.35.236.45</td></tr>
 		<tr><td align="left">Red Sìsmica Baru</td><td align="left">helis.redsismicabaru.com</td></tr>
 		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr</td></tr>
 		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br</td></tr>
@@ -38,6 +39,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>
 		<tr><td align="left">UNITS<br>Università degli studi di Trieste</td><td align="left">rtweb.units.it</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
+		<tr><td align="left">USGS</td><td align="left">cwbpub.cr.usgs.gov</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">seisrequest.iag.usp.br</td></tr>
 		<tr><td align="left">ZAMG</td><td align="left">195.96.231.100</td></tr>
 	</tbody>

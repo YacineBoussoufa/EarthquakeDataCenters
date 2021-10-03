@@ -40,6 +40,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>
 		<tr><td align="left">UNITS<br>Università degli studi di Trieste</td><td align="left">rtweb.units.it</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
+		<tr><td align="left">UPR</td><td align="left">worm.uprm.edu</td></tr>
 		<tr><td align="left">USGS</td><td align="left">cwbpub.cr.usgs.gov</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">seisrequest.iag.usp.br</td></tr>
 		<tr><td align="left">ZAMG</td><td align="left">195.96.231.100</td></tr>

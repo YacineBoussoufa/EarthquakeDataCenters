@@ -27,6 +27,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">IRIS DMC</td><td align="left">rtserve.iris.washington.edu</td></tr>
 		<tr><td align="left">ISNET - UNINA<br>Università degli Studi di Napoli Federico II</td><td align="left">185.15.171.86</td></tr>
 		<tr><td align="left">LMU</td><td align="left">erde.geophysik.uni-muenchen.de</td></tr>
+		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>
 		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>
 		<tr><td align="left">Red Sìsmica de Puerto Rico</td><td align="left">161.35.236.45</td></tr>

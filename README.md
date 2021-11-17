@@ -25,6 +25,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu</td></tr>
 		<tr><td align="left">IPGP</td><td align="left">rtserver.ipgp.fr</td></tr>
 		<tr><td align="left">IRIS DMC</td><td align="left">rtserve.iris.washington.edu</td></tr>
+		<tr><td align="left">IRIS Jamaseis</td><td align="left">jamaseis.iris.edu</td></tr>
 		<tr><td align="left">ISNET - UNINA<br>Università degli Studi di Napoli Federico II</td><td align="left">185.15.171.86</td></tr>
 		<tr><td align="left">LMU</td><td align="left">erde.geophysik.uni-muenchen.de</td></tr>
 		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>

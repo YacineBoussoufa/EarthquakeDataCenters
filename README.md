@@ -16,6 +16,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 	<tbody>
 		<tr><td align="left">AusPass</td><td align="left">auspass.edu.au</td></tr>
 		<tr><td align="left">BGR</td><td align="left">eida.bgr.de</td></tr>
+		<tr><td align="left">CISMID</td><td align="left">www&#46;cismid.uni.edu.pe</td></tr>
 		<tr><td align="left">ENS</td><td align="left">ephesite.ens.fr</td></tr>
 		<tr><td align="left">GEOFON, GFZ</td><td align="left">geofon.gfz-potsdam.de</td></tr>
     		<tr><td align="left">GEONET</td><td align="left">link.geonet.org.nz</td></tr>

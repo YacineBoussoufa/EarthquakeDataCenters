@@ -30,6 +30,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">ISNET - UNINA<br>Università degli Studi di Napoli Federico II</td><td align="left">185.15.171.86</td></tr>
 		<tr><td align="left">LMU</td><td align="left">erde.geophysik.uni-muenchen.de</td></tr>
 		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>
+		<tr><td align="left">OBSEBRE</td><td align="left">obsebre.es</td></tr>
 		<tr><td align="left">OGS</td><td align="left">140.105.68.27</td></tr>
 		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>

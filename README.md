@@ -45,6 +45,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu</td></tr>
 		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>
 		<tr><td align="left">UNITS<br>Università degli studi di Trieste</td><td align="left">rtweb.units.it</td></tr>
+		<tr><td align="left">UNIV-AG<br>Université des Antilles</td><td align="left">seedsrv0.ovmp.martinique.univ-ag.fr</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
 		<tr><td align="left">UPR</td><td align="left">worm.uprm.edu</td></tr>
 		<tr><td align="left">USGS</td><td align="left">cwbpub.cr.usgs.gov</td></tr>

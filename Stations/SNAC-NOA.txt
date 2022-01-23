@@ -1,0 +1,56 @@
+HL SISM  National Observatory of Athens
+HL SSNT  National Observatory of Athens
+AM RD596 Sofia, Bulgary
+HL SSCY  National Observatory of Athens
+AM R62B3 1o Gel Ko \Ipokrateio"
+AM R6E48 High School of Teaching Foreign Languages, Smolyan, Bulgaria
+AM R6080 Istituto Superiore Marconi, Vairano, Patenora, CE, Italy
+HL SVOL  Volos, Greece
+AM RB822 Izmir, Turkey
+AM RA4CA 1o Gymnasio Kerkyras
+AM RAC91 7o Gymnasio Trikalwn
+HL SARG  National Observatory of Athens
+HL SKLMT Stara Zagora, Bulgary
+AM R4ECA Pernik, Bulgary
+AM R722D Language School Academic, Blagoevgrad, Bulgaria
+AM R4DA4 Ruse, Bulgary
+HL SMSN  Instituto Supernore G. Minutoli, Messina
+AM R1822 Mousiko Sxoleio Chaniwn
+HL SNSM  National Observatory of Athens
+AM R4BE2 Perifereiako Sxoleio Giolou, Cyprus
+AM RA4F7 Gymasio Egkomis, Cyprus
+AM R4043 Stara Zagora, Bulgary
+AM RF201 Gymnasio Aposotlou Pavlou, Pafos, Cyprus
+AM RF463 B Dhmotiko Sxoleio Liopetriou, Cyprus
+HL SINST National Observatory of Athens
+HL SAZR  National Observatory of Athens
+AM RE950 Gymnasio Diapolitismikhs Ekpaideushs Sapwn
+AM RBBBF Liceo Scientifico Arturo Labriola, Naples, Italy
+AM R2AE3 Botevgrad, Bulgary
+HL SSOF  Sofia High School of Mathematics
+AM R4EB6 Institute of Geodynamics, National Observatory of Athens
+HL SKAR  National Observatory of Athens
+HL SIGU  National Observatory of Athens
+AM R52CE Izmir Ozel Turk College
+HL SNPL  Naples, Italy
+AM R1C6C Fioliths, Zakynthos
+HL SMES  National Observatory of Athens
+AM R9AC0 Gymnasio Moudrou, Limnos
+AM R1388 1o Peiramatiko Sxoleio Giannena
+AM R4F38 1o Gymnasio Vrilissiwn
+AM R9AC7 Gaziantep TED College
+AM RF7FF Lykeio Polemidiwn, Cyprus
+AM RC574 4o Gymnasio Lagkada, Lykeiakes Takseis
+HL SPRT  National Observatory of Athens
+AM R6F1A Liceo Albert Einstein, Torino, Italy
+AM R5730 American Academy, Larnaka
+HL SNCY  National Observatory of Athens
+HL SSIGR National Observatory of Athens
+HL SAVL  National Observatory of Athens
+HL SSEA  National Observatory of Athens
+HL SVAM  National Observatory of Athens
+HL STHS  National Observatory of Athens
+HL SNOA  National Observatory of Athens
+AM RF25A Ekpaideuthria Panou, Nafpaktos
+HL SART  National Observatory of Athens
+AM R7988 Izmir Istek Schools

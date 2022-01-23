@@ -1,0 +1,50 @@
+S1 AUALB St Joseph's College
+S1 AUALC St Philip's College
+S1 AUAPY Ernabella Anangu School
+S1 AUAYR Ayr State High School
+S1 AUBRM Broome Senior High School
+S1 AUBRN Burnie High School
+S1 AUBSH Beerwah State High School
+S1 AUBUS Georgiana Molloy Anglican School
+S1 AUCAR St Mary Star of the Sea
+S1 AUCAS Cummins Area School
+S1 AUCSH Cairns State High School
+S1 AUDAR Daramalan College
+S1 AUDCS Dubbo College Senior Campus
+S1 AUDHS Darwin High School
+S1 AUGRF Marian Catholic College
+S1 AUHAR St Anne's School
+S1 AUHPC Hawkesdale P12 School
+S1 AUJCS Jamestown Community School
+S1 AUKAL John Paul College
+S1 AUKAR St Luke's College
+S1 AUKAT Katherine High School
+S1 AUKHS Kincumber High School
+S1 AUKSC Keysborough Secondary College
+S1 AUKUL Kulin District High School
+S1 AULHS Lilydale High School
+S1 AULRC Lightning Ridge Central School
+S1 AUMAG Moama Anglican Grammar
+S1 AUMAR Marden Senior College
+S1 AUMAZ Mazenod Senior College
+S1 AUMBR Murray Bridge High School
+S1 AUMHS Melrose High School
+S1 AUMOU Moura State High School
+S1 AUMTC Mt Clear College/Earth Ed
+S1 AUMTS Mt Stromlo
+S1 AUMUL Mullumbimby High School
+S1 AUNHS Nhulunbuy High School
+S1 AUNRC North Rockhampton State High School
+S1 AUPHS Peel High School
+S1 AUPKL Parklands High School
+S1 AURMK Renmark High School
+S1 AUROX Roxby Downs Area School
+S1 AURSC Rosebud Secondary College
+S1 AUSIS Australian National Universtiy
+S1 AUSMG Snowy Mountains Grammar School
+S1 AUSSC Sale College
+S1 AUTAR Taroona High School
+S1 AUTKS The King's School
+S1 AUTOO Toowoomba State High School
+S1 AUUHS Ulladulla High School
+S1 AUWSH Wavell State High School

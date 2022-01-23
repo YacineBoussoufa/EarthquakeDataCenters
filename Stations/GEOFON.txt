@@ -1,0 +1,390 @@
+AW VNA1  Station Neumayer OBS, Antarctica
+AW VNA2  Station Neumayer Watz-Array Centre, Antarctica
+AW VNA3  Station Neumayer Olymp, Antarctica
+AW VNAA1 Station Neumayer Watz-Array A1, Antarctica
+AW VNAA2 Station Neumayer Watz-Array A2, Antarctica
+AW VNAA3 Station Neumayer Watz-Array A3, Antarctica
+AW VNAB1 Station Neumayer Watz-Array B1, Antarctica
+AW VNAB2 Station Neumayer Watz-Array B2, Antarctica
+AW VNAB3 Station Neumayer Watz-Array B3, Antarctica
+AW VNAB4 Station Neumayer Watz-Array B4, Antarctica
+AW VNAB5 Station Neumayer Watz-Array B5, Antarctica
+AW VNAC1 Station Neumayer Watz-Array C1, Antarctica
+AW VNAC2 Station Neumayer Watz-Array C2, Antarctica
+AW VNAC3 Station Neumayer Watz-Array C3, Antarctica
+AW VNAC4 Station Neumayer Watz-Array C4, Antarctica
+AW VNAC5 Station Neumayer Watz-Array C5, Antarctica
+AW VNAC6 Station Neumayer Watz-Array C6, Antarctica
+AW VNAC7 Station Neumayer Watz-Array C7, Antarctica
+BW MANZ  Manzenberg,Bavaria, BW-Net
+BW RJOB  Jochberg, Bavaria, BW-Net
+BW ROTZ  Rotzenmuhle,Bavaria, BW-Net
+CK ASHT  Institute of Seismology Station Ashgabat, Turkmenistan
+CK DZET  Tajik Institute of Earthquake Engineering and Seismology Station Djerino, Tajikistan
+CK MNAS  Kyrgyz Institute of Seimology Station Talas, Kyrgyzstan
+CK OTUK  National Nuclear Centre Station Ortayu, Kazakhstan
+CK PDGK  National Nuclear Centre Station Podgornoye, Kazakhstan
+CK SFK   Central Asian Institute for Applied Geosciences Station Sufy-kurgan, Kyrgyzstan
+CK TAS   Institute for Seismology Station Tashkent, Uzbekistan
+CP MESC  MESC
+CP SET3  SET3
+CX HMBCX IPOC Station Humberstone, Chile
+CX MNMCX IPOC Station Minimi, Chile
+CX PATCX IPOC Station Patache, Chile
+CX PB01  IPOC Station Huatacondo, Chile
+CX PB02  IPOC Station Salar Grande, Chile
+CX PB03  IPOC Station El Tigre, Chile
+CX PB04  IPOC Station Mantos de la Luna, Chile
+CX PB05  IPOC Station Michilla, Chile
+CX PB06  IPOC Station Pedro de Valdivia, Chile
+CX PB07  IPOC Station Cerro Tatas, Chile
+CX PB08  IPOC Station Macaya, Chile
+CX PB09  IPOC Station Quillagua, Chile
+CX PB10  IPOC Station Juan Lopez, Chile
+CX PB11  IPOC Station Quebrada Aricilda, Chile
+CX PB12  IPOC Station Cerro Caramaca near Arica, Chile
+CX PB14  IPOC Station European Southern Observatory Cerro Paranal, Chile
+CX PB15  IPOC Station Sierra Gorda, Chile
+CX PB16  IPOC Station Cerro Chaquipina new, Chile
+CX PB18  IPOC Station Visviri, Chile
+CX PB19  IPOC Station Pico de Oro, Chile
+CX PSGCX IPOC Station Pisagua, Chile
+CX PX02  IPOC Station Quebrada Camarones, Chile
+CX PX03  IPOC Station El Huarango, Chile
+CX PX06  IPOC Station Salar de Carmen, Chile
+CZ CHVC  Chvalec
+CZ CKRC  Cesky Krumlov
+CZ DPC   Dobruska/Polom, CZ
+CZ GOPC  Pecny
+CZ HSKC  Hora Sv.Kateriny
+CZ KHC   Kasperske Hory
+CZ KRLC  Kraliky
+CZ NKC   Novy Kostel
+CZ OKC   Ostrava/Krasne Pole
+CZ OSTC  Ostas
+CZ PBCC  Pribram
+CZ PRA   Praha
+CZ PRU   Pruhonice
+CZ PVCC  Panska Ves, CZ
+CZ SKAC  SKAC
+CZ TREC  Trest
+CZ UPC   Upice
+DK ANGG  Station Ammassalik, Greenland
+DK BSD   Station Bornholm Skovbrynet, Denmark
+DK COP   Station Copenhagen, Denmark
+DK GDH   GDH
+DK GOET  GOET
+DK HAMD  HAMD
+DK ILULI Ilulissat, Greenland
+DK ISOG  Station Isortoq, Greenland
+DK IVI   Station Ivigtut, Greenland
+DK KULLO Kullorsuaq, Greenland
+DK LLD   LLD
+DK MUD   Station Monsted Kalkmine, Denmark
+DK NIAQ  NIAQ
+DK NRS   Station Narsarsuaq, Greenland
+DK NUUG  Nuugaatsiq, Greenland
+DK OVD   OVD
+DK SAATT SAATT
+DK SAQQ  SAQQ
+DK SCO   Station Scoresbysund, Greenland
+EE ARBE  Station Arbavere, Estonia
+EE MTSE  Station Matsalu, Estonia
+EI IDGL  DIAS Station Inch Island, Ireland
+EI IGLA  Station Glengowla, Ireland
+EI IWEX  DIAS Station Carrickbyrne, Ireland
+FN MSF   Station Maaselka, Finland
+FN OUL   Station Oulu, Finland
+FN RNF   Station Rovaniemi, Finland
+FN SGF   Station Sodankyla, Finland
+GE ACRG  GEOFON/GGSA Station Accra, Ghana
+GE APE   NOA/GEOFON Station Apeiranthos,Naxos, Greece
+GE ARPR  GEOFON/MedNet/KOERI Station Arapgir, Turkey
+GE BALJ  Station GEOFON, JSO/DESERVE Station Balqa/Jordan
+GE BBJI  GEOFON Station GEOFON Station Bungbulang, Garut, Java
+GE BKB   GEOFON Station GEOFON Station Balikpapan, Kalimantan
+GE BKNI  GEOFON Station GEOFON Station Bangkinang, Sumatra
+GE BNDI  GEOFON Station Bandaneira, Indonesia
+GE BOAB  INETER/GEOFON Station INETER, GEOFON Station Boaco/Nicaragua
+GE CSS   GEOFON/GII Station Mathiatis, Cyprus
+GE DAG   GEOFON/AWI Station Danmarkshavn, Greenland
+GE DAMY  GEOFON Station GEOFON Station Dhamar, Yemen
+GE DSB   GEOFON Station Dublin, Ireland
+GE EIL   GEOFON Station Eilat, Israel
+GE FAKI  GEOFON Station GEOFON Station Fak Fak, Irian Jaya
+GE FALKS GEOFON Station Falkenstein, Germany
+GE FLT1  Temp GEOFON Station Temp GEOFON Station Flechtingen, Germany
+GE GENI  GEOFON Station Genyem, Irian Jaya Indonesia
+GE GHAJ  DESERVE Station GEOFON, JSO/DESERVE Station Ghor Haditha/Jordan
+GE GSI   GEOFON Station Gunungsitoli, Nias
+GE HALK  GEOFON Station Hakmana, Sri Lanka
+GE HLG   UKiel/GEOFON Station Helgoland, Germany
+GE HMDM  GEOFON Station GEOFON Station Hanimaadhoo, Maldives
+GE IBBN  RUB/GEOFON Station Ibbenbueren, Germany
+GE ILTH  GEOFON/DIAS Station Belurgan, Co Louth, Ireland
+GE ISP   GEOFON/MedNet/KOERI Station Isparta, Turkey
+GE JAGI  GEOFON Station GEOFON Station Jajag, Java
+GE KAAM  GEOFON Station GEOFON Station Kaadhehdhoo, Maldives
+GE KARP  NOA/RUB/GEOFON Station Karpathos,Greece
+GE KBS   Ny-Alesund, Spitzbergen, Norway
+GE KBU   GEOFON Station GEOFON Station Kabul, Afghanistan
+GE KERA  RUB Station Keramoti, Crete
+GE KIBK  GEOFON Station Kibwezi, Kenya
+GE KMBO  Kilima Mbogo, Kenya
+GE KTHA  NOA/GEOFON Station Kythira, Greece
+GE LHMI  GEOFON Station GEOFON Station Lhokseumave, Sumatra
+GE LODK  GEOFON Station Lodwar, Kenya
+GE LUWI  GEOFON Station GEOFON Station Lhokseumave, Sulawesi
+GE LVC   Limon Verde, Chile
+GE MALK  GEOFON Station Mahakanadarawa, Sri Lanka
+GE MARCO GEOFON/IMAA-CNR Station Tramutola, Italy
+GE MATE  U Basilicata/GEOFON Station Matera, Italy
+GE MMRI  GEOFON Station GEOFON Station Maumere, Flores
+GE MNAI  GEOFON Station GEOFON Station Manna, Sumatra
+GE MORC  GEOFON Station Moravsky Beroun, Czech Republic
+GE MSBI  DESERVE Station Mazada, Israel
+GE MTE   GEOFON Station Manteigas, Portugal
+GE NPW   DMH/GEOFON Station Naypyitaw, Myanmar
+GE PABE  LGT/GEOFON Station Paberze, Lithuania
+GE PBUR  LGT/GEOFON Station Paburge, Lithuania
+GE PLAI  GEOFON Station Plampang, Sumbawa, Indonesia
+GE PMBI  GEOFON Station Palembang, Sumatra
+GE PMG   Port Moresby, New Guinea
+GE PSZ   GKKI/GEOFON Station Piszkes, Hungary
+GE PUL   GEOFON Station Pulkovo, Russia
+GE RGN   GRSN/GEOFON Station Ruegen, Germany
+GE RUE   GRSN/GEOFON Station Ruedersdorf, Germany
+GE SALP  DESERVE Station Salfit, Palestine Territories
+GE SALTA GEOFON/INPRES Station Salta, Argentina
+GE SANI  GEOFON Station Sanana, Moluccas, Indonesia
+GE SANT  NOA/GEOFON Station Santorini, Greece
+GE SAUI  GEOFON Station Saumlaki, Tanimbar, Indonesia
+GE SBV   GEOFON Station Sambava, Madagascar
+GE SFJD  Sondre Stromfjord, Greenland
+GE SLIT  LEGMA/GEOFON Station LEGMA, GEOFON Station Slitere/Latvia
+GE SMRI  GEOFON Station GEOFON Station Semarang, Java
+GE SNAA  GEOFON/AWI Station Sanae, Antarctica
+GE SOCY  GEOFON Station GEOFON Station Socotra, Yemen
+GE SOEI  GEOFON Station GEOFON Station Soe, Timor
+GE STU   VBB Station Stuttgart, Germany
+GE SUMG  GEOFON Station Summit Camp, Greenland
+GE THERA Station Santorini, Greece
+GE TIRR  GEOFON Station Tirgusor, Romania
+GE TNTI  GEOFON Station GEOFON Station Ternate, Indonesia
+GE TOLI2 GEOFON Station Tolitoli, Sulawesi, Indonesia
+GE UGM   GEOFON Station Wanagama, Indonesia
+GE UJAP  DESERVE Station Al Uja, Palestine Territories
+GE VAL   DIAS/IMS/GEOFON Station DIAS, IMS/GEOFON Station Valentia/Ireland
+GE VOI   GEOFON Station Vohitsoka, Madagascar
+GE VSU   GEOFON Station Vasula, Estonia
+GE WIN   GSN/GEOFON Station GSN, GEOFON Station Windhoek/Namibia
+GE WLF   GEOFON Station Walferdange, Luxembourg
+GR AHRW  GRSN Station Ahrweiler
+GR ASSE  BFS Station GRSN Station ASSE, Germany
+GR BFO   BGR Station Infrasound Black Forest Observatory, Germany
+GR BRG   BGR Station GRSN Station Berggiesshuebel, Germany
+GR BSEG  GRSN Station Bad Segeberg
+GR BUG   GRSN Station Bochum
+GR CLL   GRSN Station Collm
+GR CLZ   GRSN Station Clausthal-Zellerfeld
+GR DREG  GRSN Station Dreilaegerbach
+GR FUR   GRSN Station Fuerstenfeldbruck
+GR GEC2  BGR Station Geress-Array, Germany
+GR GOR1  BGR Station Trebel, Germany
+GR GRA1  Graefenberg Array Station Haidhof
+GR GRA2  Graefenberg Array Station Wildenfels
+GR GRA3  Graefenberg Array Station Leutzdorf
+GR GRB1  Graefenberg Array Station Bruennthal
+GR GRB2  Graefenberg Array Station Reichertswinn
+GR GRB3  Graefenberg Array Station Eglhofen
+GR GRB4  Graefenberg Array Station Heldmannsberg
+GR GRB5  Graefenberg Array Station Vorderoedberg
+GR GRC1  Graefenberg Array Station Amtmannsdorf
+GR GRC2  Graefenberg Array Station Boehmfeld
+GR GRC3  Graefenberg Array Station Steinsdorf
+GR GRC4  Graefenberg Array Station Raitenbuch
+GR GTTG  GRSN Station Goettingen
+GR LNIZ  BGR Station Loecknitz, Germany
+GR MOX   GRSN Station Moxa
+GR NRDL  GRSN Station Niedersachsen
+GR RETH  BGR Station GRSN Station Rethem Borehole, Germany
+GR SKMB  GRSN Station Sankelmark Bunker
+GR TNS   GRSN Station Taunus Observatory
+GR UBBA  GRSN Station Unterbreizbach
+GR UBR   BGR Station GRSN Station Ueberruh, Germany
+GR WET   GRSN Station Wettzell
+GX WANN  HMI/UniPotsdam/GFZ Station Berlin-Wannsee, Germany
+HE HEF   Station Hetta, Finland
+HE JOF   Station Hattuvaara, Finland
+HE KAF   Station Kangasniemi, Finland
+HE KEF   Station Keuruu, Finland
+HE KEV   Station Kevo, Finland
+HE KIF   Station Kilpisjarvi, Finland
+HE KPF   KPF
+HE KU6   Station Kuusamo, Finland
+HE MEF   Station Metsahovi, Finland
+HE NIF   NIF
+HE OUF   Station Oulainen, Finland
+HE PVF   Station Pernaja, Finland
+HE RAF   Station Laitila, Finland
+HE RMF   RMF
+HE RUF   RUF
+HE SUF   Station Sumiainen, Finland
+HE TOF   TOF
+HE VAF   Station Ylistaro, Finland
+HE VJF   Station Virolahti, Finland
+HE VRF   Station Varrio, Finland
+HN PSZI1 Station Piszkes-teto, Hungary
+HN PSZI2 Station Piszkes-teto, Hungary
+HN PSZI3 Station Piszkes-teto, Hungary
+HN PSZI4 Station Piszkes-teto, Hungary
+HU ABAH  Abaujker, Hungary
+HU AMBH  Ambrozfalva, Hungary
+HU BEHE  Becsehely, Hungary
+HU BSZH  Besenyszog, Hungary
+HU BUD   Budapest, Hungary
+HU CSKK  Csokako, Hungary
+HU EGYH  Egyhazaskeszo, Hungary
+HU KOVH  Kovagotottos, Hungary
+HU LTVH  Letavertes, Hungary
+HU MORH  Moragy, Hungary
+HU MPLH  Magyarpolany, Hungary
+HU PKSM  Station Moragy, Hungary
+HU SOP   Sopron, Hungary
+HU TIH   Tihany, Hungary
+HU TRPA  Tarpa, Hungary
+IO EVN   EvK2CNR Pyramid Laboratory - Mount Everest
+IS AMAZ  Station Amatzia, Israel
+IS BLGI  IS station
+IS DSI   IS station
+IS GEM   IS station
+IS HMDT  IS station
+IS HNTI  IS station
+IS HRFI  Station Harif, Israel
+IS KRMI  IS station
+IS KSDI  Station Kfar Sold, Israel
+IS KZIT  Station Ktziot Israel, None
+IS MBRI  IS station
+IS MDBI  IS station
+IS MMA0  MMA0
+IS MMA0B BB
+IS MMA1  MMA1
+IS MMA2  MMA2
+IS MMA3  MMA3
+IS MMA4  MMA4
+IS MMB1  MMB1
+IS MMB2  MMB2
+IS MMB3  MMB3
+IS MMB4  MMB4
+IS MMC1  MMC1
+IS MMC2  MMC2
+IS MMC3  MMC3
+IS MMC4  MMC4
+IS MMC5  MMC5
+IS MMC6  MMC6
+IS MMC7  MMC7
+IS MMLI  Station Malkishua, Israel
+IS MZDA  inactive
+IS NATI  IS station
+IS OFRI  IS station
+IS PRNI  IS station
+IS SLTI  IS station
+IS YTIR  IS station
+IS ZFRI  IS station
+IU GRFO  Grafenberg, Germany
+JS AQBJ  Station JS station, Jordan
+JS DRHJ  Station Derra, Jordan
+JS KARJ  Station Karama, Jordan
+JS QRNJ  Station Al-Qirn, Jordan
+JS SHMJ  Station Saham, Jordan
+M1 ANAC  MONET Anensky vrch
+M1 LIPC  MONET Lipinka
+M1 LOSC  MONET Losov
+M1 LUKC  MONET Luka
+M1 MUVC  MONET Mutkov
+M1 PIVO  Bartosovice
+M1 RYBC  MONET Ceska Rybna
+M1 SUPC  MONET Skalka u Prostejova
+MK BIA   BIA
+MK OHR   OHR
+MK SKO   SKO
+MK VAY   VAY
+MN AQU   L'Aquila, Italy
+MN BLY   Banja Luka, Bosnia and Herzegovina
+MN BNI   Bardonecchia, Italy
+MN CEL   Celeste, Italy
+MN CLTB  Caltabellotta, Italy
+MN CUC   Castrocucco, Italy
+MN IDI   Anogia, Greece
+MN PDG   Podgorica, Montenegro
+MN RTC   Rabat, Morocco
+MN TIP   Timpagrande, Italy
+MN TIR   Tirana, Albania
+MN TRI   Trieste, Italy
+MN TUE   Stuetta, Italy
+MN VLC   Villacollemandina, Italy
+MN VSL   Villasalto, Italy
+MN VTS   Vitosha, Bulgary
+MN WDD   Wied Dalam, Malta
+NU ACON  Station Acoyapa, Nicaragua
+NU BLUN  Station Bluefields, Nicaragua
+NU CNGN  Station Cerro Negro, Nicaragua
+NU CRIN  Station San Cristobal, Nicaragua
+NU ESPN  Station La Esperanza, Nicaragua
+NU ESTN  Station Esteli, Nicaragua
+NU MASN  Station Volcano Masya, Nicaragua
+NU MATN  MATN
+NU MGAN  Station Managua, Nicaragua
+NU RCON  RCON
+PL BEL   Belsk Poland
+PL GKP   Gorka Klasztorna Poland
+PL HSPB  Hornsund
+PL KSP   Ksiaz Poland
+PL KWP   Kalwaria Paclawska
+PL NIE   Niedzica Poland
+PL OJC   Ojcow Poland
+PL SUW   Suwalki
+RO ARCR  ARCR
+RO BUC1  BUC1
+RO BZS   Buzias
+RO CRAR  CRAR
+RO DRGR  Valea Draganului
+RO IAS   Iasi
+RO MANR  MANR
+RO MLR   Muntele Rosu - Romania
+RO VRI   Vrancioaia
+SK CRVS  Station Cervenica-Dubnik, Slovakia
+SK KECS  Station Kecovo, Slovakia
+SK KOLS  Station Kolonicke sedlo, Slovakia
+SK MODS  Station Modra-Piesok, Slovakia
+SK SMOL  SMOL
+SK SPC   SPC
+SK SRO   Station Srobarova, Slovakia
+SK VYHS  Station Vyhne, Slovakia
+SK ZST   Station Zelezna Studnicka, Slovakia
+SX NEUB  ULEIPZIG Station Neuenburg, Germany
+SX TANN  ULEIPZIG Station Tannenbergsthal, Germany
+SX WIMM  ULEIPZIG Station Wimmelburg, Germany
+TT TAMR  Station Tamra, Tunisia
+TT TATN  Station Tataouine, Tunisia
+TT THTN  Station Thala, Tunisia
+WM AVE   ROA/UCM/GEOFON Station Averroes, Morocco
+WM CART  ROA/UCM/GEOFON Station Cartagena, Spain
+WM MAHO  ROA/UCM/GEOFON Station Mahon, Menorca, Spain
+WM SFS   ROA/UCM/GEOFON Station San Fernando, Spain
+WM TIO   ROA/UCM/GEOFON Station Tiouine, Morocco
+YU ALTN  ALTN
+YU CFTB  CFTB
+YU ENGR  ENGR
+YU ESNK  ESNK
+YU FSTK  FSTK
+YU ILYS  ILYS
+YU KRNA  KRNA
+YU KRSK  KRSK
+YU ORHG  ORHG
+YU SFRN  SFRN
+YU SNTZ  SNTZ
+YU TRML  TRML
+YU TSVK  TSVK
+YU ZYBG  ZYBG
+YZ CAMPI CAMPI

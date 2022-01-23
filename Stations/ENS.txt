@@ -1,0 +1,36 @@
+CL MG04  MG04
+CL MG05  MG05
+CL MG06  MG06
+CL MG07  MG07
+CL MG00  Magoula Dorida, Central Greece, Greece
+HA KALE  Kalithea, Dorida, Central Greece, Greece
+CL MG02  MG02
+CL MG03  MG03
+HP DID   Didima, Greece
+CL AGRP  Agrapidokambos, Nafpaktia, West Greece, Greece
+CL AGEO  Agios Giorgios, Aigialia, West Greece, Greece
+HP DSF   Desfina, Greece
+CL HELI  Heliki, Aigialia, West Greece, Greece
+HP SERG  Sergoula, Dorida, Central Greece, Greece
+HP EFP   Efpalio, Nafpaktos, Greece
+CL TEME  Temeni, Aigialia, West Greece, Greece
+HP VVK   Vomvokou
+CL AIOA  Agios Ioannis, Aigialia, West Greece, Greece
+CL PYRG  Pyrgos, Dorida, Central Greece, Greece
+HP PVO   Paravola, Nafpaktos, Greece
+CL MALA  Malamata, Dorida, Central Greece, Greece
+CL PANR  Panormos, Dorida, Central Greece, Greece
+CL TRIE  TRIE
+CL DIMT  Dimitropoulo, Aigialia, West Greece, Greece
+CL TRIZ  Trizonia, Dorida, Central Greece, Greece
+CL ZIRI  Ziria, Aigialia, West Greece, Greece
+HP UPR   UPR
+CL ALIK  Aliki, Aigialia, West Greece, Greece
+HP GUR   Gura, Greece
+HA LAKA  Lakka, Aigion, Greece
+CL PSAR  Psaromita, Dorida, Central Greece, Greece
+CL RIZA  RIZA
+CL PSAM  PSAM
+CL ROD3  Rodini, Patras, West Greece, Greece
+HP ANX   Ano Hora, Nafpaktos, Greece
+HA TRAZ  Trapeza, Greece

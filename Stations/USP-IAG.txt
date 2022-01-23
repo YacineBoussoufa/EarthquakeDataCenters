@@ -1,0 +1,60 @@
+ON ABR01 Abrolhos, BA
+NB NBAN  Anadia, AL
+NB NBCA  Caruaru, PE
+NB NBCL  Cascavel, CE
+NB NBLA  Lagarto, SE
+NB NBLV  Livramento, PB
+NB NBPB  Pedra Branca, CE
+BL ITAB  Ita, SC
+BR SGC2  S.o Gabriel da Cachoeira, AM
+BL PARB  Paraibuna, SP
+BR TEFE  Tefe, AM
+BL PTGB  Pitanga, PR
+BR TBTG  Tabatinga, AM
+BL CNLB  Canela, RS
+BL CPSB  Cacapava do Sul, RS
+BL BB19B Bebedouro 19, SP
+BR ETMB  Extrema, RO
+BL PEXB  Peixes, TO
+BL ARCA  Aracuai, MG
+BL CDSB  FAZ RANCHO IDEAL - CHAPADAO DO SUL - MS
+BR BOAV  Boa Vista, RR
+BL C2SB  Chapadao do Sul, MS
+BR SNDB  Serra Nova Dourada, MT
+BR PTLB  Pontes e Lacerda, MT
+BR PDRB  PT Gauchos, MT
+BL BSFB  Barra do Sao Francisco, ES
+BL TRCB  Terra Rica, PR
+BL ITQB  Itaqui, RS
+BR MCPB  Macapa, AP
+BL PMNB  Patos de Minas, MG
+BL FRTB  Fartura, SP
+BR NPGB  Novo Progresso, PA
+BR SALV  Santo Antonio do Leverger, MT
+BL RCLB  Rio Claro, SP
+BR LABB  Labrea, AM
+BR VILB  Vilhena, RO
+BR MAL2  Monte Alegre, PA
+BL AQDB  Aquidauana, MS
+BR MACA  Manacapuru, AM
+BL COIM  Forte Coimbra, MS
+BR SDBA  Sao Desiderio, BA
+BL SJMB  Sao Joao de Manteninha, MG
+BR SMTB  Santa Maria do Tocantins, TO
+BR MC01  Montes Claros, Brazil
+BL DIAM  Diamantina, MG
+BR PRPB  Parauapebas, PA
+BR IPMB  Ipameri, GO
+BL PLTB  Pelotas/PedrasAltas, RS
+BL CLDB  Colider, MT
+BL ESAR  Angra dos Reis, RJ
+BL VABB  Valinhos, SP
+BR ITTB  Itaituba, PA
+BR ROSB  Rosario, MA
+BR TMAB  Tome-Acu,PA
+BL BSCB  Bom Sucesso, MG
+BR JANB  Januaria, MG
+BR CZSB  Cruzeiro do Sul, AC
+BL PCMB  Pacaembu, SP
+BL ITRB  Iturama, MG
+BR ARAG  Araguaiana, MT

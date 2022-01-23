@@ -1,0 +1,6670 @@
+1E BCH1A 1E Station
+1E BCH2A 1E Station
+1E BCH2B 1E Station
+1E MONT4 1E Station
+1E MONT5 1E Station
+1E MONT7 1E Station
+1E MONT8 1E Station
+1T MTSB  MTSB
+1T PMZI  PMZI
+2O BTL01 2O Station
+2O BTL02 2O Station
+2O BTL03 2O Station
+2O BTL04 2O Station
+2O BTL05 2O Station
+2O BTL07 2O Station
+2O BTL08 2O Station
+4F VALP  4F Station
+4F VBB1  4F Station
+4F VMCM  4F Station
+4F VNLC  4F Station
+4F VPCC  4F Station
+4F VSAB  4F Station
+4O DB02  Diamondback UB0002
+4O DB03  Diamondback UB0003
+4O DB04  Diamondback UB0004
+4O LWM1  Layne Water Midstream 1
+4O MBBB1 MBBB1
+4O MID02 DiamondBack Midland 02
+4O PR01  Schlumberger 1
+4O SA02  Saturn HM Philips State 94 Lease
+4O SA04  Saturn Double C SWD Lease
+4O SA06  Saturn I Take It All C SWD
+4O WB01  Salt Mine 1
+4T EL01  4T Station
+4T EL01  Ellington AFB
+4T EL02  Ellington AFB
+4T EL03  4T Station
+4T EL03  Ellington AFB
+4T EL08  Ellington AFB
+4T FMR1  4T Station
+4T FMR1  JFB Heard 1 Well
+4T FMR2  4T Station
+4T FMR2  JFB heard 1 Well
+4T FMR3  4T Station
+4T FMR3  JFB Heard 1 Well
+4T FMR4  4T Station
+4T FMR4  SAGE4
+4T NM01  4T Station
+4T NM01  WSW of Eunice,  NM
+4T NM02  4T Station
+4T NM02  Loving,  NM
+4T NM03  4T Station
+4T NM03  WNW of Eunice, NM
+8C CI18  8C Station
+8C CI19  8C Station
+8C CI20  8C Station
+AC BCI   AC Station
+AC KBN   AC Station
+AC LSK   AC Station
+AC PHP   AC Station
+AC PUK   AC Station
+AC SRN   AC Station
+AC VLO   AC Station
+AE 113A  AE Station
+AE 214A  AE Station
+AE BARN  AE Station
+AE DUN6  AE Station
+AE HANNA AE Station
+AE PRCT  AE Station
+AE TONTO AE Station
+AE U15A  AE Station
+AE W13A  AE Station
+AE W18A  AE Station
+AE X18A  AE Station
+AE Y14A  AE Station
+AF ALKP  AF Station
+AF GRHM  AF Station
+AF POGA  AF Station
+AF WIN   AF Station
+AG CCAR  AG Station
+AG FCAR  AG Station
+AG HHAR  AG Station
+AG LCAR  AG Station
+AG U40A  AG Station
+AG WHAR  AG Station
+AG WLAR  AG Station
+AG X40A  AG Station
+AG XA01  AG Station
+AG XB02  AG Station
+AG Z41A  AG Station
+AI BELA  AI Station
+AI BELA  Station
+AI ESPZ  AI Station
+AI ESPZ  Station
+AI JUBA  AI Station
+AI JUBA  Station
+AI MBIO  Station
+AI ORCD  AI Station
+AI ORCD  Station
+AK A21K  AK Station
+AK ANM   AK Station
+AK ATKA  AK Station
+AK B18K  AK Station
+AK BAE   AK Station
+AK BARN  AK Station
+AK BAT   AK Station
+AK BESE  AK Station
+AK BGLC  AK Station
+AK BMR   AK Station
+AK BPAW  AK Station
+AK BRLK  AK Station
+AK CAPN  AK Station
+AK CAST  AK Station
+AK CCB   AK Station
+AK CDVT  AK Station
+AK CHN   AK Station
+AK CHUM  AK Station
+AK CNP   AK Station
+AK COLD  AK Station
+AK CRQ   AK Station
+AK CUT   AK Station
+AK CYK   AK Station
+AK D17K  AK Station
+AK D22K  AK Station
+AK DAM2  AK Station
+AK DHY   AK Station
+AK DIV   AK Station
+AK DOT   AK Station
+AK E22K  AK Station
+AK E24K  AK Station
+AK ER01  AK Station
+AK ER02  AK Station
+AK ER03  AK Station
+AK ER04  AK Station
+AK EYAK  AK Station
+AK F20K  AK Station
+AK FA01  AK Station
+AK FA05  AK Station
+AK FA06  AK Station
+AK FA07  AK Station
+AK FA09  AK Station
+AK FA10  AK Station
+AK FA11  AK Station
+AK FA12  AK Station
+AK FALS  AK Station
+AK FIRE  AK Station
+AK G24K  AK Station
+AK GAMB  AK Station
+AK GCSA  AK Station
+AK GHO   AK Station
+AK GLB   AK Station
+AK GLI   AK Station
+AK GOAT  AK Station
+AK GREN  AK Station
+AK GRES  AK Station
+AK GRNC  AK Station
+AK H16K  AK Station
+AK H17K  AK Station
+AK H20K  AK Station
+AK H21K  AK Station
+AK H24K  AK Station
+AK HARP  AK Station
+AK HDA   AK Station
+AK HIN   AK Station
+AK HOM   AK Station
+AK I23K  AK Station
+AK I27K  AK Station
+AK J17K  AK Station
+AK J19K  AK Station
+AK J20K  AK Station
+AK J25K  AK Station
+AK J26L  AK Station
+AK JIS   AK Station
+AK K13K  AK Station
+AK K15K  AK Station
+AK K204  AK Station
+AK K205  AK Station
+AK K208  AK Station
+AK K209  AK Station
+AK K20K  AK Station
+AK K210  AK Station
+AK K212  AK Station
+AK K213  AK Station
+AK K214  AK Station
+AK K215  AK Station
+AK K216  AK Station
+AK K217  AK Station
+AK K218  AK Station
+AK K220  AK Station
+AK K223  AK Station
+AK K24K  AK Station
+AK KAI   AK Station
+AK KHIT  AK Station
+AK KIAG  AK Station
+AK KLU   AK Station
+AK KNK   AK Station
+AK KTH   AK Station
+AK L17K  AK Station
+AK L18K  AK Station
+AK L20K  AK Station
+AK L22K  AK Station
+AK L26K  AK Station
+AK LOGN  AK Station
+AK M11K  AK Station
+AK M14K  AK Station
+AK M16K  AK Station
+AK M20K  AK Station
+AK M23K  AK Station
+AK M26K  AK Station
+AK M27K  AK Station
+AK MCAR  AK Station
+AK MCK   AK Station
+AK MESA  AK Station
+AK MS01  AK Station
+AK MS02  AK Station
+AK MS03  AK Station
+AK N15K  AK Station
+AK N18K  AK Station
+AK N19K  AK Station
+AK NEA2  AK Station
+AK NICH  AK Station
+AK NIKH  AK Station
+AK NIKI  AK Station
+AK O14K  AK Station
+AK O18K  AK Station
+AK O19K  AK Station
+AK O20K  AK Station
+AK P08K  AK Station
+AK P16K  AK Station
+AK P17K  AK Station
+AK P23K  AK Station
+AK PAX   AK Station
+AK PIN   AK Station
+AK PNL   AK Station
+AK POKR  AK Station
+AK PS01  AK Station
+AK PS04  AK Station
+AK PS05  AK Station
+AK PS06  AK Station
+AK PS07  AK Station
+AK PS08  AK Station
+AK PS09  AK Station
+AK PS10  AK Station
+AK PS11  AK Station
+AK PS12  AK Station
+AK PTPK  AK Station
+AK Q19K  AK Station
+AK Q23K  AK Station
+AK R16K  AK Station
+AK R32K  AK Station
+AK RAG   AK Station
+AK RC01  AK Station
+AK RDOG  AK Station
+AK RKAV  AK Station
+AK RND   AK Station
+AK S15K  AK Station
+AK S31K  AK Station
+AK S32K  AK Station
+AK SAMH  AK Station
+AK SAW   AK Station
+AK SCM   AK Station
+AK SCRK  AK Station
+AK SKN   AK Station
+AK SLK   AK Station
+AK SSN   AK Station
+AK SUCK  AK Station
+AK SWD   AK Station
+AK TGL   AK Station
+AK TOLK  AK Station
+AK UNV   AK Station
+AK V35K  AK Station
+AK VMT   AK Station
+AK VRDI  AK Station
+AK WAT1  AK Station
+AK WAT6  AK Station
+AK WAT7  AK Station
+AK WRH   AK Station
+AM R00C9 AM station
+AM R0C83 AM station
+AM R0CC5 R0CC5
+AM R0D66 AM station
+AM R0E05 AM station
+AM R0FCE RapiShakeBoom
+AM R1029 AM station
+AM R1235 AM Station
+AM R1388 1o Peiramatiko Sxoleio Giannena
+AM R15EA AM station
+AM R1719 Raspberry Shake
+AM R17FF AM station
+AM R1822 Mousiko Sxoleio Chaniwn
+AM R1906 RapiShake3D
+AM R1B7A AM station
+AM R1C6C Fioliths, Zakynthos
+AM R1EE2 R1EE2
+AM R2AE3 Botevgrad, Bulgary
+AM R2F0C AM station
+AM R3397 Raspberry Shake
+AM R3F8A AM station
+AM R402B AM station
+AM R4043 Stara Zagora, Bulgary
+AM R42BE AM station
+AM R47FB AM station
+AM R49B6 Raspberry Shake
+AM R4BB0 AM station
+AM R4BE2 Perifereiako Sxoleio Giolou, Cyprus
+AM R4DA4 Ruse, Bulgary
+AM R4EB6 Institute of Geodynamics, National Observatory of Athens
+AM R4ECA Pernik, Bulgary
+AM R4F38 1o Gymnasio Vrilissiwn
+AM R4FD1 AM station
+AM R50D4 Raspberry Shake
+AM R52CE Izmir Ozel Turk College
+AM R5730 American Academy, Larnaka
+AM R58D3 AM station
+AM R595E Raspberry Shake
+AM R5E47 AM station
+AM R5F5C AM station
+AM R6080 Istituto Superiore Marconi, Vairano, Patenora, CE, Italy
+AM R61A8 AM station
+AM R626B AM station
+AM R62B3 1o Gel Ko \Ipokrateio"
+AM R63E3 AM Station
+AM R65C7 AM Station
+AM R6E48 High School of Teaching Foreign Languages, Smolyan, Bulgaria
+AM R6F1A Liceo Albert Einstein, Torino, Italy
+AM R722D Language School Academic, Blagoevgrad, Bulgaria
+AM R796E AM station
+AM R7988 Izmir Istek Schools
+AM R7D09 AM station
+AM R7ECC AM station
+AM R8226 AM station
+AM R866C AM station
+AM R875A AM station
+AM R897D saddsa
+AM R8BB5 AM station
+AM R8EFE Raspberry Shake
+AM R9928 AM Station
+AM R9AC0 Gymnasio Moudrou, Limnos
+AM R9AC7 Gaziantep TED College
+AM R9C8C AM Station
+AM R9D92 AM station
+AM RA3C3 AM station
+AM RA406 AM station
+AM RA4CA 1o Gymnasio Kerkyras
+AM RA4F7 Gymasio Egkomis, Cyprus
+AM RA5F6 AM station
+AM RA657 AM station
+AM RA70D AM station
+AM RA7D0 Raspberry Shake
+AM RA887 Raspberry Shake
+AM RA899 AM station
+AM RAA21 Raspberry Shake
+AM RAC91 7o Gymnasio Trikalwn
+AM RAE55 RAE55
+AM RB0CA AM station
+AM RB0F0 AM Station
+AM RB7D7 AM station
+AM RB822 Izmir, Turkey
+AM RBA9C AM station
+AM RBBBF Liceo Scientifico Arturo Labriola, Naples, Italy
+AM RC574 4o Gymnasio Lagkada, Lykeiakes Takseis
+AM RC5E7 AM station
+AM RC628 AM station
+AM RCE1F Raspberry Shake
+AM RD014 AM station
+AM RD269 Raspberry Shake
+AM RD2E2 AM station
+AM RD4DB AM station
+AM RD596 Sofia, Bulgary
+AM RDAB6 AM station
+AM RE002 AM station
+AM RE7D0 saddsa
+AM RE950 Gymnasio Diapolitismikhs Ekpaideushs Sapwn
+AM REF37 Raspberry Shake
+AM REFD9 AM station
+AM RF201 Gymnasio Aposotlou Pavlou, Pafos, Cyprus
+AM RF248 AM station
+AM RF25A Ekpaideuthria Panou, Nafpaktos
+AM RF3F9 AM station
+AM RF463 B Dhmotiko Sxoleio Liopetriou, Cyprus
+AM RF6E7 Raspberry Shake
+AM RF765 AM station
+AM RF7FF Lykeio Polemidiwn, Cyprus
+AM RFE79 AM station
+AM VTON  AM station
+AN BRCR  Berchikul, Kuzbass, Russia
+AN DGZ   Jazzator, Altay Republic, Russia
+AN KNGR  Kungurtug, Tuva Republic, Russia
+AN LUZB  Luzhba, Kuzbass, Russia
+AN NVS   Novosibirsk, NSO, Russia
+AP PVFF  AP Station
+AR CCAZ  AR Station
+AR FLAG  AR Station
+AR GCAZ  AR Station
+AR PGAZ  AR Station
+AR SMAZ  AR Station
+AR TSAZ  AR Station
+AR WMZ   AR Station
+AT AKUT  AT Station
+AT CHGN  AT Station
+AT CRAG  AT Station
+AT MENT  AT Station
+AT PMR   AT Station
+AT SDPT  AT Station
+AT SIT   AT Station
+AT SKAG  AT Station
+AT SMY   AT Station
+AT TTA   AT Station
+AU ARMA  AU Station
+AU ARPS  AU Station
+AU AS01  AU Station
+AU AS02  AU Station
+AU AS03  AU Station
+AU AS04  AU Station
+AU AS05  AU Station
+AU AS06  AU Station
+AU AS07  AU Station
+AU AS08  AU Station
+AU AS09  AU Station
+AU AS10  AU Station
+AU AS11  AU Station
+AU AS12  AU Station
+AU AS13  AU Station
+AU AS14  AU Station
+AU AS15  AU Station
+AU AS16  AU Station
+AU AS17  AU Station
+AU AS18  AU Station
+AU AS19  AU Station
+AU AS31  AU Station
+AU BBOO  AU Station
+AU BCON  AU Station
+AU BLDU  AU Station
+AU BMEBF AU Station
+AU BN2S  AU Station
+AU BRAT  AU Station
+AU BW1H  AU Station
+AU BW2S  AU Station
+AU CAAN  AU Station
+AU CARL  AU Station
+AU CMSA  AU Station
+AU CN1H  AU Station
+AU CN2S  AU Station
+AU CNB   AU Station
+AU COOLG AU Station
+AU CORO  AU Station
+AU CTA   AU Station
+AU DLN   AU Station
+AU DNDOZ AU Station
+AU DPH   AU Station
+AU DRS   AU Station
+AU EIDS  AU Station
+AU FITZ  AU Station
+AU FITZ  Fitzroy Crossing, Western Australia
+AU FORT  AU Station
+AU GC1S  AU Station
+AU GC2F  AU Station
+AU GD1S  AU Station
+AU GEXS  AU Station
+AU GHSS  AU Station
+AU GIRL  AU Station
+AU GIRL  Giralia, WA
+AU GLAD  AU Station
+AU GVL   AU Station
+AU H01W1 AU Station
+AU H01W2 AU Station
+AU H01W3 AU Station
+AU HTT   AU Station
+AU I03C1 AU Station
+AU I03C2 AU Station
+AU I03C3 AU Station
+AU I03C4 AU Station
+AU I03C5 AU Station
+AU I03C6 AU Station
+AU I03C7 AU Station
+AU I03H1 AU Station
+AU I03H2 AU Station
+AU I03H3 AU Station
+AU I03H4 AU Station
+AU I03H5 AU Station
+AU I03H6 AU Station
+AU I03H7 AU Station
+AU I03M1 AU Station
+AU I04H1 AU Station
+AU I04H2 AU Station
+AU I04H3 AU Station
+AU I04H4 AU Station
+AU I04H5 AU Station
+AU I04H6 AU Station
+AU I04H7 AU Station
+AU I04M4 AU Station
+AU I05H1 AU Station
+AU I05H2 AU Station
+AU I05H3 AU Station
+AU I05H4 AU Station
+AU I05H6 AU Station
+AU I05H7 AU Station
+AU I05H8 AU Station
+AU I06H1 AU Station
+AU I06H2 AU Station
+AU I06H3 AU Station
+AU I06H4 AU Station
+AU I06H5 AU Station
+AU I06H6 AU Station
+AU I06H7 AU Station
+AU I06H8 AU Station
+AU I06M1 AU Station
+AU I07H1 AU Station
+AU I07H2 AU Station
+AU I07H3 AU Station
+AU I07H4 AU Station
+AU I07H5 AU Station
+AU I07H6 AU Station
+AU I07H7 AU Station
+AU I07H8 AU Station
+AU INKA  AU Station
+AU KDU   AU Station
+AU KELC  AU Station
+AU KIM01 AU Station
+AU KIM02 AU Station
+AU KIM03 AU Station
+AU KIM04 AU Station
+AU KIM05 AU Station
+AU KLBR  AU Station
+AU KNRA  AU Station
+AU KORDA AU Station
+AU LCRK  AU Station
+AU LHI   AU Station
+AU MABG  AU Station
+AU MANU  AU Station
+AU MANU  Manus Island, Papau New Guinea
+AU MAW   AU Station
+AU MCQ   AU Station
+AU MCQ   Macquarie Island, Australia
+AU MEEK  AU Station
+AU MENZ  AU Station
+AU MGBR  AU Station
+AU MGCD  AU Station
+AU MILA  AU Station
+AU MILA  Mila, NSW
+AU MLBS  AU Station
+AU MOO   AU Station
+AU MORW  AU Station
+AU MTKN  AU Station
+AU MTN   AU Station
+AU MTSU  AU Station
+AU MUN   AU Station
+AU NAPP  AU Station
+AU NFK   AU Station
+AU NIUE  Niue Island, Niue
+AU NTLH  AU Station
+AU NTLS  AU Station
+AU NWAO  AU Station
+AU OKDL  AU Station
+AU ONGER AU Station
+AU OOD   AU Station
+AU PHB   AU Station
+AU PTPS  AU Station
+AU QLP   AU Station
+AU RABL  AU Station
+AU RIV   AU Station
+AU RK1H  AU Station
+AU RK2S  AU Station
+AU RMQ   AU Station
+AU SDAN  AU Station
+AU STKA  AU Station
+AU TOO   AU Station
+AU TV1H  AU Station
+AU TV2S  AU Station
+AU TW1H  AU Station
+AU WATNG AU Station
+AU WB1   AU Station
+AU WB2   AU Station
+AU WB4   AU Station
+AU WB5   AU Station
+AU WB6   AU Station
+AU WB8   AU Station
+AU WB9   AU Station
+AU WC1   AU Station
+AU WC2   AU Station
+AU WC3   AU Station
+AU WC4   AU Station
+AU WOLH  AU Station
+AU WR1   AU Station
+AU WR10  AU Station
+AU WR2   AU Station
+AU WR3   AU Station
+AU WR5   AU Station
+AU WR6   AU Station
+AU WR7   AU Station
+AU WR8   AU Station
+AU WRKA  AU Station
+AU WTPK  AU Station
+AU XMI   AU Station
+AU XMI   Christmas Island Airport, Australia
+AU YAPP  AU Station
+AU YARR  AU Station
+AU YNG   AU Station
+AV ADAG  AV Station
+AV ADKI  AV Station
+AV AHB   AV Station
+AV AKBB  AV Station
+AV AKGG  AV Station
+AV AKHS  AV Station
+AV AKLV  AV Station
+AV AKMO  AV Station
+AV AKRB  AV Station
+AV AKS   AV Station
+AV AKV   AV Station
+AV AMKA  AV Station
+AV ANNE  AV Station
+AV ANNW  AV Station
+AV ANON  AV Station
+AV ANPB  AV Station
+AV ANPK  AV Station
+AV AU22  AV Station
+AV AUCH  AV Station
+AV AUJA  AV Station
+AV AUJK  AV Station
+AV AUL   AV Station
+AV AULG  AV Station
+AV AUNO  AV Station
+AV AUSB  AV Station
+AV AUW   AV Station
+AV AUWS  AV Station
+AV AZAC  AV Station
+AV BPBC  AV Station
+AV CEAP  AV Station
+AV CEPE  AV Station
+AV CERA  AV Station
+AV CERB  AV Station
+AV CESW  AV Station
+AV CETU  AV Station
+AV CLCO  AV Station
+AV CLCO1 AV Station
+AV CLCO2 AV Station
+AV CLCO3 AV Station
+AV CLCO4 AV Station
+AV CLCO5 AV Station
+AV CLES  AV Station
+AV CLES1 AV Station
+AV DEER  AV Station
+AV DLL   AV Station
+AV DT1   AV Station
+AV DTN   AV Station
+AV ETKA  AV Station
+AV GAEA  AV Station
+AV GAKI  AV Station
+AV GALA  AV Station
+AV GANE  AV Station
+AV GANO  AV Station
+AV GASW  AV Station
+AV GSCK  AV Station
+AV GSIG  AV Station
+AV GSMY  AV Station
+AV GSSP  AV Station
+AV GSTR  AV Station
+AV ILCB  AV Station
+AV ILLG  AV Station
+AV ILNE  AV Station
+AV ILS   AV Station
+AV ILSW  AV Station
+AV ISLZ  AV Station
+AV IVE   AV Station
+AV KENI  AV Station
+AV KICM  AV Station
+AV KIKV  AV Station
+AV KIMD  AV Station
+AV KINC  AV Station
+AV KIRH  AV Station
+AV KIWB  AV Station
+AV KOFP  AV Station
+AV KOKL  AV Station
+AV KOKV  AV Station
+AV KONE  AV Station
+AV KONW  AV Station
+AV KOSE  AV Station
+AV KOWE  AV Station
+AV LSNW  AV Station
+AV LSPA  AV Station
+AV LSSA  AV Station
+AV LSSE  AV Station
+AV LVA   AV Station
+AV MAPS  AV Station
+AV MGOD  AV Station
+AV MNAT  AV Station
+AV MREP  AV Station
+AV MSW   AV Station
+AV MTBL  AV Station
+AV N25K  AV Station
+AV NCT   AV Station
+AV OKER  AV Station
+AV OKFG  AV Station
+AV OKNO  AV Station
+AV OKSP  AV Station
+AV OKTU  AV Station
+AV P18K  AV Station
+AV P19K  AV Station
+AV PN7A  AV Station
+AV PV6A  AV Station
+AV Q20K  AV Station
+AV RDDF  AV Station
+AV RDJH  AV Station
+AV RDSO  AV Station
+AV RDT   AV Station
+AV RDWB  AV Station
+AV RED   AV Station
+AV REF   AV Station
+AV SDPI  AV Station
+AV SPCP  AV Station
+AV STLK  AV Station
+AV TAFL  AV Station
+AV TAFP  AV Station
+AV TANO  AV Station
+AV TAPA  AV Station
+AV TASE  AV Station
+AV TASO  AV Station
+AV VNFG  AV Station
+AV VNHG  AV Station
+AV VNKR  AV Station
+AV VNNF  AV Station
+AV VNSG  AV Station
+AV VNSS  AV Station
+AV VNSW  AV Station
+AV VNWF  AV Station
+AV WACK  AV Station
+AV WASW  AV Station
+AV WECS  AV Station
+AV WESE  AV Station
+AV WESP  AV Station
+AV WHTR  AV Station
+AV ZRO   AV Station
+AW VNA1  Station Neumayer OBS, Antarctica
+AW VNA2  Station Neumayer Watz-Array Centre, Antarctica
+AW VNA3  Station Neumayer Olymp, Antarctica
+AW VNAA1 Station Neumayer Watz-Array A1, Antarctica
+AW VNAA2 Station Neumayer Watz-Array A2, Antarctica
+AW VNAA3 Station Neumayer Watz-Array A3, Antarctica
+AW VNAB1 Station Neumayer Watz-Array B1, Antarctica
+AW VNAB2 Station Neumayer Watz-Array B2, Antarctica
+AW VNAB3 Station Neumayer Watz-Array B3, Antarctica
+AW VNAB4 Station Neumayer Watz-Array B4, Antarctica
+AW VNAB5 Station Neumayer Watz-Array B5, Antarctica
+AW VNAC1 Station Neumayer Watz-Array C1, Antarctica
+AW VNAC2 Station Neumayer Watz-Array C2, Antarctica
+AW VNAC3 Station Neumayer Watz-Array C3, Antarctica
+AW VNAC4 Station Neumayer Watz-Array C4, Antarctica
+AW VNAC5 Station Neumayer Watz-Array C5, Antarctica
+AW VNAC6 Station Neumayer Watz-Array C6, Antarctica
+AW VNAC7 Station Neumayer Watz-Array C7, Antarctica
+AY HINH  Hinche, NA
+AZ BSAP  AZ Station
+AZ CRY   AZ Station
+AZ GARR  AZ Station
+AZ HSSP  AZ Station
+AZ KNW   AZ Station
+AZ LVA2  AZ Station
+AZ PFO   AZ Station
+AZ RDM   AZ Station
+AZ SETM  AZ Station
+AZ SGBF  AZ Station
+AZ SIO5  AZ Station
+AZ SMER  AZ Station
+AZ SND   AZ Station
+AZ TONN  AZ Station
+AZ TRAN  AZ Station
+AZ TRO   AZ Station
+AZ TUBB  AZ Station
+AZ USGCB AZ Station
+BC CCX   BC Station
+BC CPX   BC Station
+BC GUVIX BC Station
+BC PIX   BC Station
+BC RMX   BC Station
+BC SFX   BC Station
+BC SJX   BC Station
+BC SLRCX BC Station
+BC TJX   BC Station
+BC TKX   BC Station
+BC VTX   BC Station
+BE BEBN  Eben-Emael, Belgium
+BE BOST  Oostende, Belgium
+BE MEM   BE Station
+BE MEM   Membach, Belgium
+BE RCHB  BE Station
+BE RCHB  Rochefort, Belgium
+BE UCC   BE Station
+BE UCC   Uccle, Brussels, Belgium
+BK MCCM  BK Station
+BK SAO   BK Station
+BL APOB  FAZENDA SAO GERONIMO - APORE - GO
+BL APOB2 FAZENDA SAO JOAO - APORE - GO
+BL AQDA  AQUIDAUANA - MS
+BL AQDB  Aquidauana, MS
+BL ARCA  Aracuai, MG
+BL AREB  AREADO - MG
+BL BAMB  BAMBUI - MG
+BL BB15B FAZENDA CINTIA - BB - BEBEDOURO - SP
+BL BB16B SITIO JOVAL - BB - BEBEDOURO - SP
+BL BB19B Bebedouro 19, SP
+BL BB22B Bebedouro 22, SP
+BL BEB   BELEM - PA
+BL BEB1  SITIO STO ANTONIO - BEBEDOURO - SP
+BL BEB10 FAZENDA SANTA ZULMIRA - BEBEDOURO - SP
+BL BEB11 ESTANCIA DOURADA - ANDES - SP
+BL BEB12 ESTANCIA MONIDENI - BEBEDOURO - SP
+BL BEB13 FAZENDA RIO TURVO - BEBEDOURO - SP
+BL BEB14 SITIO PALMEIRAS - BEBEDOURO - SP
+BL BEB15 FAZENDA CINTIA  BEBEDOURO - SP
+BL BEB16 SITIO JOVAL -  BEBEDOURO - SP
+BL BEB17 SITIO SAO LEOPOLDO - BEBEDOURO - SP
+BL BEB18 SITIO SAO PEDRO - BEBEDOURO - SP
+BL BEB19 FAZENDA SANTA ZULMIRA - BEBEDOURO - SP
+BL BEB2  FAZENDA SAO LUIZ -  BEBEDOURO - SP
+BL BEB20 FAZENDA VERANEIO - BEBEDOURO - SP
+BL BEB21 SITIO SAO LEOPOLDO - BEBEDOURO - SP
+BL BEB22 FAZENDA VERANEIO - BEBEDOURO - SP
+BL BEB3  SITIO SAO FRANCISCO - BEBEDOURO -SP
+BL BEB4  ESTANCIA DOURADA - BEBEDOURO - SP
+BL BEB4A ESTANCIA DOURADA - BEBEDOURO - SP
+BL BEB4B SITIO SANTA TEREZINHA - TAIACU - SP
+BL BEB6  FAZENDA SAO GERALDO -  BEBEDOURO - SP
+BL BEB7  FAZENDA STO ANTONIO
+BL BEB8  FAZENDA VERANEIO - BEBEDOURO - SP
+BL BEB9  FAZENDA STA BARBARA
+BL BEB9A FAZENDA SANTA BARBARA - BEBEDOURO - SP
+BL BEB9B FAZENDA SANTA BARBARA - BEBEDOURO - SP
+BL BESB  BOA ESPERANCA - PI
+BL BSCB  Bom Sucesso, MG
+BL BSFB  Barra do Sao Francisco, ES
+BL C2SB  Chapadao do Sul, MS
+BL CAMB  Estacao CAMB, BLSP-Net
+BL CANB  ITAMBARACA - PR
+BL CANS  Sao Roque de Minas, MG
+BL CAUB  CARUARU - PE
+BL CCUB  CACU - GO
+BL CDSB  FAZ RANCHO IDEAL - CHAPADAO DO SUL - MS
+BL CLDB  Colider, MT
+BL CNLB  Canela, RS
+BL COIM  Forte Coimbra, MS
+BL COR2  CALDAS NOVAS - GO
+BL CORB  CALDAS NOVAS - GO
+BL CPSB  Cacapava do Sul, RS
+BL CRJB  CARAJAS-PA
+BL CRTA  CORRENTINA - BA
+BL CRTB  CORRENTINA, BA
+BL CS6B  JAGUARETAMA - CE
+BL DIAM  Diamantina, MG
+BL ESAR  Angra dos Reis, RJ
+BL FRTB  Fartura, SP
+BL GNSA  GOIANESIA - GO
+BL GNSB  GOIANESIA - GO
+BL IBTB  Ibaiti, PR
+BL IGAB  IGARATA - SP
+BL IGCB  IGARAPEACU-PA
+BL IPNA  IPERUNA - SP
+BL ITAB  Ita, SC
+BL ITPB  ITAPEBI-BA
+BL ITQB  Itaqui, RS
+BL ITRB  Iturama, MG
+BL JATB  JATAI - GO
+BL JNRB  JANUARIA - MG
+BL JUQB  JUQUIA - SAO PAULO
+BL MAP01 FAZENDA MODERNA - MONTE AZUL PAULISTA - SP
+BL MARB  Manoel Ribas, PR
+BL MCI6  Montes Claros 6, MG (Fzda Jeca Tatu)
+BL MCI7  Montes Claros 7, MG (Exercito)
+BL MCI8  Montes Claros 8, MG (Fzda Vitoria)
+BL MCI9  Montes Claros 9, MG (Fzda MClaros)
+BL NOVB  NOVA VENEZA-SC
+BL NUPA  NUPORANGA - SP
+BL NUPB  NUPORANGA - SP
+BL PACB  PACAEMBU - SP
+BL PARB  Paraibuna, SP
+BL PAZB  ARUANA - GO
+BL PCBA  PIRACICABA - SP
+BL PCMB  Pacaembu, SP
+BL PDCB  PEDRA DO CAVALO - BA
+BL PEXB  Peixes, TO
+BL PLTB  Pelotas/PedrasAltas, RS
+BL PMNA  PATO DE MINAS - MG
+BL PMNB  BL Station
+BL PMNB  Patos de Minas, MG
+BL POPB  PORTO PRIMAVERA - SP
+BL PORB  PORANGATU - GO
+BL PP1A  USINA PONTE DE PEDRA - SONORA - MS
+BL PP1B  Sonora, MS
+BL PRCB  PARACATU - MG
+BL PTGB  Pitanga, PR
+BL PTMB  PORTO MURTINHO - MS
+BL RCLB  Rio Claro, SP
+BL ROIB  Rosario do Ivai, PR
+BL SICB  Siqueira Campos, PR
+BL SJI1  Urupes, SP
+BL SJMB  Sao Joao de Manteninha, MG
+BL SLMB  SAO LUIS DE MONTES BELOS - GO
+BL SNVB  SERRA DO NAVIO-AP
+BL STMB  SANTAREM-PA
+BL TLMB  Telemaco Borba, PR
+BL TRCB  Terra Rica, PR
+BL TRIB  Ilha Solteira, SP
+BL TRMB  TRES MARIAS-MG
+BL TRSB  TERESINA-PI
+BL UNIA  UNAI - MG
+BL VABB  BL Station
+BL VABB  Valinhos, SP
+BL VAO   Valinhos, SP
+BR AGBLB Aguas Belas. PE
+BR ARAG  Araguaiana, MT
+BR BOAV  Boa Vista, RR
+BR CZSB  Cruzeiro do Sul, AC
+BR ETMB  Extrema, RO
+BR IPMB  Ipameri, GO
+BR ITTB  Itaituba, PA
+BR JAN7  Januaria, MG
+BR JANB  Januaria, MG
+BR LABB  Labrea, AM
+BR MACA  Manacapuru, AM
+BR MAL2  Monte Alegre, PA
+BR MALB  Monte Alegre, PA
+BR MC01  Montes Claros, Brazil
+BR MCPB  Macapa, AP
+BR NPGB  Novo Progresso, PA
+BR NTVD  Natividade, TO
+BR PDRB  PT Gauchos, MT
+BR PRPB  Parauapebas, PA
+BR PTLB  Pontes e Lacerda, MT
+BR ROSB  Rosario, MA
+BR SALB  Santo Antonio do Leverger, MT
+BR SALV  Santo Antonio do Leverger, MT
+BR SDBA  Sao Desiderio, BA
+BR SGC2  S.o Gabriel da Cachoeira, AM
+BR SGCB  S.o Gabriel da Cachoeira, AM
+BR SMTB  Santa Maria do Tocantins, TO
+BR SNDB  Serra Nova Dourada, MT
+BR TBTG  Tabatinga, AM
+BR TEFE  Tefe, AM
+BR TMAB  Tome-Acu,PA
+BR VILB  Vilhena, RO
+BS JMB   Jambol, Bulgaria, BDSN
+BS PLD   Plovdiv, Bulgaria, BDSN
+BS PRD   Provadia, Bulgaria, BDSN
+BS PSN   Preselentzi, Bulgaria, BDSN
+BV SOEP  BV Station
+BV SOEV  BV Station
+BW ALTM  Beilngries, Bavaria, BW-Net
+BW BE1   Monatshausen,Bernried, BW-Net
+BW BE2   Deixlfurt,Bernried, BW-Net
+BW BE3   Hoehenried,Bernried, BW-Net
+BW BE4   Bauerbach,Bernried, BW-Net
+BW BGDS  Salzbergwerk, Berchtesgaden
+BW BGLD  Berchtesgaden, Bavaria, BW-Net
+BW BHG   BadReichenhall, Bavaria, BW-Net
+BW BIB   Biburg, Scheune
+BW DHFO  Deisenhofen,Bavaria, BW-Net
+BW FFB1  FUR Borehole
+BW FFB2  Romy, Borehole
+BW FFB3  Romy, Borehole
+BW FURT  Furstenfeldbruck, Bavaria, BW-Net
+BW GELB  Gelbenholzen
+BW GRMB  Germannsberg
+BW HROE  Hohe Roehn, Bavaria, BW-Net
+BW KW1   Garching, Kirchweidach, BW-Net
+BW KW2   Harl4, Kirchweidach, BW-Net
+BW KW3   Brinbaum, Kirchweidach, BW-Net
+BW KW4   imWald, Kirchweidach, BW-Net
+BW LAEN  Laengenau, Bavaria, BW-Net
+BW MANZ  BW_Station_Manzenberg
+BW MANZ  Manzenberg, Bavaria, BW-Net
+BW MANZ  Manzenberg,Bavaria, BW-Net
+BW MGBB  Grossbuechelberg, Bavaria, BW-Net
+BW MGS01 GutWarnberg,MAGS1, BW-Net
+BW MGS02 Perlacher Forst, MAGS2, BW-Net
+BW MGS03 WaldPutzbrunn,MAGS2, BW-Net
+BW MGS04 Faistenhaar,MAGS2, BW-Net
+BW MGS05 WB-Strasslach, MAGS2, BW-Net
+BW MGSBH Taufkirchen, BH, MAGS2, BW-Net
+BW MHAI  Haid, Bavaria, BW-Net
+BW MKON  Konnersreuth, Bavaria, BW-Net
+BW MNH   LMU Sektion Geophysik, Theresienstrasse, Muenchen, Bavaria, BW-Net
+BW MROB  Rosenbuehl, Bavaria, BW-Net
+BW MSBB  Schoenbrunner, Bavaria, BW-Net
+BW MZEK  Zeckenberg, Bavaria, BW-Net
+BW NORI  Bissingen, Bavaria, BW-Net
+BW OBER  Oberstorf, Bavaria, BW-Net
+BW OBHA  Oberhaching, Unterhach, BW-Net
+BW PART  Partenkirchen, Bavaria, BW-Net
+BW PFORL RingLaser, PinonFlat, BW-Net
+BW RHAM  Hammer, Bavaria, BW-Net
+BW RJOB  BW_Station_Oberjochberg
+BW RJOB  Jochberg, Bavaria, BW-Net
+BW RJOB  Jochberg, Hochstaufen, BW-Net
+BW RLAS  RingLaser, Bavaria, BW-Net
+BW RMOA  Moar Alm, Bavaria, BW-Net
+BW RNHA  Neuhaus, Bavaria, BW-Net
+BW RNON  Nonn, Bavaria, BW-Net
+BW ROMY  RingLaser, Bavaria, BW-Net
+BW ROTZ  BW_Station_Rotzenmuehle
+BW ROTZ  Rotzenmuehle, Bavaria, BW-Net
+BW ROTZ  Rotzenmuhle,Bavaria, BW-Net
+BW RTAK  Arz Kasten, Bavaria, BW-Net
+BW RTBE  Buergeleck, Bavaria, BW-Net
+BW RTBM  Bartlmahd, Bavaria, BW-Net
+BW RTEA  Eckarts Alm, Bavaria, BW-Net
+BW RTFA  Falkenstein, Bavaria, BW-Net
+BW RTKA  Koch Alm, Bavaria, BW-Net
+BW RTLI  List See, Bavaria, BW-Net
+BW RTPA  Padinger Alm, Bavaria, BW-Net
+BW RTPI  Piding, Bavaria, BW-Net
+BW RTSA  Steiner Alm, Bavaria, BW-Net
+BW RTSH  Staufenhaus, Bavaria, BW-Net
+BW RTSL  See Leiten, Bavaria, BW-Net
+BW RTSP  Sieben Palven, Bavaria, BW-Net
+BW RTSW  Schneewinkel, Bavaria, BW-Net
+BW RTVS  Voderstaufen, Bavaria, BW-Net
+BW RTZA  Zwiesel Alm, Bavaria, BW-Net
+BW RWMO  Wildenmoos, Bavaria, BW-Net
+BW SCE   Schlegeis, Tirolia, BW-Net
+BW SYBAD Schyrenbad, BH, SWM, BW-Net
+BW TON   Wasserbehaelter Tonwerk
+BW UH1   Unterhaching Uni, BW-Net
+BW UH2   Riemerling, BW-Net
+BW UH3   Taufkirchen, MAGS2, BW-Net
+BW UH4   Gruenwald, BW-Net
+BW UH5   Oberhaching,GSchule, BW-Net
+BW UHE   EuroCopter, Unterhach, BW-Net
+BW UHK   Waldbrunn, BW-Net
+BW UHL   Laufzorn, BW-Net
+BW VIEL  Vielitz, Bavaria, BW-Net
+BW WETR  Wettzell, Bavaria, BW-Net
+BW ZUGS  Schneeferner, Bavaria, BW-Net
+BX BROLN BX Station
+BX GRTLG BX Station
+BX KGCAE BX Station
+BX KHWEE BX Station
+BX KOOLE BX Station
+BX LKGWB BX Station
+BX LPHEP BX Station
+BX MAKGR BX Station
+BX MREMI BX Station
+BX PHDHD BX Station
+BX PHPEN BX Station
+BX QNGWA BX Station
+BX SKOMA BX Station
+BX SOOWA BX Station
+BY IRK   Irkutsk
+BY MOY   Mondy
+BY ORL   Orlik
+BY ZAK   Zakamensk
+C  CCSP  C Station
+C  GO01  C Station
+C  GO03  C Station
+C  GO04  C Station
+C  GO05  C Station
+C  GO05  Hualane, Chile
+C  GO06  C Station
+C  GO07  "C: [GO07] Milladeo Hill, Chile"
+C  GO07  C Station
+C  GO08  C Station
+C  GO09  C Station
+C  GO10  C Station
+C0 CHIL  C0 Station
+C0 HAYD  C0 Station
+C0 LAMA  C0 Station
+C0 MCSU  C0 Station
+C0 N23A  C0 Station
+C0 Q24A  C0 Station
+C0 S22A  C0 Station
+C0 T25A  C0 Station
+C1 AC01  C1 Station
+C1 AC02  C1 Station
+C1 AC04  C1 Station
+C1 AC05  C1 Station
+C1 AC06  C1 Station
+C1 AC07  C1 Station
+C1 AF01  C1 Station
+C1 AP01  C1 Station
+C1 AY03  C1 Station
+C1 AY04  C1 Station
+C1 AY05  C1 Station
+C1 BI02  C1 Station
+C1 BI04  C1 Station
+C1 BI05  C1 Station
+C1 BI06  C1 Station
+C1 BO01  C1 Station
+C1 BO02  C1 Station
+C1 BO03  C1 Station
+C1 BO04  C1 Station
+C1 CO01  C1 Station
+C1 CO02  C1 Station
+C1 CO03  C1 Station
+C1 CO04  C1 Station
+C1 CO05  C1 Station
+C1 CO06  C1 Station
+C1 CO10  C1 Station
+C1 IN44  C1 Station
+C1 LL01  C1 Station
+C1 LL02  C1 Station
+C1 LL03  C1 Station
+C1 LL05  C1 Station
+C1 LL06  C1 Station
+C1 LL07  C1 Station
+C1 LR02  C1 Station
+C1 LR03  C1 Station
+C1 LR04  C1 Station
+C1 LR05  C1 Station
+C1 MG01  C1 Station
+C1 MG02  C1 Station
+C1 MG03  C1 Station
+C1 MG04  C1 Station
+C1 MG05  C1 Station
+C1 ML02  C1 Station
+C1 MT01  C1 Station
+C1 MT02  C1 Station
+C1 MT03  C1 Station
+C1 MT05  C1 Station
+C1 MT07  C1 Station
+C1 MT09  C1 Station
+C1 MT10  C1 Station
+C1 MT12  C1 Station
+C1 MT13  C1 Station
+C1 MT14  C1 Station
+C1 MT15  C1 Station
+C1 MT16  C1 Station
+C1 MT18  C1 Station
+C1 TA01  C1 Station
+C1 TA02  C1 Station
+C1 VA01  C1 Station
+C1 VA02  C1 Station
+C1 VA03  C1 Station
+C1 VA04  C1 Station
+C1 VA05  C1 Station
+C1 VA06  C1 Station
+C8 BCOV  C8 Station
+C8 BECQ  C8 Station
+C8 BSCQ  C8 Station
+C8 ELNB  C8 Station
+C8 GRIB  C8 Station
+C8 HKNB  C8 Station
+C8 PCAQ  C8 Station
+C8 SV2S  C8 Station
+C8 SV4S  C8 Station
+C8 SV5S  C8 Station
+C8 SVNB  C8 Station
+CA ARBS  CA Station
+CA ARBS  La Rabassa
+CA AVIN  Avinyo
+CA BAIN  Barcelona_Tetuan
+CA BAJU  Barcelona - Ciutat Vella
+CA BLAN  Blanes
+CA CARA  Aran
+CA CARA  CA Station
+CA CAVN  CA Station
+CA CAVN  Les Avellanes
+CA CBEU  Beuda
+CA CBEU  CA Station
+CA CBRU  Bruguera
+CA CBRU  CA Station
+CA CBUD  CA Station
+CA CBUD  Illa de Buda
+CA CCAS  CA Station
+CA CCAS  Cassa de la Selva
+CA CELO  Sant Celoni
+CA CEST  CA Station
+CA CEST  Esterri de Cardos
+CA CFAR  CA Station
+CA CFAR  Far de la Banya
+CA CFON  CA Station
+CA CFON  Fontmartina
+CA CGAR  CA Station
+CA CGAR  Garraf
+CA CGIR  Girona-Universitat
+CA CGIS  Girona-Generalitat
+CA CGRN  Granollers
+CA CLLI  CA Station
+CA CLLI  Llivia
+CA CMAS  CA Station
+CA CMAS  Mas de Barberans
+CA CMON  Montserrat
+CA CORG  CA Station
+CA CORG  Organya
+CA CORI  CA Station
+CA CORI  Orista
+CA CPAL  CA Station
+CA CPAL  Palau-saverdera
+CA CSOR  CA Station
+CA CSOR  Soriguera
+CA CTRE  CA Station
+CA CTRE  Tremp
+CA CTRM  Tremp
+CA FBR   FABRA, SPAIN
+CA ICJA  Barcelona ICTJA-CSIC
+CA ILER  Lleida
+CA LLIS  Llivia-Poliesportiu
+CA MTJR  Montjuic
+CA OLOS  Olot
+CA POBL  Monestir de Poblet
+CA REUS  Reus
+CA SCOL  Santa Coloma, Andorra
+CA VIER  Vielha-Casau
+CA VIES  Vielha-Hospitau
+CA VNIG  Vilanova
+CH BRANT CH Station
+CH FIESA CH Station
+CH FUORN CH Station
+CH HASLI CH Station
+CH LIENZ CH Station
+CH MUGIO CH Station
+CH SENIN CH Station
+CH SLE   CH Station
+CI ADO   CI Station
+CI ARV   CI Station
+CI BAK   CI Station
+CI BAR   CI Station
+CI BBR   CI Station
+CI BEL   CI Station
+CI BFS   CI Station
+CI CHF   CI Station
+CI CIA   CI Station
+CI CWC   CI Station
+CI DAN   CI Station
+CI DEC   CI Station
+CI DGR   CI Station
+CI DJJ   CI Station
+CI EDW2  CI Station
+CI FMP   CI Station
+CI FUR   CI Station
+CI GLA   CI Station
+CI GRA   CI Station
+CI GSC   CI Station
+CI HEC   CI Station
+CI IKP   CI Station
+CI IRM   CI Station
+CI ISA   CI Station
+CI LRL   CI Station
+CI MLAC  CI Station
+CI MPP   CI Station
+CI MUR   CI Station
+CI MWC   CI Station
+CI NEE2  CI Station
+CI OSI   CI Station
+CI PASC  CI Station
+CI PDM   CI Station
+CI PHL   CI Station
+CI PLM   CI Station
+CI RPV   CI Station
+CI RRX   CI Station
+CI SBC   CI Station
+CI SCI2  CI Station
+CI SDD   CI Station
+CI SLA   CI Station
+CI SMM   CI Station
+CI SWS   CI Station
+CI TIN   CI Station
+CI TUQ   CI Station
+CI USC   CI Station
+CI VES   CI Station
+CI VOG   CI Station
+CI VTV   CI Station
+CK ASHT  Institute of Seismology Station Ashgabat, Turkmenistan
+CK DZET  Tajik Institute of Earthquake Engineering and Seismology Station Djerino, Tajikistan
+CK MNAS  Kyrgyz Institute of Seimology Station Talas, Kyrgyzstan
+CK OTUK  National Nuclear Centre Station Ortayu, Kazakhstan
+CK PDGK  National Nuclear Centre Station Podgornoye, Kazakhstan
+CK SFK   Central Asian Institute for Applied Geosciences Station Sufy-kurgan, Kyrgyzstan
+CK TAS   Institute for Seismology Station Tashkent, Uzbekistan
+CL AGEO  Agios Giorgios, Aigialia, West Greece, Greece
+CL AGRP  Agrapidokambos
+CL AGRP  Agrapidokambos, Nafpaktia, West Greece, Greece
+CL AGRP  CL Station
+CL AIOA  Agios Ioannis, Aigialia, West Greece, Greece
+CL AIOA  CL Station
+CL ALIK  Aliki, Aigialia, West Greece, Greece
+CL DIMT  CL Station
+CL DIMT  Dimitropoulo, Aigialia, West Greece, Greece
+CL HELI  Heliki, Aigialia, West Greece, Greece
+CL MALA  CL Station
+CL MALA  Malamata, Dorida, Central Greece, Greece
+CL MG00  Magoula
+CL MG00  Magoula Dorida, Central Greece, Greece
+CL MG02  MG02
+CL MG02  Magoula
+CL MG03  MG03
+CL MG03  Magoula
+CL MG04  CL Station
+CL MG04  MG04
+CL MG04  Magoula
+CL MG05  MG05
+CL MG05  Magoula
+CL MG06  MG06
+CL MG06  Magoula
+CL MG07  MG07
+CL MG07  Magoula
+CL PANR  CL Station
+CL PANR  Panormos, Dorida, Central Greece, Greece
+CL PSAM  CL Station
+CL PSAM  PSAM
+CL PSAM  Psaromita multiparametre
+CL PSAR  Psaromita, Dorida, Central Greece, Greece
+CL PYRG  CL Station
+CL PYRG  Pyrgos, Dorida, Central Greece, Greece
+CL RIZA  RIZA
+CL ROD3  CL Station
+CL ROD3  Rodini
+CL ROD3  Rodini, Patras, West Greece, Greece
+CL TEME  CL Station
+CL TEME  Temeni, Aigialia, West Greece, Greece
+CL TRIE  TRIE
+CL TRIZ  CL Station
+CL TRIZ  Trizonia
+CL TRIZ  Trizonia, Dorida, Central Greece, Greece
+CL ZIRI  Ziria, Aigialia, West Greece, Greece
+CM ACAPU LIM029-C143 Centro de Salud Acapulco
+CM AMORE LIM032-C134  Institución Educativa N°5090 Antonia Morena de Cáceres
+CM ANCON LIM023-C147 Municipalidad de Ancon
+CM BONDY LIM035-C141 Institución Educativa N°4015 Augusto Salazar Bondy
+CM CARAB LIM021-C112 Municipalidad de Carabayllo
+CM CENEP LIM014-BDF7 Centro Nacional de Prevención de Desastres, CENEPRED
+CM CEPRE LIM025-BDFB Cepre UNI
+CM COMAS LIM019-BE1B Municipalidad de Comas
+CM DEFEN LIM033-C135 Centro Salud Defensores de la Patria
+CM DHNPE CAL001-C118 Dirección de Hidrografía y Navegación, DHN
+CM DSMI  LIM027-BDE3 Direccion de Sanidad Marítima Internacional
+CM ESTAL LIM030-C117 Escuela de Talentos
+CM FICPE LIM002-BE12 Facultad de Ingeniería Civil, UNI
+CM HEL   CM Station
+CM IMCA  LIM016-BDF0 Instituto de Matemática y Ciencias Afines
+CM INDEP LIM024-C114 Municipalidad de Independencia
+CM INICT LIM015-BE16 Inst Nac de Invest y Capacitación en Telecomunicaciones, INICTEL
+CM IPEN  LIM034-C13E Centro Nuclear Óscar Miroquesada De la Guerra, Lima
+CM JALVA LIM001-BDDC Jorge Alva Hurtado
+CM JOSEO LIM-041-C11D Estadio Jose Olaya, Independencia
+CM LCBC  CM Station
+CM MAP   Isla de Malpelo, Colombia
+CM MDPP  LIM022-C113 Municipalidad de Puente Piedra
+CM MON   Monteria, Cordoba, Colombia
+CM MPERU LIM034-C144 Centro Salud Mi Perú
+CM NISTA CAL002-BE1F Colegio San Antonio Marianistas
+CM OLIVO LIM018-BDF9 Municipalidad de Los Olivos
+CM PRADO LIM036-C148 Colegio Militar Leoncio Prado
+CM PRV   CM Station
+CM RAMON LIM028-C145 Institución Educativa Ramón Castilla
+CM RUS   CM Station
+CM RUS   La Rusia, Boyaca, Colombia
+CM SERVI LIM026-C130 ServiUNI Surco, Lima
+CM SJC   CM Station
+CM SMAR  CM Station
+CM SROSA LIM020-BE33 Municipalidad de Santa Rosa
+CM TUM   CM Station
+CM UNFV  LIM012-BDEC Facultad de Ingeniería Civil, UNFV
+CM UNMSM LIM013-C126 Facultad de Ingeniería Civil, UNMSM
+CM UPCSM LIM039-C14B Universidad Peruana de Ciencias Aplicadas, San Miguel
+CM UPCVI LIM038-BE22 Universidad Peruana de Ciencias Aplicadas, Villa Chorrillos
+CM URI   CM Station
+CM URI   Uribia, Guajira, Colombia
+CM URPPE LIM017-BDC5 Universidad Ricardo Palma
+CM USILM LIM037-C125 Universidad San Ignacio de Loyola, La Molina
+CM USILP LIM040-C12B Universidad San Ignacio de Loyola, La Molina
+CM USMP  LIM010-BDC8 Facultad de Ingeniería Civil, USMP
+CM VHAYA LIM031-C140 Institución Educativa Victor Raúl Haya de la Torre
+CN A11   CN Station
+CN A16   CN Station
+CN A21   CN Station
+CN A54   CN Station
+CN A61   CN Station
+CN A64   CN Station
+CN ALRN  CN Station
+CN ATKO  CN Station
+CN ATLI  CN Station
+CN BAIB  CN Station
+CN BBB   CN Station
+CN BCLQ  CN Station
+CN BFSB  CN Station
+CN BJBQ  CN Station
+CN BLKN  CN Station
+CN BMTB  CN Station
+CN BNAB  CN Station
+CN BOIN  CN Station
+CN BPEB  CN Station
+CN BRWY  CN Station
+CN BSPQ  CN Station
+CN BVCY  CN Station
+CN CACQ  CN Station
+CN CALQ  CN Station
+CN CBB   CN Station
+CN CHEG  CN Station
+CN CHIQ  CN Station
+CN CHRO  CN Station
+CN CLRS  CN Station
+CN CNQ   CN Station
+CN COBO  CN Station
+CN CROWY CN Station
+CN DAWY  CN Station
+CN DI2B  CN Station
+CN DIB   CN Station
+CN DLBC  CN Station
+CN DPQ   CN Station
+CN DRLN  CN Station
+CN DRMQ  CN Station
+CN EAGLY CN Station
+CN EDB   CN Station
+CN EDM   CN Station
+CN EDUN  CN Station
+CN EFO   CN Station
+CN EPLO  CN Station
+CN FCC   CN Station
+CN FHBB  CN Station
+CN FNSB  CN Station
+CN FRB   CN Station
+CN FSJB  CN Station
+CN GAC   CN Station
+CN GBN   CN Station
+CN GDR   CN Station
+CN GGN   CN Station
+CN GHNB  CN Station
+CN GOBB  CN Station
+CN GRQ   CN Station
+CN GTOO  CN Station
+CN HAL   CN Station
+CN HG1B  CN Station
+CN HOLB  CN Station
+CN HOPB  CN Station
+CN HSNB  CN Station
+CN HWKO  CN Station
+CN ICQ   CN Station
+CN ILON  CN Station
+CN INK   CN Station
+CN JAKH  Jacmel, SE, HT
+CN JEDB  CN Station
+CN KAPO  CN Station
+CN KGNO  CN Station
+CN KIPQ  CN Station
+CN KUKN  CN Station
+CN KUQ   CN Station
+CN LDAQ  CN Station
+CN LG4Q  CN Station
+CN LGNH  CN Station
+CN LGNH  LEOGANE, OU, HT
+CN LLLB  CN Station
+CN LMN   CN Station
+CN LMQ   CN Station
+CN MASB  CN Station
+CN MCNB  CN Station
+CN MGRB  CN Station
+CN MNQ   CN Station
+CN MNTQ  CN Station
+CN MOBC  CN Station
+CN MRBQ  CN Station
+CN NDB   CN Station
+CN NLLB  CN Station
+CN NTKA  CN Station
+CN ORIO  CN Station
+CN OTAO  CN Station
+CN OTT   CN Station
+CN OZB   CN Station
+CN PABB  CN Station
+CN PACB  CN Station
+CN PAPH  Port au Prince, OU, HT
+CN PCLB  CN Station
+CN PGC   CN Station
+CN PHC   CN Station
+CN PKLO  CN Station
+CN PLBC  CN Station
+CN PLSQ  CN Station
+CN PMAQ  CN Station
+CN PNPO  CN Station
+CN PNT   CN Station
+CN POIN  CN Station
+CN PTRF  CN Station
+CN QCQ   CN Station
+CN QEPB  CN Station
+CN RES   CN Station
+CN RIGQ  CN Station
+CN RISQ  CN Station
+CN RUBB  CN Station
+CN SACHN CN Station
+CN SADO  CN Station
+CN SAKN  CN Station
+CN SANQ  CN Station
+CN SCHQ  CN Station
+CN SELQ  CN Station
+CN SFA   CN Station
+CN SGRQ  CN Station
+CN SJNN  CN Station
+CN SJUQ  CN Station
+CN SLBQ  CN Station
+CN SMQ   CN Station
+CN SNFQ  CN Station
+CN SOLO  CN Station
+CN STPQ  CN Station
+CN SUBO  CN Station
+CN SURQ  CN Station
+CN SYMB  CN Station
+CN TAHB  CN Station
+CN TBO   CN Station
+CN TOFB  CN Station
+CN TRQ   CN Station
+CN TXDB  CN Station
+CN ULM   CN Station
+CN VDEB  CN Station
+CN VGZ   CN Station
+CN VLDQ  CN Station
+CN WBO   CN Station
+CN WHY   CN Station
+CN WOSB  CN Station
+CN WPB   CN Station
+CN WSLR  CN Station
+CN YKAB0 CN Station
+CN YKAB1 CN Station
+CN YKAB2 CN Station
+CN YKAB3 CN Station
+CN YKAB4 CN Station
+CN YKAB6 CN Station
+CN YKAB7 CN Station
+CN YKAB8 CN Station
+CN YKAB9 CN Station
+CN YKAR1 CN Station
+CN YKAR2 CN Station
+CN YKAR3 CN Station
+CN YKAR4 CN Station
+CN YKAR5 CN Station
+CN YKAR6 CN Station
+CN YKAR7 CN Station
+CN YKAR8 CN Station
+CN YKAR9 CN Station
+CN YKAW1 CN Station
+CN YKAW3 CN Station
+CN YUK3  CN Station
+CO BARN  CO Station
+CO BIRD  CO Station
+CO CASEE CO Station
+CO CSB   CO Station
+CO HAW   CO Station
+CO HODGE CO Station
+CO JSC   CO Station
+CO PAULI CO Station
+CO SUMMV CO Station
+CO TEEBA CO Station
+CP MESC  MESC
+CP SET3  SET3
+CU ANWB  ANWB
+CU BBGH  BBGH
+CU BBGH  CU Station
+CU BCIP  CU station
+CU GRGR  CU Station
+CU GRGR  GRGR
+CU GRTK  CU Station
+CU GRTK  Grand Turk, Turks and Caicos Islands
+CU GTBY  CU Station
+CU GTBY  Guantanamo Bay, Cuba
+CU MTDJ  CU Station
+CU MTDJ  Mount Denham, Jamaica
+CU SDDR  CU Station
+CU SDDR  Presa de Sabenta, Dominican Republic
+CU TGUH  CU Station
+CW CAIB  CW Station
+CW CAMR  CW Station
+CW CCCC  CW Station
+CW CHIV  CW Station
+CW CHIV  Chivirico, Guama, Santiago de Cuba
+CW MARV  CW Station
+CW MARV  Mar Verde, Santiago de Cuba
+CW MASC  CW Station
+CW MASC  Maisi,Guantanamo,Cuba
+CW PILO  CW Station
+CW QMBU  CW Station
+CW QMBU  Quimbuelo, San Antonio del Sur, Guantanamo
+CW SOR   CW Station
+CX HMBCX IPOC Station Humberstone, Chile
+CX MNMCX IPOC Station Minimi, Chile
+CX PATCX IPOC Station Patache, Chile
+CX PB01  IPOC Station Huatacondo, Chile
+CX PB02  IPOC Station Salar Grande, Chile
+CX PB03  IPOC Station El Tigre, Chile
+CX PB04  IPOC Station Mantos de la Luna, Chile
+CX PB05  IPOC Station Michilla, Chile
+CX PB06  IPOC Station Pedro de Valdivia, Chile
+CX PB07  IPOC Station Cerro Tatas, Chile
+CX PB08  IPOC Station Macaya, Chile
+CX PB09  IPOC Station Quillagua, Chile
+CX PB10  IPOC Station Juan Lopez, Chile
+CX PB11  IPOC Station Quebrada Aricilda, Chile
+CX PB12  IPOC Station Cerro Caramaca near Arica, Chile
+CX PB14  IPOC Station European Southern Observatory Cerro Paranal, Chile
+CX PB15  IPOC Station Sierra Gorda, Chile
+CX PB16  IPOC Station Cerro Chaquipina new, Chile
+CX PB18  IPOC Station Visviri, Chile
+CX PB19  IPOC Station Pico de Oro, Chile
+CX PSGCX IPOC Station Pisagua, Chile
+CX PX02  IPOC Station Quebrada Camarones, Chile
+CX PX03  IPOC Station El Huarango, Chile
+CX PX06  IPOC Station Salar de Carmen, Chile
+CY CBCY  CY Station
+CY CBCY  The Bluff, Cayman Brac, Cayman Islands
+CY FSCY  CY Station
+CY FSCY  Frank Sound, Grand Cayman, Cayman Islands
+CY LCCY  CY Station
+CZ CHVC  Chvalec
+CZ CKRC  Cesky Krumlov
+CZ DPC   Dobruska/Polom, CZ
+CZ GOPC  Pecny
+CZ HSKC  Hora Sv.Kateriny
+CZ KHC   CZ Station
+CZ KHC   Kasperske Hory
+CZ KRLC  Kraliky
+CZ NKC   Novy Kostel
+CZ OKC   Ostrava/Krasne Pole
+CZ OSTC  Ostas
+CZ PBCC  Pribram
+CZ PRA   Praha
+CZ PRU   Pruhonice
+CZ PVCC  Panska Ves, CZ
+CZ SKAC  SKAC
+CZ TREC  Trest
+CZ UPC   Upice
+DK ANGG  DK Station
+DK ANGG  Station Ammassalik, Greenland
+DK BSD   BORNHOLM SKOVBRYNET, DENMARK
+DK BSD   DK Station
+DK BSD   Station Bornholm Skovbrynet, Denmark
+DK COP   Station Copenhagen, Denmark
+DK DBG   DK Station
+DK GDH   GDH
+DK GOET  GOET
+DK HAMD  HAMD
+DK ILULI DK Station
+DK ILULI Ilulissat, Greenland
+DK ISOG  DK Station
+DK ISOG  Station Isortoq, Greenland
+DK IVI   Station Ivigtut, Greenland
+DK KULLO DK Station
+DK KULLO Kullorsuaq, Greenland
+DK LLD   LLD
+DK MUD   DK Station
+DK MUD   Station Monsted Kalkmine, Denmark
+DK NIAQ  NIAQ
+DK NOR   DK Station
+DK NRS   DK Station
+DK NRS   Station Narsarsuaq, Greenland
+DK NUUG  DK Station
+DK NUUG  Nuugaatsiq, Greenland
+DK NUUK  DK Station
+DK OVD   OVD
+DK SAATT SAATT
+DK SAQQ  SAQQ
+DK SCO   DK Station
+DK SCO   Station Scoresbysund, Greenland
+DR BADR  DR Station
+DR HMDR  DR Station
+DR JIDR  DR Station
+DR NAVI  DR Station
+DR SADR  DR Station
+DR SC01  CURSA-UASD
+DR SC01  DR Station
+DR SDD   Santo Domingo, DR
+DR SFDR  DR Station
+EB ALCN  EB Station
+EB ALCX  EB Station
+EB EBR   EB Station
+EB EBR   Ebre
+EC ANTS  EC Station
+EC ARNL  EC Station
+EC CHSH  EC Station
+EC COHC  EC Station
+EC GGPC  EC Station
+EC IMBA  EC Station
+EC PULU  EC Station
+EC PUYO  EC Station
+EC SLOR  EC Station
+EC TULM  EC Station
+EC VCES  EC Station
+ED 2944  Station
+ED MCHI  MCHI
+EE ARBE  Station Arbavere, Estonia
+EE MTSE  Station Matsalu, Estonia
+EI DSB   EI Station
+EI IDGL  DIAS Station Inch Island, Ireland
+EI IDGL  EI Station
+EI IGLA  EI Station
+EI IGLA  Station Glengowla, Ireland
+EI ILTH  EI Station
+EI IWEX  DIAS Station Carrickbyrne, Ireland
+EI IWEX  EI Station
+EI VAL   EI Station
+EP KIDD  EP Station
+ES ECAL  Calabor (Zamora) IGN,Spain
+ES ECOL  ES Station
+ES EIBI  ES Station
+ES EJON  La Jonquera (Girona) IGN,Spain
+ES EMOS  ES Station
+ES EMUR  La Murta (Murcia) IGN,Spain
+ES EOSO  Teror (Gran Canaria),Spain
+ES EPOB  ES Station
+ES ERTA  ES Station
+ES ETOS  ES Station
+ES EXQUE Queralbs (Girona),Spain
+ES EXRIP Ripoll (Girona),Spain
+ES EXSEU La Seu d'Urgell (Lleida),Spain
+ES ZVGAR Santa Pau (Girona),Spain
+ET ASTN  ET Station
+ET BCRT  ET Station
+ET CCNC  ET Station
+ET CCRT  ET Station
+ET CMGA  ET Station
+ET CPCT  ET Station
+ET CPRT  ET Station
+ET DSNC  ET Station
+ET DYTN  ET Station
+ET ETT   ET Station
+ET FPAL  ET Station
+ET GFM   ET Station
+ET GMG   ET Station
+ET GRBT  ET Station
+ET LRVA  ET Station
+ET MGNC  ET Station
+ET SWET  ET Station
+ET TRYN  ET Station
+ET TVNC2 ET Station
+ET VHTN  ET Station
+ET WMTN2 ET Station
+FN MSF   Station Maaselka, Finland
+FN OUL   Station Oulu, Finland
+FN RNF   Station Rovaniemi, Finland
+FN SGF   Station Sodankyla, Finland
+FR ABJF  FR Station
+FR AGO   FR Station
+FR AJAC  FR Station
+FR ARBF  FR Station
+FR ARTF  FR Station
+FR ATE   FR Station
+FR BALS  FR Station
+FR BANN  FR Station
+FR BARI  FR Station
+FR BEGF  FR Station
+FR BETHI FR Station
+FR BIMF  FR Station
+FR BLAF  FR Station
+FR BORF  FR Station
+FR BOUC  FR Station
+FR BOUF  FR Station
+FR BRGF  FR Station
+FR BSCF  FR Station
+FR BSTF  FR Station
+FR CALF  FR Station
+FR CAMF  FR Station
+FR CARF  FR Station
+FR CFF   FR Station
+FR CHA2  FR Station
+FR CHIF  FR Station
+FR CHLF  FR Station
+FR CHMF  FR Station
+FR CIEL  FR Station
+FR CLAF  FR Station
+FR CLEV  FR Station
+FR CLF   FR Station
+FR CLMF  FR Station
+FR CMPS  FR Station
+FR COLF  FR Station
+FR CRAS  FR Station
+FR CREF  FR Station
+FR CRNF  FR Station
+FR CURIE FR Station
+FR DAUF  FR Station
+FR DOU   FR Station
+FR DUNF  FR Station
+FR EILF  FR Station
+FR ENAUX FR Station
+FR ESCA  FR Station
+FR FAHY  FR Station
+FR FILF  FR Station
+FR FNEB  FR Station
+FR FOURG FR Station
+FR FRNF  FR Station
+FR GARF  FR Station
+FR GENF  FR Station
+FR GIZF  FR Station
+FR GNEF  FR Station
+FR GRN   FR Station
+FR GUEF  FR Station
+FR GZNF  FR Station
+FR HARD  FR Station
+FR HELF  FR Station
+FR HOHE  FR Station
+FR HRSF  FR Station
+FR ILLF  FR Station
+FR IRAF  FR Station
+FR ISO   FR Station
+FR JAUF  FR Station
+FR LABF  FR Station
+FR LAJAS FR Station
+FR LATF  FR Station
+FR LBL   FR Station
+FR LEMB  FR Station
+FR LEUC  FR Station
+FR LGIF  FR Station
+FR LOCF  FR Station
+FR LOUF  FR Station
+FR LRVF  FR Station
+FR MANO  FR Station
+FR MELF  FR Station
+FR MIGAL FR Station
+FR MLS   FR Station
+FR MLYF  FR Station
+FR MLZA  FR Station
+FR MOLES FR Station
+FR MON   FR Station
+FR MONQ  FR Station
+FR MORSI FR Station
+FR MTNF  FR Station
+FR MVIF  FR Station
+FR NEEW  FR Station
+FR NEUF  FR Station
+FR NIMR  FR Station
+FR NOCA  FR Station
+FR OG02  FR Station
+FR OG35  FR Station
+FR OGAG  FR Station
+FR OGCB  FR Station
+FR OGCC  FR Station
+FR OGCE  FR Station
+FR OGCN  FR Station
+FR OGCY  FR Station
+FR OGDF  FR Station
+FR OGDI  FR Station
+FR OGGL  FR Station
+FR OGJA  FR Station
+FR OGLC  FR Station
+FR OGMO  FR Station
+FR OGMY  FR Station
+FR OGRV  FR Station
+FR OGS2  FR Station
+FR OGS3  FR Station
+FR OGSA  FR Station
+FR OGSI  FR Station
+FR OGSM  FR Station
+FR OGVA  FR Station
+FR OGVG  FR Station
+FR OLIV  FR Station
+FR ORDF  FR Station
+FR OSSF  FR Station
+FR PAND  FR Station
+FR PIAF  FR Station
+FR PLDF  FR Station
+FR PLEF  FR Station
+FR PLOF  FR Station
+FR PLYF  FR Station
+FR PRIMA FR Station
+FR PYLO  FR Station
+FR RESF  FR Station
+FR REST  FR Station
+FR REVF  FR Station
+FR REYF  FR Station
+FR RIAF  FR Station
+FR RIVEL FR Station
+FR RONF  FR Station
+FR RUFF  FR Station
+FR RUSF  FR Station
+FR SALF  FR Station
+FR SALSA FR Station
+FR SAOF  FR Station
+FR SAUF  FR Station
+FR SDOF  FR Station
+FR SGSF  FR Station
+FR SJAF  FR Station
+FR SLVF  FR Station
+FR SMPL  FR Station
+FR SOMF  FR Station
+FR SPIF  FR Station
+FR SRNF  FR Station
+FR SROF  FR Station
+FR STR   FR Station
+FR SURF  FR Station
+FR TERF  FR Station
+FR TRBF  FR Station
+FR TRIGF FR Station
+FR TSDF  FR Station
+FR TURF  FR Station
+FR URDF  FR Station
+FR VALC  FR Station
+FR VALM  FR Station
+FR VERF  FR Station
+FR VIEF  FR Station
+FR VILS  FR Station
+FR VOEL  FR Station
+FR WALT  FR Station
+FR WLS   FR Station
+FR XAFF  FR Station
+FR ZELS  FR Station
+G  AIS   AIS
+G  AIS   G Station
+G  ATD   ATD
+G  ATD   Arta Cave - Arta, Republic of Djibouti
+G  ATD   G Station
+G  CAN   CAN
+G  CAN   G Station
+G  CCD   CCD
+G  CCD   G Station
+G  CLF   Chambon la Foret Observatory, France
+G  COYC  COYC
+G  COYC  G Station
+G  CRZF  CRZF
+G  CRZF  G Station
+G  DRV   DRV
+G  DRV   G Station
+G  DZM   DZM
+G  DZM   G Station
+G  ECH   ECH
+G  ECH   G Station
+G  EDA   EDA
+G  EDA   G Station
+G  FDF   Fort de France - Martinique island, France
+G  FDFM  FDFM
+G  FDFM  G Station
+G  FOMA  FOMA
+G  FOMA  G Station
+G  FUTU  FUTU
+G  FUTU  G Station
+G  HDC   G Station
+G  HDC   HDC
+G  INU   G Station
+G  INU   INU
+G  INU   Inuyama, Japan
+G  IVI   IVI
+G  IVI   Ivittuut, Greenland
+G  KIP   G Station
+G  KIP   KIP
+G  KIP   Kipapa, Hawaii, USA
+G  MPG   G Station
+G  MPG   MPG
+G  MPG   Montagne des Peres - French Guiana, France
+G  NOUC  G Station
+G  NOUC  NOUC
+G  NOUC  Port Laguerre - New Caledonia, France
+G  PAF   G Station
+G  PAF   PAF
+G  PEL   G Station
+G  PEL   PEL
+G  PPTF  G Station
+G  PPTF  PPTF
+G  PPTF  Pamatai - Papeete - Tahiti island - French Polynesia, Franc
+G  RER   G Station
+G  RER   RER
+G  RER   Riviere de l'Est - Sainte Rose - La Reunion island, France
+G  ROCAM G Station
+G  ROCAM ROCAM
+G  SANVU Espiritu Santo, Vanuatu
+G  SANVU G Station
+G  SANVU SANVU
+G  SOK   G Station
+G  SOK   SOK
+G  SPB   G Station
+G  SPB   SPB
+G  SPB   Sao Paulo, Brazil
+G  SSB   G Station
+G  SSB   SSB
+G  SSB   Tunnel de Badole - Saint Sauveur en Rue, France
+G  TAM   G Station
+G  TAM   TAM
+G  TAM   Tamanrasset, Algeria
+G  TAOE  G Station
+G  TAOE  TAOE
+G  TAOE  Taiohae - Marquesas islands, France
+G  TRIS  TRIS
+G  TRIS  Tristan da Cunha
+G  UNM   G Station
+G  UNM   UNM
+G  UNM   Unam - Mexico, Mexico
+G  WUS   G Station
+G  WUS   WUS
+GB BIGH  GB Station
+GB CCA1  GB Station
+GB CLGH  GB Station
+GB CWF   GB Station
+GB DRUM  GB Station
+GB DYA   GB Station
+GB EDI   GB Station
+GB EDMD  GB Station
+GB ELMS  GB Station
+GB ELSH  GB Station
+GB ESK   GB Station
+GB FOEL  GB Station
+GB GAL1  GB Station
+GB GDLE  GB Station
+GB HLM1  GB Station
+GB HMNX  GB Station
+GB HPK   GB Station
+GB HTL   GB Station
+GB INVG  GB Station
+GB IOMK  GB Station
+GB JSA   GB Station
+GB KESW  GB Station
+GB KPL   GB Station
+GB LAWE  GB Station
+GB LBWR  GB Station
+GB LINV  GB Station
+GB LMK   GB Station
+GB LRW   GB Station
+GB MCH1  GB Station
+GB NEWG  GB Station
+GB PGB1  GB Station
+GB RSBS  GB Station
+GB SOFL  GB Station
+GB SWN1  GB Station
+GB WACR  GB Station
+GE ACRG  GEOFON/GGSA Station Accra, Ghana
+GE APE   NOA/GEOFON Station Apeiranthos,Naxos, Greece
+GE APEZ  GEOFON Station Moni Apezanon, Greece
+GE ARPR  GEOFON/MedNet/KOERI Station Arapgir, Turkey
+GE BALJ  Station GEOFON, JSO/DESERVE Station Balqa/Jordan
+GE BBJI  GEOFON Station GEOFON Station Bungbulang, Garut, Java
+GE BGIO  GII/GEOFON Station Bar Giyyora, Israel
+GE BKB   GEOFON Station GEOFON Station Balikpapan, Kalimantan
+GE BKNI  GEOFON Station GEOFON Station Bangkinang, Sumatra
+GE BNDI  GEOFON Station Bandaneira, Indonesia
+GE BOAB  GE Station
+GE BOAB  INETER/GEOFON Station INETER, GEOFON Station Boaco/Nicaragua
+GE CART  ROA/UCM/GEOFON Station Cartagena, Spain
+GE CEU   ROA/UCM/GEOFON Station Ceuta, Spain
+GE CISI  GEOFON Station GEOFON Station Cisomped, Java
+GE CSS   GEOFON/GII Station Mathiatis, Cyprus
+GE DAG   GE Station
+GE DAG   GEOFON/AWI Station Danmarkshavn, Greenland
+GE DAMY  GEOFON Station GEOFON Station Dhamar, Yemen
+GE DSB   GEOFON Station Dublin, Ireland
+GE EIL   GE Station
+GE EIL   GEOFON Station Eilat, Israel
+GE FAKI  GEOFON Station GEOFON Station Fak Fak, Irian Jaya
+GE FALKS GEOFON Station Falkenstein, Germany
+GE FLT1  GE/GRSN-Station_Flechtingen
+GE FLT1  Temp GEOFON Station Temp GEOFON Station Flechtingen, Germany
+GE FODE  GEOFON Station Fodele, Crete
+GE GENI  GEOFON Station Genyem, Irian Jaya Indonesia
+GE GHAJ  DESERVE Station GEOFON, JSO/DESERVE Station Ghor Haditha/Jordan
+GE GHAR  GEOFON/ETHZ Station Gharyan, Libya
+GE GSI   GEOFON Station Gunungsitoli, Nias
+GE GVD   NOA/GEOFON Station Gavdos, Greece
+GE HALK  GEOFON Station Hakmana, Sri Lanka
+GE HLG   GE/GRSN_Station_Helgoland
+GE HLG   UKiel/GEOFON Station Helgoland, Germany
+GE HMDM  GEOFON Station GEOFON Station Hanimaadhoo, Maldives
+GE IBBN  GE/GRSN_Station_Ibbenbueren
+GE IBBN  RUB/GEOFON Station Ibbenbueren, Germany
+GE ILTH  GEOFON/DIAS Station Belurgan, Co Louth, Ireland
+GE IMMV  NOA/GEOFON Station Iera Moni Varipetrou, Greece
+GE ISP   GEOFON/MedNet/KOERI Station Isparta, Turkey
+GE JAGI  GEOFON Station GEOFON Station Jajag, Java
+GE JER   GII Station Jerusalem, Israel
+GE KAAM  GEOFON Station GEOFON Station Kaadhehdhoo, Maldives
+GE KARN  GEOFON Station Karanos, Crete
+GE KARP  NOA/RUB/GEOFON Station Karpathos,Greece
+GE KBS   Ny-Alesund, Spitzbergen, Norway
+GE KBU   GEOFON Station GEOFON Station Kabul, Afghanistan
+GE KERA  RUB Station Keramoti, Crete
+GE KIBK  GEOFON Station Kibwezi, Kenya
+GE KMBO  Kilima Mbogo, Kenya
+GE KRIS  GEOFON Station Kristallenia, Greece
+GE KSDI  GII Station Kfar Sold, Israel
+GE KTHA  NOA/GEOFON Station Kythira, Greece
+GE KWP   GEOFON Station Kalwaria Paclawska, Poland
+GE LAST  GEOFON Station Lasithi, Greece
+GE LHMI  GEOFON Station GEOFON Station Lhokseumave, Sumatra
+GE LID   GRSN/GEOFON Station Liddow, Germany
+GE LODK  GEOFON Station Lodwar, Kenya
+GE LUWI  GEOFON Station GEOFON Station Lhokseumave, Sulawesi
+GE LVC   Limon Verde, Chile
+GE MAHO  ROA/UCM/GEOFON Station Mahon, Menorca
+GE MALK  GEOFON Station Mahakanadarawa, Sri Lanka
+GE MALT  GEOFON/MedNet Station Malatya, Turkey
+GE MARCO GEOFON/IMAA-CNR Station Tramutola, Italy
+GE MARJ  GEOFON Station Al Marj, Libya
+GE MATE  U Basilicata/GEOFON Station Matera, Italy
+GE MAUI  GEOFON Station Haleakala, Maui
+GE MELI  ROA/UCM/GEOFON Station Melilla, Spain
+GE MHV   GEOFON Station Michnevo, Russia
+GE MLR   GEOFON Station Muntele Rosu, Romania
+GE MMRI  GEOFON Station GEOFON Station Maumere, Flores
+GE MNAI  GEOFON Station GEOFON Station Manna, Sumatra
+GE MORC  GEOFON Station Moravsky Beroun, Czech Republic
+GE MRNI  GII Station Mount Meron, Israel
+GE MSBI  DESERVE Station Mazada, Israel
+GE MTE   GE Station
+GE MTE   GEOFON Station Manteigas, Portugal
+GE NAI   IRIS/GEOFON Station Nairobi, Kenya
+GE NPW   DMH/GEOFON Station Naypyitaw, Myanmar
+GE PABE  LGT/GEOFON Station Paberze, Lithuania
+GE PBUR  LGT/GEOFON Station Paburge, Lithuania
+GE PLAI  GEOFON Station Plampang, Sumbawa, Indonesia
+GE PMBI  GEOFON Station Palembang, Sumatra
+GE PMBT  GEOFON Station Palembang, Sumatra, Indonesia
+GE PMG   Port Moresby, New Guinea
+GE PSZ   GKKI/GEOFON Station Piszkes, Hungary
+GE PUL   GEOFON Station Pulkovo, Russia
+GE PVLZ  ROA/UCM/GEOFON Station Penon de Velez-Gomera, Spain
+GE RGN   GE/GRSN_Station_Ruegen
+GE RGN   GRSN/GEOFON Station Ruegen, Germany
+GE RIOB  GEOFON Station Rio Branco, Brazil
+GE RUE   GE/GRSN_Station_Ruedersdorf
+GE RUE   GRSN/GEOFON Station Ruedersdorf, Germany
+GE SALP  DESERVE Station Salfit, Palestine Territories
+GE SALTA GEOFON/INPRES Station Salta, Argentina
+GE SANI  GEOFON Station Sanana, Moluccas, Indonesia
+GE SANT  NOA/GEOFON Station Santorini, Greece
+GE SAUI  GEOFON Station Saumlaki, Tanimbar, Indonesia
+GE SBV   GEOFON Station Sambava, Madagascar
+GE SELV  IAG Station Sierra Elvira, Spain
+GE SFJ   IRIS/GEOFON Station Sondre Stromfjord, Greenland
+GE SFJD  Sondre Stromfjord, Greenland
+GE SFS   ROA/UCM/GEOFON Station San Fernando, Spain
+GE SFUC  ROA/UCM/GEOFON Station San Fernando, Spain
+GE SIVA  GEOFON Station Sivas, Crete
+GE SKD   GEOFON Station Skordalos, Greece
+GE SLIT  LEGMA/GEOFON Station LEGMA, GEOFON Station Slitere/Latvia
+GE SMRI  GEOFON Station GEOFON Station Semarang, Java
+GE SNAA  GE Station
+GE SNAA  GEOFON/AWI Station Sanae, Antarctica
+GE SOCY  GEOFON Station GEOFON Station Socotra, Yemen
+GE SOCY  GEOFON Station Socotra, Yemen
+GE SOEI  GEOFON Station GEOFON Station Soe, Timor
+GE STU   GE/GRSN_Station_Stuttgart
+GE STU   VBB Station Stuttgart, Germany
+GE SUMG  GE Station
+GE SUMG  GEOFON Station Summit Camp, Greenland
+GE SUW   GEOFON Station Suwalki, Poland
+GE THERA Station Santorini, Greece
+GE TIRR  GE Station
+GE TIRR  GEOFON Station Tirgusor, Romania
+GE TNTI  GEOFON Station GEOFON Station Ternate, Indonesia
+GE TOLI  GEOFON Station GEOFON Station Tolitoli, Sulawesi
+GE TOLI2 GE Station
+GE TOLI2 GEOFON Station Tolitoli, Sulawesi, Indonesia
+GE TRTE  GEOFON Station Tartu, Estonia
+GE UGM   GE Station
+GE UGM   GEOFON Station Wanagama, Indonesia
+GE UJAP  DESERVE Station Al Uja, Palestine Territories
+GE VAL   DIAS/IMS/GEOFON Station DIAS, IMS/GEOFON Station Valentia/Ireland
+GE VOI   GEOFON Station Vohitsoka, Madagascar
+GE VSU   GE Station
+GE VSU   GEOFON Station Vasula, Estonia
+GE WIN   GSN/GEOFON Station GSN, GEOFON Station Windhoek/Namibia
+GE WLF   GEOFON Station Walferdange, Luxembourg
+GE YOGI  GEOFON Station Yogyakarta, Java
+GE ZKR   NOA/GEOFON Station Zakros, Crete
+GF BOZ1  GF Station
+GF ESN1  GF Station
+GI GUMI  GI Station
+GI GUVC  GI Station
+GI QCIX  GI Station
+GL AMC   AMC
+GL AMC   GL Station
+GL ATG   ATG
+GL BRG   BRG
+GL CAG   CAG
+GL CAG   GL Station
+GL CDE   CDE
+GL CDE   GL Station
+GL DOG   DOG
+GL ECG   ECG
+GL ECG   GL Station
+GL HMG   HMG
+GL LKG   GL Station
+GL LKG   LKG
+GL LZG   LZG
+GL MML   GL Station
+GL MML   MML
+GL MOG   GL Station
+GL MOG   MOG
+GL SCG   GL Station
+GL SCG   SCG
+GL SEG   SEG
+GL SFG   SFG
+GL STG   GL Station
+GL STG   STG
+GL TAG   GL Station
+GL TAG   TAG
+GL TDBSM TDBSM
+GM NMP01 GM Station
+GM NMP02 GM Station
+GM NMP11 GM Station
+GM NMP12 GM Station
+GM NMP23 GM Station
+GM NMP25 GM Station
+GM NMP31 GM Station
+GM NMP34 GM Station
+GM NMP35 GM Station
+GM NMP41 GM Station
+GM NMP45 GM Station
+GM NMP51 GM Station
+GO BATM  GO Station
+GO BGD   GO Station
+GO DGRG  GO Station
+GO DSHG  GO Station
+GO EMLK  GO Station
+GO KHRT  GO Station
+GO KZRT  GO Station
+GO SEAG  GO Station
+GR A807  UniPotsdam-Borehole
+GR AHRW  GRSN Station Ahrweiler
+GR AHRW  GRSN_Station_Ahrweiler__
+GR ASSE  BFS Station GRSN Station ASSE, Germany
+GR ASSE  BfS_Station_Asse
+GR BFO   BGR Station Infrasound Black Forest Observatory, Germany
+GR BFO   GRSN_Station_Black_Forest
+GR BRG   BGR Station GRSN Station Berggiesshuebel, Germany
+GR BRG   GRSN_Station_Berggiesshuebel
+GR BSEG  GRSN Station Bad Segeberg
+GR BSEG  GRSN_Station_Bad_Segeberg
+GR BUG   GRSN Station Bochum
+GR BUG   GRSN_Station_Bochum
+GR CLL   GRSN Station Collm
+GR CLL   GRSN_Station_Collm
+GR CLZ   GRSN Station Clausthal-Zellerfeld
+GR CLZ   GRSN_Station_Clausthal
+GR DEEL  Gasfeld_DEEL_
+GR DREG  GRSN Station Dreilaegerbach
+GR FAHL  Gasfeld__FAHL
+GR FBRG  Horstberg_Fassberg
+GR FUR   GRSN Station Fuerstenfeldbruck
+GR FUR   GRSN_Station_Fuerstenfeldbruck
+GR GEA0  Geres-A0
+GR GEA1  Geres-A1
+GR GEA2  Geres-A2
+GR GEA3  Geres-A3
+GR GEB1  Geres-B1
+GR GEB2  Geres-B2
+GR GEB3  Geres-B1
+GR GEB4  Geres-B1
+GR GEB5  Geres-B1
+GR GEC1  Geres-C1
+GR GEC2  BGR Station Geress-Array, Germany
+GR GEC2  Geres_C2
+GR GEC3  Geres-C3
+GR GEC4  Geres-C4
+GR GEC5  Geres-C5
+GR GEC6  Geres-C6
+GR GEC7  Geres-C7
+GR GED1  Geres-D1
+GR GED2  Geres-D2
+GR GED3  Geres-D3
+GR GED4  Geres-D4
+GR GED5  Geres-D5
+GR GED6  Geres-D6
+GR GED7  Geres-D7
+GR GED8  Geres-D8
+GR GED9  Geres-D9
+GR GOLD  Temporary_Station_GOLD
+GR GOR1  BGR Station Trebel, Germany
+GR GOR1  Gorleben_Trebel
+GR GRA1  GR Station
+GR GRA1  GRF_Array
+GR GRA1  Graefenberg Array Station Haidhof
+GR GRA2  GRF_Array
+GR GRA2  Graefenberg Array Station Wildenfels
+GR GRA3  GRF_Array
+GR GRA3  Graefenberg Array Station Leutzdorf
+GR GRA4  GRF_Array
+GR GRB1  GRF_Array
+GR GRB1  Graefenberg Array Station Bruennthal
+GR GRB2  GRF_Array
+GR GRB2  Graefenberg Array Station Reichertswinn
+GR GRB3  GRF_Array
+GR GRB3  Graefenberg Array Station Eglhofen
+GR GRB4  GRF_Array
+GR GRB4  Graefenberg Array Station Heldmannsberg
+GR GRB5  GRF_Array
+GR GRB5  Graefenberg Array Station Vorderoedberg
+GR GRC1  GRF_Array
+GR GRC1  Graefenberg Array Station Amtmannsdorf
+GR GRC2  GRF_Array
+GR GRC2  Graefenberg Array Station Boehmfeld
+GR GRC3  GRF_Array
+GR GRC3  Graefenberg Array Station Steinsdorf
+GR GRC4  GRF_Array
+GR GRC4  Graefenberg Array Station Raitenbuch
+GR GTTG  GRSN Station Goettingen
+GR GTTG  GRSN_Station_Goettingen
+GR HAM4  Hamburger_Sternwarte
+GR I26H1 Infrasound
+GR I26H2 Infrasound
+GR I26H3 Infrasound
+GR I26H4 Infrasound
+GR I26H5 Infrasound
+GR I26H6 Infrasound
+GR I26H7 Infrasound
+GR I26H8 Infrasound
+GR I27L1 Infrasound
+GR I27L2 Infrasound
+GR I27L3 Infrasound
+GR I27L4 Infrasound
+GR I27L5 Infrasound
+GR I27L6 Infrasound
+GR I27L7 Infrasound
+GR I27L8 Infrasound
+GR I27L9 Infrasound
+GR IGAD  Station_Igade
+GR INS1  Insheim_Test
+GR INS3  Insheim_Rebveredlung_Weiter
+GR INS4B Landau
+GR INS5  Insheim
+GR INS6B Insheim_Friedhof_Kandel
+GR INS7  Insheim
+GR INS8  Insheim
+GR INSH  Insheim
+GR KAST  GRSN_Station_Kahler_Asten
+GR KHUS  BGR_Station_Kellenhusen_Bohrloch
+GR KUDEN BGR_Station_Kuden_Bohrloch
+GR LNIZ  BGR Station Loecknitz, Germany
+GR LNIZ  Loecknitz
+GR LOCC  Loccum
+GR LUEB  Luebbecke
+GR MILB  BGR_Station_MILB
+GR MOX   GRSN Station Moxa
+GR MOX   GRSN_Station_Moxa
+GR NRDL  GRSN Station Niedersachsen
+GR NRDL  GRSN_Station_Niedersachsen/Riedel
+GR RAST  Rastdorf
+GR RETH  BGR Station GRSN Station Rethem Borehole, Germany
+GR RETH  BGR_Station_Rethem_Bohrloch
+GR RETHO BGR_Station_Rethem_Oberflaeche
+GR SEVE  Gasfeld_SEVE
+GR SKMB  GRSN Station Sankelmark Bunker
+GR SKMB  GRSN_Station_Sankelmark
+GR SYKE  Gasfeld_SYKE
+GR TMO20 BGR_Station
+GR TMO22 BGR_Station
+GR TMO54 BGR_Station
+GR TMO55 BGR_Station_Nussdorf
+GR TMO57 BGR_Station_TMO57
+GR TMO66 Geilweiler_Hof
+GR TNS   GRSN Station Taunus Observatory
+GR TNS   GRSN_Station_Taunus
+GR UBBA  GRSN Station Unterbreizbach
+GR UBBA  GRSN_Station_Unterbreizbach
+GR UBR   BGR Station GRSN Station Ueberruh, Germany
+GR UBR   BGR_Station_Ueberruh
+GR UNDO  Undeloh_LBEG
+GR WET   GRSN Station Wettzell
+GR WET   GRSN_Station_Wettzell
+GR ZARR  GRSN_Station_Zarrentin
+GR ZURM  Gasfeld_ZURM
+GS ADOK  GS Station
+GS ALQ1  GS Station
+GS ALQ2  GS Station
+GS ASA1  GS Station
+GS ASA2  GS Station
+GS ASA3  GS Station
+GS ASA4  GS Station
+GS ASA5  GS Station
+GS ASA6  GS Station
+GS ASL8  GS Station
+GS ASL9  GS Station
+GS CA07  GS Station
+GS CA08  GS Station
+GS CA09  GS Station
+GS DEC01 GS Station
+GS DEC02 GS Station
+GS DEC03 GS Station
+GS DEC04 GS Station
+GS DEC05 GS Station
+GS DEC06 GS Station
+GS DEC08 GS Station
+GS DEC09 GS Station
+GS DEC13 GS Station
+GS DEC15 GS Station
+GS DEC16 GS Station
+GS DEC17 GS Station
+GS FSUO  GS Station
+GS KS26  GS Station
+GS KS28  GS Station
+GS KS29  GS Station
+GS MCA04 GS Station
+GS OK038 GS Station
+GS OK051 GS Station
+GS OK052 GS Station
+GS PR01  GS Station
+GS PR02  GS Station
+GS PR03  GS Station
+GS PR04  GS Station
+GS PR05  GS Station
+GS PR06  GS Station
+GS VEA1  GS Station
+GS VEA2  GS Station
+GT BOSA  Boshof, South Africa
+GT BOSA  GT Station
+GT DBIC  Dimbokro, Ivory Coast
+GT DBIC  GT Station
+GT LBTB  GT Station
+GT LBTB  Lobatse, Botswana, Africa
+GT LPAZ  GT Station
+GT LPAZ  La Paz , Bolivia
+GT VNDA  GT Station
+GX WANN  HMI/UniPotsdam/GFZ Station Berlin-Wannsee, Germany
+HA ATAL  Atalanti,Greece
+HA ATHU  Athens University,Greece
+HA KALE  Kalithea, Dorida, Central Greece, Greece
+HA LAKA  Lakka, Aigion, Greece
+HA LAKA  Lakka,Greece
+HA TRAZ  Trapeza, Greece
+HE HEF   Station Hetta, Finland
+HE JOF   Station Hattuvaara, Finland
+HE KAF   Station Kangasniemi, Finland
+HE KEF   Station Keuruu, Finland
+HE KEV   Station Kevo, Finland
+HE KIF   Station Kilpisjarvi, Finland
+HE KPF   KPF
+HE KU6   Station Kuusamo, Finland
+HE MEF   Station Metsahovi, Finland
+HE NIF   NIF
+HE OUF   Station Oulainen, Finland
+HE PVF   Station Pernaja, Finland
+HE RAF   Station Laitila, Finland
+HE RMF   RMF
+HE RUF   RUF
+HE SUF   Station Sumiainen, Finland
+HE TOF   TOF
+HE VAF   Station Ylistaro, Finland
+HE VJF   Station Virolahti, Finland
+HE VRF   Station Varrio, Finland
+HK HKPS  HK Station
+HL ARG   Archaggelos, Rhodes, Greece
+HL ARG   HL Station
+HL ITM   HL Station
+HL ITM   Ithomi,Messinia,Greece
+HL KEK   Corfu,Greece
+HL KEK   HL Station
+HL NVR   Nevrokopi, Greece
+HL PLG   Poligiros,Chalkidiki,Greece
+HL RDO   HL Station
+HL SARG  National Observatory of Athens
+HL SART  National Observatory of Athens
+HL SAVL  National Observatory of Athens
+HL SAZR  National Observatory of Athens
+HL SIGU  National Observatory of Athens
+HL SINST National Observatory of Athens
+HL SISM  National Observatory of Athens
+HL SKAR  National Observatory of Athens
+HL SKLMT Stara Zagora, Bulgary
+HL SMES  National Observatory of Athens
+HL SMSN  Instituto Supernore G. Minutoli, Messina
+HL SMTH  Samothraki Island, Greece
+HL SNCY  National Observatory of Athens
+HL SNOA  National Observatory of Athens
+HL SNPL  Naples, Italy
+HL SNSM  National Observatory of Athens
+HL SPRT  National Observatory of Athens
+HL SSCY  National Observatory of Athens
+HL SSEA  National Observatory of Athens
+HL SSIGR National Observatory of Athens
+HL SSNT  National Observatory of Athens
+HL SSOF  Sofia High School of Mathematics
+HL STHS  National Observatory of Athens
+HL SVAM  National Observatory of Athens
+HL SVOL  Volos, Greece
+HN PSZI1 Station Piszkes-teto, Hungary
+HN PSZI2 Station Piszkes-teto, Hungary
+HN PSZI3 Station Piszkes-teto, Hungary
+HN PSZI4 Station Piszkes-teto, Hungary
+HP ANX   Ano Hora, Nafpaktos, Greece
+HP DID   Didima, Greece
+HP DSF   Desfina, Greece
+HP EFP   Efpalio, Nafpaktos, Greece
+HP GUR   Gura, Greece
+HP PVO   Paravola, Nafpaktos, Greece
+HP SERG  Sergoula, Dorida, Central Greece, Greece
+HP UPR   UPR
+HP VVK   Vomvokou
+HT ALN   ALEXANDROUPOLIS, GREECE
+HT ALN   HT Station
+HT GRG   GRIVA, GREECE
+HT KAVA  Kavala, Greece
+HT KNT   Kendrikon, Greece
+HT LIT   HT Station
+HT LIT   LITOKHORON, GREECE
+HT PAIG  PALIOURI, GREECE
+HT SOH   SOKHOS, GREECE
+HT SRS   SERRAI, GREECE
+HU ABAH  Abaujker, Hungary
+HU AMBH  Ambrozfalva, Hungary
+HU BEHE  Becsehely, Hungary
+HU BSZH  Besenyszog, Hungary
+HU BUD   Budapest, Hungary
+HU CSKK  Csokako, Hungary
+HU EGYH  Egyhazaskeszo, Hungary
+HU KOVH  Kovagotottos, Hungary
+HU LTVH  Letavertes, Hungary
+HU MORH  Moragy, Hungary
+HU MPLH  Magyarpolany, Hungary
+HU PKSM  Station Moragy, Hungary
+HU SOP   Sopron, Hungary
+HU TIH   Tihany, Hungary
+HU TRPA  Tarpa, Hungary
+HV AHUD  HV Station
+HV AIND  HV Station
+HV ALEP  HV Station
+HV BYL   HV Station
+HV CPKD  HV Station
+HV DAND  HV Station
+HV DESD  HV Station
+HV DEVL  HV Station
+HV HAT   HV Station
+HV HLPD  HV Station
+HV HOVE  HV Station
+HV HPUD  HV Station
+HV HSSD  HV Station
+HV HUAD  HV Station
+HV JCUZ  HV Station
+HV JOKA  HV Station
+HV KAAD  HV Station
+HV KAED  HV Station
+HV KIND  HV Station
+HV KKO   HV Station
+HV KLUD  HV Station
+HV KNHD  HV Station
+HV KUPD  HV Station
+HV MITD  HV Station
+HV MLOD  HV Station
+HV MOKD  HV Station
+HV NAGD  HV Station
+HV NAHU  HV Station
+HV NPOC  HV Station
+HV OTLD  HV Station
+HV PLAD  HV Station
+HV POLD  HV Station
+HV PPLD  HV Station
+HV PUHI  HV Station
+HV RCOD  HV Station
+HV RIMD  HV Station
+HV RSDD  HV Station
+HV SDH   HV Station
+HV SPDD  HV Station
+HV STCD  HV Station
+HV SWRD  HV Station
+HV TOUO  HV Station
+HV TRAD  HV Station
+HV UWB   HV Station
+HV UWE   HV Station
+HV WALE  HV Station
+HV WILD  HV Station
+HV WOOD  HV Station
+HV WRM   HV Station
+IC BJT   Baijiatuan, Beijing, China
+IC BJT   IC Station
+IC ENH   Enshi, Hubei Province, China
+IC ENH   IC Station
+IC HIA   Hailar, Neimenggu Autonomous Region, China
+IC HIA   IC Station
+IC LSA   Tibet, China
+IC MDJ   IC Station
+IC MDJ   Mudanjiang, Heilongjiang Province, China
+IC QIZ   IC Station
+IE BCYI  IE Station
+IE COMI  IE Station
+IE HWFI  IE Station
+IE LJI   IE Station
+IE LLRI  IE Station
+IG ANIG  IG Station
+IG CJIG  IG Station
+IG H06N  IG Station
+IG MAIG  IG Station
+IG MMIG  IG Station
+II AAK   Ala Archa, Kyrgyzstan
+II AAK   II Station
+II ABPO  II Station
+II ALE   II Station
+II ARTI  Arti, Russia
+II ARTI  II Station
+II ARU   Arti, Russia
+II ASCN  Butt Crater, Ascension Island
+II ASCN  II Station
+II BFO   II Station
+II BORG  Borgarfjordur, Asbjarnarstadir, Iceland
+II BORG  II Station
+II BORK  II Station
+II CMLA  II Station
+II COCO  II Station
+II EFI   II Station
+II ERM   Erimo, Hokkaido Island, Japan
+II ERM   II Station
+II ESK   Eskdalemuir, Scotland, UK
+II ESK   II Station
+II FFC   II Station
+II HOPE  II Station
+II JTS   II Station
+II JTS   Las Juntas de Abangares, Costa Rica
+II KAPI  II Station
+II KAPI  Kappang, Sulawesi, Indonesia
+II KDAK  II Station
+II KIV   II Station
+II KIV   Kislovodsk, Russia
+II KURK  II Station
+II KURK  Kurchatov, Kazakhstan
+II KWAJ  Kwajalein Atoll, Pacific Ocean
+II LVZ   II Station
+II LVZ   Lovozero, Russia
+II MBAR  II Station
+II MBAR  Mbarara, Uganda
+II MSEY  Mahe, Seychelles
+II MSVF  II Station
+II MSVF  Monasavu, Fiji
+II NIL   II Station
+II OBN   II Station
+II OBN   Obninsk, Russia
+II PALK  II Station
+II PALK  Pallekele, Sri Lanka
+II PFO   II Station
+II RAYN  II Station
+II RPN   II Station
+II SACV  II Station
+II SHEL  Horse Pasture, St. Helena Island
+II SHEL  II Station
+II SIMI  II Station
+II SUR   II Station
+II TAU   Hobart, Tasmania, Australia
+II TAU   II Station
+II TLY   II Station
+II TLY   Talaya, Russia
+II UOSS  II Station
+II UOSS  Univ. of Sharjah, Sharjah, United Arab Emirates
+II WRAB  II Station
+II XBFO  II Station
+II XPFO  II Station
+IM BC01  IM Station
+IM BC02  IM Station
+IM BC03  IM Station
+IM BC04  IM Station
+IM BC05  IM Station
+IM BM01  IM Station
+IM BM02  IM Station
+IM BM03  IM Station
+IM BM04  IM Station
+IM BM05  IM Station
+IM CY101 IM Station
+IM CY201 IM Station
+IM CY302 IM Station
+IM CY303 IM Station
+IM CY304 IM Station
+IM CY401 IM Station
+IM CY601 IM Station
+IM CY602 IM Station
+IM CY604 IM Station
+IM CY605 IM Station
+IM CY606 IM Station
+IM EKB   IM Station
+IM EKB1  IM Station
+IM EKB10 IM Station
+IM EKB2  IM Station
+IM EKB3  IM Station
+IM EKB4  IM Station
+IM EKB5  IM Station
+IM EKB6  IM Station
+IM EKB7  IM Station
+IM EKB8  IM Station
+IM EKB9  IM Station
+IM EKR1  IM Station
+IM EKR10 IM Station
+IM EKR2  IM Station
+IM EKR3  IM Station
+IM EKR4  IM Station
+IM EKR5  IM Station
+IM EKR6  IM Station
+IM EKR7  IM Station
+IM EKR8  IM Station
+IM EKR9  IM Station
+IM H08C2 IM Station
+IM H08S1 IM Station
+IM H08S2 Diego Garcia Hydroacoustic Site S2, United Kingdom
+IM H08S2 IM Station
+IM H08S3 IM Station
+IM H09N1 IM Station
+IM H09W1 IM Station
+IM H10C1 IM Station
+IM H10C2 IM Station
+IM H10N1 IM Station
+IM H10N2 IM Station
+IM H10N3 IM Station
+IM H10S1 IM Station
+IM H10S2 IM Station
+IM H10S3 IM Station
+IM H11C1 IM Station
+IM H11C2 IM Station
+IM H11N1 IM Station
+IM H11N2 IM Station
+IM H11N3 IM Station
+IM H11S1 IM Station
+IM H11S2 IM Station
+IM H11S3 IM Station
+IM I06H2 Cocos Islands Infrasound Array, Site H2, Australia
+IM I18H1 IM Station
+IM I18H2 IM Station
+IM I18H3 IM Station
+IM I18H4 IM Station
+IM I18L1 IM Station
+IM I18L2 IM Station
+IM I18L3 IM Station
+IM I18L4 IM Station
+IM I49H1 IM Station
+IM I49H2 IM Station
+IM I49H3 IM Station
+IM I49H4 IM Station
+IM I49H5 IM Station
+IM I50H1 IM Station
+IM I50H2 IM Station
+IM I50H3 IM Station
+IM I50H4 IM Station
+IM I50H5 IM Station
+IM I50H6 IM Station
+IM I50H7 IM Station
+IM I50H8 IM Station
+IM I51H1 IM Station
+IM I51H2 IM Station
+IM I51H3 IM Station
+IM I51H4 IM Station
+IM I52H1 IM Station
+IM I52H2 IM Station
+IM I52H3 IM Station
+IM I52H4 IM Station
+IM I52H5 IM Station
+IM I52H6 IM Station
+IM I52H7 IM Station
+IM I53H1 IM Station
+IM I53H2 IM Station
+IM I53H3 IM Station
+IM I53H4 IM Station
+IM I53H5 IM Station
+IM I53H6 IM Station
+IM I53H7 IM Station
+IM I53H8 IM Station
+IM I55H1 IM Station
+IM I55H2 IM Station
+IM I55H3 IM Station
+IM I55H4 IM Station
+IM I55H5 IM Station
+IM I55H6 IM Station
+IM I55H7 IM Station
+IM I55H8 IM Station
+IM I56H1 IM Station
+IM I56H2 IM Station
+IM I56H3 IM Station
+IM I56H4 IM Station
+IM I57H1 IM Station
+IM I57H2 IM Station
+IM I57H3 IM Station
+IM I57H4 IM Station
+IM I57H5 IM Station
+IM I57H6 IM Station
+IM I57H7 IM Station
+IM I57H8 IM Station
+IM I58H1 IM Station
+IM I58H2 IM Station
+IM I58H3 IM Station
+IM I58H4 IM Station
+IM I59H1 IM Station
+IM I59H2 IM Station
+IM I59H3 IM Station
+IM I59H4 IM Station
+IM I60H1 IM Station
+IM I60H2 IM Station
+IM I60H3 IM Station
+IM I60H4 IM Station
+IM I60H5 IM Station
+IM I60H6 IM Station
+IM I60H7 IM Station
+IM I60H8 IM Station
+IM IL01  IM Station
+IM IL02  IM Station
+IM IL03  IM Station
+IM IL04  IM Station
+IM IL05  IM Station
+IM IL06  IM Station
+IM IL07  IM Station
+IM IL08  IM Station
+IM IL09  IM Station
+IM IL10  IM Station
+IM IL11  IM Station
+IM IL12  IM Station
+IM IL13  IM Station
+IM IL14  IM Station
+IM IL15  IM Station
+IM IL16  IM Station
+IM IL17  IM Station
+IM IL18  IM Station
+IM IL19  IM Station
+IM IL31  IM Station
+IM IM01  IM Station
+IM IM03  IM Station
+IM IM04  IM Station
+IM IM05  IM Station
+IM MK31  IM Station
+IM NV01  IM Station
+IM NV02  IM Station
+IM NV03  IM Station
+IM NV04  IM Station
+IM NV05  IM Station
+IM NV06  IM Station
+IM NV07  IM Station
+IM NV08  IM Station
+IM NV09  IM Station
+IM NV10  IM Station
+IM NV11  IM Station
+IM NV31  IM Station
+IM PD01  IM Station
+IM PD02  IM Station
+IM PD03  IM Station
+IM PD04  IM Station
+IM PD05  IM Station
+IM PD06  IM Station
+IM PD07  IM Station
+IM PD08  IM Station
+IM PD09  IM Station
+IM PD10  IM Station
+IM PD11  IM Station
+IM PD12  IM Station
+IM PD13  IM Station
+IM PD31  IM Station
+IM PD32  IM Station
+IM SHEM  IM Station
+IM TKL   IM Station
+IM TX01  IM Station
+IM TX02  IM Station
+IM TX03  IM Station
+IM TX04  IM Station
+IM TX06  IM Station
+IM TX07  IM Station
+IM TX08  IM Station
+IM TX09  IM Station
+IM TX10  IM Station
+IM TX31  IM Station
+IN MNC   IN Station
+IN PBA   IN Station
+IN SHL   IN Station
+IO EVN   EvK2CNR Pyramid Laboratory - Mount Everest
+IS AMAZ  Station Amatzia, Israel
+IS BLGI  IS station
+IS DSI   IS station
+IS GEM   IS station
+IS HMDT  IS station
+IS HNTI  IS station
+IS HRFI  Station Harif, Israel
+IS KRMI  IS station
+IS KSDI  Station Kfar Sold, Israel
+IS KZIT  Station Ktziot Israel, None
+IS MBRI  IS station
+IS MDBI  IS station
+IS MMA0  MMA0
+IS MMA0B BB
+IS MMA1  MMA1
+IS MMA2  MMA2
+IS MMA3  MMA3
+IS MMA4  MMA4
+IS MMB1  MMB1
+IS MMB2  MMB2
+IS MMB3  MMB3
+IS MMB4  MMB4
+IS MMC1  MMC1
+IS MMC2  MMC2
+IS MMC3  MMC3
+IS MMC4  MMC4
+IS MMC5  MMC5
+IS MMC6  MMC6
+IS MMC7  MMC7
+IS MMLI  Station Malkishua, Israel
+IS MZDA  inactive
+IS NATI  IS station
+IS OFRI  IS station
+IS PRNI  IS station
+IS SLTI  IS station
+IS YTIR  IS station
+IS ZFRI  IS station
+IU ADK   Adak, Aleutian Islands, Alaska
+IU ADK   IU Station
+IU AFI   Afiamalu, Samoa
+IU ANMO  Albuquerque, New Mexico, USA
+IU ANMO  IU Station
+IU ANTO  Ankara, Turkey
+IU ANTO  IU Station
+IU BBSR  Bermuda Institute of Ocean Sciences, St George's Bermuda
+IU BBSR  IU Station
+IU BILL  Bilibino, Russia
+IU BILL  IU Station
+IU CASY  Casey, Antarctica
+IU CASY  IU Station
+IU CCM   Cathedral Cave, Missouri, USA
+IU CCM   IU Station
+IU CHTO  Chiang Mai, Thailand
+IU CHTO  IU Station
+IU COLA  College Outpost, Alaska, USA
+IU COLA  IU Station
+IU COR   Corvallis, Oregon, USA
+IU COR   IU Station
+IU CTAO  Charters Towers, Australia
+IU CTAO  IU Station
+IU DAV   Davao, Philippines
+IU DAV   IU Station
+IU DWPF  Disney Wilderness Preserve, Florida, USA
+IU DWPF  IU Station
+IU FUNA  Funafuti, Tuvalu
+IU FUNA  IU Station
+IU FURI  IU Station
+IU FURI  Mt. Furi, Ethiopia
+IU GNI   Garni, Armenia
+IU GRFO  Grafenberg, Germany
+IU GRFO  IU Station
+IU GRFO  IU/GRSN_Station_Graefenberg
+IU GUMO  Guam, Mariana Islands
+IU GUMO  IU Station
+IU HKT   Hockley, Texas
+IU HKT   IU Station
+IU HNR   Honiara, Solomon Islands
+IU HNR   IU Station
+IU HRV   Adam Dziewonski Observatory (Oak Ridge), Massachusetts, USA
+IU HRV   IU Station
+IU INCN  IU Station
+IU INCN  Inchon, Republic of Korea
+IU JOHN  IU Station
+IU KBL   IU Station
+IU KBS   Ny-Alesund, Spitzbergen, Norway
+IU KEV   IU Station
+IU KEV   Kevo, Finland
+IU KIEV  IU Station
+IU KIEV  Kiev, Ukraine
+IU KIP   IU Station
+IU KIP   Kipapa, Hawaii, USA
+IU KMBO  IU Station
+IU KONO  IU Station
+IU KONO  Kongsberg, Norway
+IU KOWA  Kowa, Mali
+IU LCO   IU Station
+IU LCO   Las Campanas Astronomical Observatory, Chile
+IU LSZ   Lusaka, Zambia
+IU LVC   Limon Verde, Chile
+IU MA2   IU Station
+IU MA2   Magadan, Russia
+IU MACI  IU Station
+IU MAJO  IU Station
+IU MAJO  Matsushiro, Japan
+IU MAKZ  Makanchi, Kazakhstan
+IU MBWA  IU Station
+IU MBWA  Marble Bar, Western Australia
+IU MIDW  IU Station
+IU MIDW  Midway Island, USA
+IU NWAO  IU Station
+IU NWAO  Narrogin, Australia
+IU OTAV  IU Station
+IU OTAV  Otavalo, Ecuador
+IU PAB   IU Station
+IU PAB   San Pablo, Spain
+IU PAYG  IU Station
+IU PAYG  Puerto Ayora, Galapagos Islands
+IU PET   IU Station
+IU PET   Petropavlovsk, Russia
+IU PMG   IU Station
+IU PMG   Port Moresby, New Guinea
+IU PMSA  IU Station
+IU PMSA  Palmer Station, Antarctica
+IU POHA  IU Station
+IU POHA  Pohakuloa, Hawaii, USA
+IU PTCN  IU Station
+IU PTCN  Pitcairn Island, South Pacific
+IU QSPA  IU Station
+IU QSPA  South Pole Remote Earth Science Observatory (Quiet Zone)
+IU RAO   Raoul, Kermadec Islands
+IU RAR   IU Station
+IU RAR   Rarotonga, Cook Islands
+IU RCBR  IU Station
+IU RCBR  Riachuelo, Brazil
+IU RSSD  Black Hills, South Dakota, USA
+IU RSSD  IU Station
+IU SAML  Samuel, Brazil
+IU SBA   IU Station
+IU SBA   Scott Base, Antarctica
+IU SDV   Santo Domingo, Venezuela
+IU SFJD  IU Station
+IU SFJD  Sondre Stromfjord, Greenland
+IU SJG   IU Station
+IU SJG   San Juan, Puerto Rico
+IU SLBS  Sierra la Laguna Baja California Sur, Mexico
+IU SNZO  IU Station
+IU SNZO  South Karori, New Zealand
+IU SSPA  IU Station
+IU SSPA  Standing Stone, Pennsylvania
+IU TARA  IU Station
+IU TARA  Tarawa Island, Republic of Kiribati
+IU TATO  IU Station
+IU TATO  Taipei, Taiwan
+IU TEIG  IU Station
+IU TEIG  Tepich, Yucatan, Mexico
+IU TIXI  IU Station
+IU TIXI  Tiksi, Russia
+IU TRIS  Tristan da Cunha
+IU TRQA  IU Station
+IU TRQA  Tornquist, Argentina
+IU TSUM  IU Station
+IU TSUM  Tsumeb, Namibia
+IU TUC   IU Station
+IU TUC   Tucson, Arizona
+IU ULN   IU Station
+IU ULN   Ulaanbaatar, Mongolia
+IU WAKE  IU Station
+IU WAKE  Wake Island
+IU WCI   IU Station
+IU WCI   Wyandotte Cave, Indiana, USA
+IU WVT   IU Station
+IU WVT   Waverly, Tennessee, USA
+IU XMAS  IU Station
+IU XMAS  Kiritimati Island, Republic of Kiribati
+IU YAK   IU Station
+IU YAK   Yakutsk, Russia
+IU YSS   IU Station
+IU YSS   Yuzhno Sakhalinsk, Russia
+IV ACIS  IV ACIS
+IV CET2  IV CET2
+IV CHC2  IV CHC2
+IV CNDF  IV CNDF
+IV CO22  IV CO22
+IV CSC2  IV CSC2
+IV CUP2  CUP2
+IV FALC  IV FALC
+IV FERC  IV FERC
+IV JOPP  IV JOPP
+IV LADO  IV LADO
+IV LATT  IV LATT
+IV MANE  IV MANE
+IV MC32  IV MC32
+IV MIN1  IV_MIN1
+IV MIN2  IV MIN2
+IV MMN   IV MMN
+IV MMN9  IV MMN9
+IV MMNA  IV MMN1
+IV MMNB  IV MMNB
+IV OPPI  IV OPPI
+IV ORI   IV ORI
+IV PALA  IV_PALA
+IV PLAC  IV PLAC
+IV ROG2  IV ROG2
+IV ROI   IV_ROI
+IV SCOI  IV SCOI
+IV SERS  IV SERS
+IV SMIN  IV SMIN
+IV SPNT  IV SPNT
+IV SPS2  IV SPS2
+IV TDS   IV TDS
+IV UC01  IV UC01
+IV VBL2  IV VBL2
+IW DLMT  IW Station
+IW FLWY  IW Station
+IW FXWY  IW Station
+IW IMW   IW Station
+IW LOHW  IW Station
+IW MFID  IW Station
+IW MOOW  IW Station
+IW PLID  IW Station
+IW SNOW  IW Station
+IW TPAW  IW Station
+IX AND3  Andretta
+IX BENI  Benevento
+IX BSC3  Bisaccia
+IX CLT3  Calitri
+IX CSG3  Castelgrande
+IX LGS3  Luogosano
+IX LIO3  Lioni
+IX MNT3  Montella
+IX NSC3  Nusco
+IX RDM3  Ruvo del Monte
+IX RSF3  Rocca San Felice
+IX SALI  Sant. Angelo
+IX SFL3  San Fele
+IX SSB3  San Sossio Baronia
+IX VDS3  Varco Staccarino
+IY CARP  IY CARP
+IY CHCE  IY CHCE
+IY CIRK  IY CIRK
+IY CMPA  IY CMPA
+IY CMPN  IY CMPN
+IY CNDF  IY CNDF
+IY CNNA  IY CNNA
+IY CO22  IY CO22
+IY CUTR  IY CUTR
+IY FALC  IY FALC
+IY FERC  IY FERC
+IY GERV  IY GERV
+IY GIMI  IY GIMI
+IY LARA  IY LARA
+IY LATT  IY LATT
+IY LC22  IY LC22
+IY MANE  IY MANE
+IY MCDA  IY MCDA
+IY MMN1  IY MMN1
+IY MNGA  IY MNGA
+IY OPPI  IY OPPI
+IY PNTN  IY PNTN
+IY SCAI  IY SCAI
+IY SMIN  IY SMIN
+IY SPDC  IY SPDC
+IY SPNT  IY SPNT
+IY UC01  IY UC01
+IY VBL2  IY VBL2
+JA CIHU  JA Station
+JA ESSJ  JA Station
+JA ESTA  JA Station
+JA LMAJ  JA Station
+JA VCCA  JA Station
+JM BBJ   Bamboo St. Ann,  Jamaica
+JM BNJB  JM Station
+JM NMIA0 Norman Manley International Airport
+JM PCJB  JM Station
+JM STH   Stony Hill, Jamaica
+JM STHB  JM Station
+JM STHB  Stoney Hill, Jamaica
+JP JCJ   JP Station
+JP JEM   JP Station
+JP JEW   JP Station
+JP JGF   JP Station
+JP JHJ2  JP Station
+JP JHS   JP Station
+JP JKA   JP Station
+JP JMJ   JP Station
+JP JMM   JP Station
+JP JMN   JP Station
+JP JMZ   JP Station
+JP JNU   JP Station
+JP JOW   JP Station
+JP JSD   JP Station
+JP JSG   JP Station
+JP JSU   JP Station
+JP JTM   JP Station
+JP JTU   JP Station
+JP JWT   JP Station
+JP JYT   JP Station
+JP YOJ   JP Station
+JS AQBJ  Station JS station, Jordan
+JS DRHJ  Station Derra, Jordan
+JS KARJ  Station Karama, Jordan
+JS QRNJ  Station Al-Qirn, Jordan
+JS SHMJ  Station Saham, Jordan
+KA BATSE BATSE
+KA CAB   CAB
+KA DEMB  DEMB
+KA MOIN  MOIN
+KA SBC   SBC
+KC TARG  KC Station
+KG TJN   KG Station
+KO BALB  BALIKESIR
+KO BALB  KO Station
+KO BNN   KO Station
+KO BZK   Bozkurt-KASTAMONU
+KO BZK   Bozkurt-Kastamonu-Turkey
+KO BZK   KO Station
+KO DKL   Dikili-IZMIR
+KO DKL   Dikili-Izmir-Turkey
+KO DKL   KO Station
+KO EDRB  EDIRNE
+KO ELL   Elmali-ANTALYA
+KO ELL   Elmali-Antalya-Turkey
+KO ELL   KO Station
+KO GAZ   KO Station
+KO GURO  KO Station
+KO MDUB  KO Station
+KO MDUB  Mudurnu-BOLU
+KO PHSR  Pinarhisar-KIRKLARELI
+KO SIRT  Sirnak-Turkey
+KO SNOP  SINOP
+KQ MRLW  Marlow
+KQ PEEM  Peenemuende_
+KR ANVS  KR Station
+KR ARSB  KR Station
+KR BOOM  KR Station
+KR BTK   KR Station
+KR DRK   KR Station
+KR FRU1  KR Station
+KR JNKS  KR Station
+KR KDJ   KR Station
+KR MNAS  KR Station
+KR PRZ   KR Station
+KR SALK  KR Station
+KR SFK   KR Station
+KR TRKS  KR Station
+KY BHKY  KY Station
+KY CUSSO KY Station
+KY FLKY  KY Station
+KY FMKY  KY Station
+KY HEKY  KY Station
+KY HZKY  KY Station
+KY LLKY  KY Station
+KY LOKY  KY Station
+KY MOKY  KY Station
+KY PAKY  KY Station
+KY PKKY  KY Station
+KY ROKY  KY Station
+KY SMKY  KY Station
+KY SOKY  KY Station
+KZ PDGK  KZ Station
+LB BMN   LB Station
+LB MVU   LB Station
+LB TPH   LB Station
+LD ACCN  LD Station
+LD BRNY  LD Station
+LD CCNY  LD Station
+LD CUNY  LD Station
+LD FMMC  LD Station
+LD FOR   LD Station
+LD GCMD  LD Station
+LD GEDE  LD Station
+LD KSCT  LD Station
+LD MCVT  LD Station
+LD NCB   LD Station
+LD NED   LD Station
+LD PAL   LD Station
+LD PRNY  LD Station
+LD ROC   LD Station
+LD SDMD  LD Station
+LD UCCT  LD Station
+LE LDE   RLP_Station
+LE LDO   RLP_Station
+LE ROTT  RLP_Station
+LM L48A  LM Station
+LM NE8K  LM Station
+LO LOBH  Bahia de las Aguilas
+LO LOBH  LO Station
+LO LOCA  LO Station
+LO LODA2 ITESIL, Dajabon
+LO LODA2 LO Station
+LO LODU1 El_Espartillar-Duverge
+LO LODU1 LO Station
+LO LOLU  LO Station
+LO LOMC  LO Station
+LO LONA2 LO Station
+LO LONA2 Toro Cenizo, Nagua
+LO LONE3 El Aguacate, Bahoruco
+LO LONE3 LO Station
+LO LOPU  LO Station
+LO LORA  LO Station
+LO LOSA  LO Station
+LO LOSCT LO Station
+LO LOTA  LO Station
+LO LOVI  El Caujil, Oviedo
+LO LOVI  LO Station
+LX GGNV  LX Station
+LX MESJ  LX Station
+LX MORF  LX Station
+M1 ANAC  MONET Anensky vrch
+M1 LIPC  MONET Lipinka
+M1 LOSC  MONET Losov
+M1 LUKC  MONET Luka
+M1 MUVC  MONET Mutkov
+M1 PIVO  Bartosovice
+M1 RYBC  MONET Ceska Rybna
+M1 SUPC  MONET Skalka u Prostejova
+MB ALMT  MB Station
+MB BEMT  MB Station
+MB BGMT  MB Station
+MB BHMT  MB Station
+MB BPMT  MB Station
+MB BSMT  MB Station
+MB BUT   MB Station
+MB BZMT  MB Station
+MB CHMT  MB Station
+MB CRMT  MB Station
+MB ELMT  MB Station
+MB FBMT  MB Station
+MB GBMT  MB Station
+MB GCMT  MB Station
+MB HBMT  MB Station
+MB HLMT  MB Station
+MB HRY   MB Station
+MB JTMT  MB Station
+MB LCCM  MB Station
+MB LRM   MB Station
+MB LYMT  MB Station
+MB MCMT  MB Station
+MB MKMT  MB Station
+MB MOMT  MB Station
+MB MSMT  MB Station
+MB NDMT  MB Station
+MB OVMT  MB Station
+MB PCMT  MB Station
+MB QLMT  MB Station
+MB SLMT  MB Station
+MB SRMT  MB Station
+MB STMT  MB Station
+MB SWMT  MB Station
+MB SXM   MB Station
+MB TPMT  MB Station
+MB VCMT  MB Station
+MB YBMT  MB Station
+MC AIRS  MC Station
+MC OLV1  MC Station
+MC OLV2  MC Station
+MC TRNT  MC Station
+MD KIS   Chisinau
+MG BMEX1 MG station
+MG BMEX2 MG station
+MG BMEX3 192.168.192.175
+MG BMEX4 MG station
+MG BMEX5 MG station
+MG BMEX6 MG station
+MG TXMV  MG Station
+MK BIA   BIA
+MK OHR   OHR
+MK SKO   0000
+MK SKO   SKO
+MK VAY   0000
+MK VAY   VAY
+MM KTA   MM Station
+MM KTN   MM Station
+MM NGU   MM Station
+MM TGI   MM Station
+MN AQU   L'Aquila, Italy
+MN AQU   MN Station
+MN BLY   Banja Luka, Bosnia and Herzegovina
+MN BNI   Bardonecchia, Italy
+MN BNI   MN Station
+MN BZS   Buzias, Romania
+MN CEL   Celeste, Italy
+MN CEL   MN CEL
+MN CEL   MN Station
+MN CLTB  Caltabellotta, Italy
+MN CUC   Castrocucco, Italy
+MN CUC   MN CUC
+MN IDI   Anogia, Greece
+MN KEK   Kerkira Island, Greece
+MN KLV   Kalavryta, Achaia, Greece
+MN PDG   Podgorica, Montenegro
+MN RTC   Rabat, Morocco
+MN TIP   MN Station
+MN TIP   MN TIP
+MN TIP   Timpagrande, Italy
+MN TIR   Tirana, Albania
+MN TRI   MedNet Station
+MN TRI   Trieste, Italy
+MN TUE   Stuetta, Italy
+MN VLC   Villacollemandina, Italy
+MN VSL   MN Station
+MN VSL   Villasalto, Italy
+MN VTS   Vitosha, Bulgary
+MN WDD   MN Station
+MN WDD   Wied Dalam, Malta
+MP AMR2  MP Station
+MP DHK1  MP Station
+MP KIR1  MP Station
+MQ BAM   BAM
+MQ CPM   CPM
+MQ CR0M  CR0M
+MQ GBM   GBM
+MQ GBM   MQ Station
+MQ IA2   IA2
+MQ IAJB  IAJB
+MQ LAM   LAM
+MQ LAM   MQ Station
+MQ LPM   LPM
+MQ LPM   MQ Station
+MQ MLM   MLM
+MQ MLM0  MLM0
+MQ MPLM  MPLM
+MQ MPLM  MQ Station
+MQ MVM   MQ Station
+MQ MVM   MVM
+MQ PBO   MQ Station
+MQ PBO   PBO
+MQ PCM   PCM
+MQ TRM   MQ Station
+MQ TRM   TRM
+MQ ZAM   MQ Station
+MQ ZAM   ZAM
+MS BESC  MS Station
+MS BTDF  MS Station
+MS KAPK  MS Station
+MS NTU   MS Station
+MS UBIN  MS Station
+MT AVM   MT Station
+MT AVP   MT Station
+MT AVR   MT Station
+MT CLP2  MT Station
+MT CLP4  MT Station
+MT GAL   MT Station
+MT GUI   MT Station
+MT RES   MT Station
+MT RUI   MT Station
+MT THE   MT Station
+MU EARS  MU Station
+MU MUB2  MU Station
+MU MUG1  MU Station
+MX CCIG  MX Station
+MX HPIG  MX Station
+MX HSIG  MX Station
+MX MOIG  MX Station
+MX SRIG  MX Station
+MX TLIG  MX Station
+MX ZAIG  MX Station
+MY IPM   MY Station
+MY KKM   MY Station
+MY KOM   MY Station
+MY KSM   MY Station
+MY KUM   MY Station
+MY LDM   MY Station
+MY SBM   MY Station
+N4 060A  N4 Station
+N4 061Z  Ochoppi, FL, USA
+N4 143B  N4 Station
+N4 146B  N4 Station
+N4 154A  N4 Station
+N4 250A  N4 Station
+N4 346B  N4 Station
+N4 352A  N4 Station
+N4 441B  N4 Station
+N4 456A  N4 Station
+N4 545B  N4 Station
+N4 545B  Wilberts Farm, Edgard, LA, USA
+N4 553A  N4 Station
+N4 656A  N4 Station
+N4 735B  N4 Station
+N4 ABTX  N4 Station
+N4 BGNE  N4 Station
+N4 D62A  N4 Station
+N4 E28B  N4 Station
+N4 E38A  N4 Station
+N4 E46A  N4 Station
+N4 F33B  N4 Station
+N4 F42A  N4 Station
+N4 F64A  N4 Station
+N4 G40A  N4 Station
+N4 G62A  N4 Station
+N4 G65A  N4 Station
+N4 H43A  N4 Station
+N4 H62A  N4 Station
+N4 I37B  N4 Station
+N4 I40B  N4 Station
+N4 I42A  N4 Station
+N4 I45A  N4 Station
+N4 I49A  N4 Station
+N4 I62A  N4 Station
+N4 I63A  N4 Station
+N4 J47A  N4 Station
+N4 J55A  N4 Station
+N4 J57A  N4 Station
+N4 J59A  N4 Station
+N4 J61A  N4 Station
+N4 K22A  N4 Station
+N4 K30B  N4 Station
+N4 K43A  N4 Station
+N4 K50A  N4 Station
+N4 K57A  N4 Station
+N4 K62A  N4 Station
+N4 KMSC  N4 Station
+N4 KSCO  N4 Station
+N4 L34B  N4 Station
+N4 L40A  N4 Station
+N4 L42A  N4 Station
+N4 L46A  N4 Station
+N4 L56A  N4 Station
+N4 L59A  N4 Station
+N4 L61B  N4 Station
+N4 L64A  N4 Station
+N4 M44A  N4 Station
+N4 M50A  N4 Station
+N4 M52A  N4 Station
+N4 M57A  N4 Station
+N4 M63A  N4 Station
+N4 MDND  N4 Station
+N4 MSTX  N4 Station
+N4 N35B  N4 Station
+N4 N38B  N4 Station
+N4 N41A  N4 Station
+N4 N47A  N4 Station
+N4 N49A  N4 Station
+N4 N51A  N4 Station
+N4 N53A  N4 Station
+N4 N58A  N4 Station
+N4 N62A  N4 Station
+N4 O20A  N4 Station
+N4 O48B  N4 Station
+N4 O49A  N4 Station
+N4 O52A  N4 Station
+N4 O54A  N4 Station
+N4 P38B  N4 Station
+N4 P40B  N4 Station
+N4 P43A  N4 Station
+N4 P46A  N4 Station
+N4 P48A  N4 Station
+N4 P53A  N4 Station
+N4 P57A  N4 Station
+N4 P61A  N4 Station
+N4 Q44B  N4 Station
+N4 Q51A  N4 Station
+N4 Q52A  N4 Station
+N4 Q54A  N4 Station
+N4 R32B  N4 Station
+N4 R49A  N4 Station
+N4 R50A  N4 Station
+N4 R55A  N4 Station
+N4 R58B  N4 Station
+N4 R61A  N4 Station
+N4 S39B  N4 Station
+N4 S44A  N4 Station
+N4 S51A  N4 Station
+N4 S54A  N4 Station
+N4 S57A  N4 Station
+N4 S61A  N4 Station
+N4 SFIN  N4 Station
+N4 SPMN  N4 Station
+N4 SUSD  N4 Station
+N4 T35B  N4 Station
+N4 T42B  N4 Station
+N4 T45B  N4 Station
+N4 T47A  N4 Station
+N4 T50A  N4 Station
+N4 T57A  N4 Station
+N4 T59A  N4 Station
+N4 TIGA  N4 Station
+N4 TUL3  N4 Station
+N4 U38B  N4 Station
+N4 U49A  N4 Station
+N4 U54A  N4 Station
+N4 U56A  N4 Station
+N4 V48A  N4 Station
+N4 V53A  N4 Station
+N4 V55A  N4 Station
+N4 V61A  N4 Station
+N4 V61A  Roper, NC, USA
+N4 W50A  N4 Station
+N4 W52A  N4 Station
+N4 W57A  N4 Station
+N4 W59A  N4 Station
+N4 WHTX  N4 Station
+N4 X48A  N4 Station
+N4 X51A  N4 Station
+N4 X58A  N4 Station
+N4 Y45B  N4 Station
+N4 Y52A  N4 Station
+N4 Y57A  N4 Station
+N4 Y58A  N4 Station
+N4 Y60A  N4 Station
+N4 Z35B  N4 Station
+N4 Z38B  N4 Station
+N4 Z47B  N4 Station
+NA SABA  NA Station
+NA SABA  SABA
+NA SABA  Saba, St. John
+NA SABQ  Saba, The Bottom
+NA SABV  Saba, Zion Hill
+NA SABW  Saba, Windwardside
+NA SEUG  St. Eustatius, George
+NA SEUH  St. Eustatius, Knippenga
+NA SEUS  NA Station
+NA SEUS  SEUS
+NA SEUS  St. Eustatius, airport
+NA SEUT  St. Eustatius, Eutel
+NA SMRT  NA Station
+NA SMRT  SMRT
+NA SMRT  St. Maarten, Caribbean Sea
+NB ACJC  Joao Camara-RN, Brazil
+NB NBAN  Anadia, AL
+NB NBAN  Anadia- AL, Brazil
+NB NBBC  Barreira do Corda - MA, Brazil
+NB NBBL  Bica de Lurdes, Rio Formoso- PE, Brazil
+NB NBCA  Caruaru, PE
+NB NBCA  Caruaru-PE, Brazil
+NB NBCL  Cascavel, CE
+NB NBCL  Cascavel-CE, Brazil
+NB NBIT  Itape-BA, Brazil
+NB NBLA  Lagarto, SE
+NB NBLA  Lagarto- SE, Brazil
+NB NBLV  Livramento, PB
+NB NBLV  Livramento- PB, Brazil
+NB NBMA  Mauriti- CE, Brazil
+NB NBMO  Morrinhos- CE, Brazil
+NB NBPA  Parau-RN, Brazil
+NB NBPB  Pedra Branca, CE
+NB NBPB  Pedra Branca-CE, Brazil
+NB NBPN  Ponto Novo- BA, Brazil
+NB NBPS  Pedro Segundo- PI, Brazil
+NB NBPV  Pedro Velho- RN, Brazil
+NB NBTA  Tacaratu- PE, Brazil
+NB PFBR  Pau dos Ferros, RN
+NB RBRC  Universidade do Acre -AC
+NB SBBR  Sobral, CE
+ND JNKNC Jinek - 98814, Lifou - Iles Loyaute - Nouvelle-Caledonie -
+ND JNKNC ND Station
+ND KOUNC Koumac - 98812 - Province Nord - Nouvelle-Caledonie - Fran
+ND KOUNC ND Station
+ND MARNC Mare - 98815 - Iles Loyaute - Nouvelle-Caledonie - France
+ND MARNC ND Station
+ND ONTNC ND Station
+ND ONTNC Ouen Toro - 98818, Noumea - Province Sud - Nouvelle-Caledo
+ND OUENC ND Station
+ND OUENC ile Ouen - 98817, Le Mont-Dore - Province Sud - Nouvelle-C
+ND PINNC L'Ile-des-Pins - 98809 - Province Sud - Nouvelle-Caledonie
+ND PINNC ND Station
+ND YATNC Yate - 98832 - Province Sud - Nouvelle-Caledonie - France
+NE BCX   NE Station
+NE EMMW  NE Station
+NE HNH   NE Station
+NE TRY   NE Station
+NE VT1   NE Station
+NE WES   NE Station
+NE WSPT  NE Station
+NE WVL   NE Station
+NI DST2  NE Italy BB Network
+NI PALA  NE Italy BB Network
+NI POLC  NE Italy BB Network
+NI PURA  NE Italy BB Network
+NI VINO  NE Italy BB Network
+NK KKN   NK Station
+NL DBN01 De Bilt Infrasound Array
+NL DBN02 De Bilt Infrasound Array
+NL DBN03 De Bilt Infrasound Array
+NL DBN04 De Bilt Infrasound Array
+NL DBN05 De Bilt Infrasound Array
+NL DBN06 De Bilt Infrasound Array
+NL G130  Middelstum (niveau 0)
+NL G170  Middelstum (niveau 0)
+NL G180  Loppersum (niveau 0)
+NL G230  Garrelsweer (niveau 0)
+NL G280  Woltersum (niveau 0)
+NL G290  Overschild (niveau 0)
+NL G330  Garmerwolde (niveau 0)
+NL G340  Overschild (niveau 0)
+NL G390  Woudbloemsloot (niveau 0)
+NL G680  Ruicherbrug (niveau 0)
+NL G690  Engelbert (niveau 0)
+NL HGN   HEIMANSGROEVE, NETHERLANDS
+NL HGN   NL Station
+NL HRKB  Herkenbosch
+NL OPLO  Oploo
+NL TERZ  Terziet
+NL TK01  TK01
+NL TK02  TK02
+NL TK03  TK03
+NL TK04  TK04
+NL TK05  TK05
+NL TK06  TK06
+NL VKB   Valkenburg, Netherlands
+NL WTSB  Winterswijk, The Netherlands
+NM ARPT  NM Station
+NM ATTN  NM Station
+NM BACM  NM Station
+NM BETM  NM Station
+NM BFAR  NM Station
+NM BLAR  NM Station
+NM BLO   NM Station
+NM BOAR  NM Station
+NM BRGM  NM Station
+NM BRNM  NM Station
+NM BROM  NM Station
+NM BVAR  NM Station
+NM CACT  NM Station
+NM CATM  NM Station
+NM CBHS  NM Station
+NM CBMO  NM Station
+NM CGM3  NM Station
+NM CHNM  NM Station
+NM CHRM  NM Station
+NM CLTN  NM Station
+NM COKM  NM Station
+NM CPAR  NM Station
+NM CSTN  NM Station
+NM CUET  NM Station
+NM CVTN  NM Station
+NM CVVA  NM Station
+NM CWPT  NM Station
+NM DLAR  NM Station
+NM DWDM  NM Station
+NM EDIT  NM Station
+NM EPRM  NM Station
+NM FFIL  NM Station
+NM FLPT  NM Station
+NM FPST  NM Station
+NM FVM   NM Station
+NM GILT  NM Station
+NM GLAT  NM Station
+NM GLST  NM Station
+NM GNAR  NM Station
+NM GOBM  NM Station
+NM GSAR  NM Station
+NM GUAM  NM Station
+NM HALT  NM Station
+NM HBAR  NM Station
+NM HCAR  NM Station
+NM HDAR2 NM Station
+NM HDBT  NM Station
+NM HENM  NM Station
+NM HICK  NM Station
+NM HOPT  NM Station
+NM HOVM  NM Station
+NM HTAR  NM Station
+NM KEWM  NM Station
+NM LFRT  NM Station
+NM LNXT  NM Station
+NM LPAR  NM Station
+NM LRAR  NM Station
+NM LVAR  NM Station
+NM MADT  NM Station
+NM MARM  NM Station
+NM MATM  NM Station
+NM MCAM  NM Station
+NM MCAR  NM Station
+NM MCIL  NM Station
+NM MFRT  NM Station
+NM MGMO  NM Station
+NM MIST  NM Station
+NM MKAR  NM Station
+NM MLDM  NM Station
+NM MORT2 NM Station
+NM MPH   NM Station
+NM MSAR  NM Station
+NM MTAR  NM Station
+NM NAIT  NM Station
+NM NFAR  NM Station
+NM NHAR  NM Station
+NM NHIN  NM Station
+NM NMDM  NM Station
+NM NMEM  NM Station
+NM NNAR  NM Station
+NM NWCT  NM Station
+NM OLIL  NM Station
+NM PARM  NM Station
+NM PBMO  NM Station
+NM PEBM  NM Station
+NM PENM  NM Station
+NM PGVM  NM Station
+NM PLAL  NM Station
+NM POBM  NM Station
+NM PPLM  NM Station
+NM PVMO  NM Station
+NM PWLA  NM Station
+NM QUAR  NM Station
+NM RDGT  NM Station
+NM RDST2 NM Station
+NM RELT  NM Station
+NM RVAR  NM Station
+NM SEAR  NM Station
+NM SHTN  NM Station
+NM SIUC  NM Station
+NM SJBM  NM Station
+NM SLM   NM Station
+NM STAM  NM Station
+NM TMAR  NM Station
+NM TNMT  NM Station
+NM TOPM  NM Station
+NM TUMT  NM Station
+NM TWAR  NM Station
+NM TYAR  NM Station
+NM UALR  NM Station
+NM USIN  NM Station
+NM UTMT  NM Station
+NM WADM  NM Station
+NM WALK  NM Station
+NM WYBT  NM Station
+NM X502  NM Station
+NN AGLV  NN Station
+NN BAB   NN Station
+NN BALD  NN Station
+NN BEK   NN Station
+NN BFC   NN Station
+NN BIGH  NN Station
+NN BMHS  NN Station
+NN BUNK  NN Station
+NN CC12  NN Station
+NN CF03  NN Station
+NN CTC   NN Station
+NN DIX   NN Station
+NN DON   NN Station
+NN EBPB  NN Station
+NN FMT   NN Station
+NN GMN   NN Station
+NN GVN   NN Station
+NN GWY   NN Station
+NN HF05  NN Station
+NN HVGC  NN Station
+NN HYDE  NN Station
+NN JVTV  NN Station
+NN KVN   NN Station
+NN LCH   NN Station
+NN LEEK  NN Station
+NN LHV   NN Station
+NN LOYB  NN Station
+NN LV04  NN Station
+NN LV07  NN Station
+NN LV09  NN Station
+NN MC02  NN Station
+NN MC03  NN Station
+NN MCA   NN Station
+NN MCA06 NN Station
+NN MND1  NN Station
+NN MPK   NN Station
+NN MZPB  NN Station
+NN NMHS  NN Station
+NN NOAA  NN Station
+NN PAH   NN Station
+NN PEA   NN Station
+NN PICO  NN Station
+NN PIO   NN Station
+NN PNT   NN Station
+NN PRN   NN Station
+NN PYM2  NN Station
+NN QNBC  NN Station
+NN REDF  NN Station
+NN RF05  NN Station
+NN RFNV  NN Station
+NN RKLD  NN Station
+NN RRK   NN Station
+NN SAG5  NN Station
+NN SBT   NN Station
+NN SHP   NN Station
+NN SJC   NN Station
+NN SKYF  NN Station
+NN SLID  NN Station
+NN SMRN  NN Station
+NN SSFS  NN Station
+NN SWTP  NN Station
+NN TBRD  NN Station
+NN TVH1  NN Station
+NN VCN   NN Station
+NN VOTK  NN Station
+NN VPK   NN Station
+NN WAK   NN Station
+NN WASH  NN Station
+NN WCT   NN Station
+NN WDEM  NN Station
+NN WGLF  NN Station
+NN WLDB  NN Station
+NN WVA   NN Station
+NN YER   NN Station
+NN ZPR   NN Station
+NP 2172  NP Station
+NP 2194  NP Station
+NP 286   NP Station
+NP 5047  NP Station
+NP 5274  NP Station
+NP 7030  NP Station
+NP 7040  NP Station
+NP 7043  NP Station
+NP 7208  NP Station
+NP 7212  NP Station
+NP 7223  NP Station
+NP 7224  NP Station
+NP 7228  NP Station
+NP 7232  NP Station
+NP 8040  NP Station
+NP DPA1  NP Station
+NP DPA2  NP Station
+NP DPA3  NP Station
+NP DPA4  NP Station
+NQ OK914 NQ Station
+NS BER   Bergen, Norway
+NS BJO1  Bjornoya, Norway
+NS BLS5  Blasjo, Norway
+NS FOO   Floro, Norway
+NS HAMF  Hammerfest, Norway
+NS HOMB  Homborsund, Norway
+NS HOPEN Hopen, Norway
+NS MOL   Molde, Norway
+NS NSS   Namsos, Norway
+NS SUE   Sulen, Norway
+NS TBLU  Trondheim, Norway
+NS TRO   Tromso, Norway
+NT BDT   NT Station
+NT BSL   NT Station
+NT FDT   NT Station
+NT NEW   NT Station
+NT SHU   NT Station
+NT SJT   NT Station
+NU ACON  NU Station
+NU ACON  Station Acoyapa, Nicaragua
+NU BILN  NU Station
+NU BLUN  NU Station
+NU BLUN  Station Bluefields, Nicaragua
+NU CARN  NU Station
+NU CNGN  Station Cerro Negro, Nicaragua
+NU CRIN  NU Station
+NU CRIN  Station San Cristobal, Nicaragua
+NU CSGN  NU Station
+NU ESPN  Station La Esperanza, Nicaragua
+NU ESTN  Station Esteli, Nicaragua
+NU HERN  NU Station
+NU MASN  NU Station
+NU MASN  Station Volcano Masya, Nicaragua
+NU MATN  MATN
+NU MGAN  NU Station
+NU MGAN  Station Managua, Nicaragua
+NU POTN  NU Station
+NU RCON  NU Station
+NU RCON  RCON
+NU RIBN  NU Station
+NV BACME NV Station
+NV BACND NV Station
+NV CBC27 NV Station
+NV CQS64 NV Station
+NV ENEF  NV Station
+NV ENWF  NV Station
+NV NC27  NV Station
+NV NC89  NV Station
+NV NCBC  NV Station
+NV NCHR  NV Station
+NW L44A  NW Station
+NX WTX28 NX Station
+NX WTX29 NX Station
+NY FARO  NY Station
+NY MAYO  NY Station
+NY WTLY  NY Station
+NZ ABAZ  NZ Station
+NZ ADCS  NZ Station
+NZ AKCZ  NZ Station
+NZ ALRZ  NZ Station
+NZ AMBC  NZ Station
+NZ AMCZ  NZ Station
+NZ ANWZ  NZ Station
+NZ APIM  NZ Station
+NZ APPS  NZ Station
+NZ ARAZ  NZ Station
+NZ ARHZ  NZ Station
+NZ ARPS  NZ Station
+NZ ASHS  NZ Station
+NZ AUCT  NZ Station
+NZ AWAZ  NZ Station
+NZ BDCS  NZ Station
+NZ BFZ   NZ Station
+NZ BHHZ  NZ Station
+NZ BHW   NZ Station
+NZ BKZ   NZ Station
+NZ BOWS  NZ Station
+NZ BSWZ  NZ Station
+NZ BTWS  NZ Station
+NZ BWHS  NZ Station
+NZ BWRS  NZ Station
+NZ CAW   NZ Station
+NZ CCCC  NZ Station
+NZ CECS  NZ Station
+NZ CHIT  NZ Station
+NZ CHST  NZ Station
+NZ CKHZ  NZ Station
+NZ CMWZ  NZ Station
+NZ CNGZ  NZ Station
+NZ COVZ  NZ Station
+NZ CPIT  NZ Station
+NZ CPWZ  NZ Station
+NZ CRSZ  NZ Station
+NZ CSHS  NZ Station
+NZ CSTC  NZ Station
+NZ CTZ   NZ Station
+NZ CULC  NZ Station
+NZ CVZ   NZ Station
+NZ DALS  NZ Station
+NZ DAVS  NZ Station
+NZ DCDS  NZ Station
+NZ DCZ   NZ Station
+NZ DFHS  NZ Station
+NZ DGNS  NZ Station
+NZ DHSS  NZ Station
+NZ DKHS  NZ Station
+NZ DORC  NZ Station
+NZ DREZ  NZ Station
+NZ DSLC  NZ Station
+NZ DSZ   NZ Station
+NZ DUNS  NZ Station
+NZ DUWZ  NZ Station
+NZ DVHS  NZ Station
+NZ DVHZ  NZ Station
+NZ EAZ   NZ Station
+NZ EBFS  NZ Station
+NZ ECLS  NZ Station
+NZ EDRZ  NZ Station
+NZ EKTS  NZ Station
+NZ EPAZ  NZ Station
+NZ ETAZ  NZ Station
+NZ ETVZ  NZ Station
+NZ EYWM  NZ Station
+NZ FAHS  NZ Station
+NZ FDCS  NZ Station
+NZ FJDS  NZ Station
+NZ FKPS  NZ Station
+NZ FOZ   NZ Station
+NZ FTPS  NZ Station
+NZ FWVZ  NZ Station
+NZ FXBS  NZ Station
+NZ GBIH  NZ Station
+NZ GBIT  NZ Station
+NZ GCSZ  NZ Station
+NZ GDLC  NZ Station
+NZ GHHS  NZ Station
+NZ GISS  NZ Station
+NZ GIST  NZ Station
+NZ GKBS  NZ Station
+NZ GLKZ  NZ Station
+NZ GLNS  NZ Station
+NZ GLOS  NZ Station
+NZ GLWS  NZ Station
+NZ GODS  NZ Station
+NZ GOVS  NZ Station
+NZ GRAS  NZ Station
+NZ GRRZ  NZ Station
+NZ GRZ   NZ Station
+NZ GVZ   NZ Station
+NZ GWTS  NZ Station
+NZ HAFS  NZ Station
+NZ HALS  NZ Station
+NZ HATZ  NZ Station
+NZ HAVS  NZ Station
+NZ HAZ   NZ Station
+NZ HBAZ  NZ Station
+NZ HBHS  NZ Station
+NZ HDWS  NZ Station
+NZ HIBS  NZ Station
+NZ HIZ   NZ Station
+NZ HLRZ  NZ Station
+NZ HMCS  NZ Station
+NZ HNPS  NZ Station
+NZ HORC  NZ Station
+NZ HOWZ  NZ Station
+NZ HRRZ  NZ Station
+NZ HSES  NZ Station
+NZ HSRZ  NZ Station
+NZ HSSS  NZ Station
+NZ HUKS  NZ Station
+NZ HUNS  NZ Station
+NZ HVSC  NZ Station
+NZ ICCS  NZ Station
+NZ IFPS  NZ Station
+NZ INGS  NZ Station
+NZ INHS  NZ Station
+NZ INSS  NZ Station
+NZ INZ   NZ Station
+NZ IVVZ  NZ Station
+NZ JCZ   NZ Station
+NZ KAFS  NZ Station
+NZ KAHZ  NZ Station
+NZ KAIT  NZ Station
+NZ KAPS  NZ Station
+NZ KARZ  NZ Station
+NZ KATZ  NZ Station
+NZ KBAZ  NZ Station
+NZ KEKS  NZ Station
+NZ KFHS  NZ Station
+NZ KHEZ  NZ Station
+NZ KHLS  NZ Station
+NZ KHZ   NZ Station
+NZ KIKS  NZ Station
+NZ KIRS  NZ Station
+NZ KIW   NZ Station
+NZ KLDS  NZ Station
+NZ KMRZ  NZ Station
+NZ KNZ   NZ Station
+NZ KOKS  NZ Station
+NZ KOWC  NZ Station
+NZ KPOC  NZ Station
+NZ KRHZ  NZ Station
+NZ KRVZ  NZ Station
+NZ KUTZ  NZ Station
+NZ KUZ   NZ Station
+NZ KWHZ  NZ Station
+NZ LBZ   NZ Station
+NZ LHBS  NZ Station
+NZ LHES  NZ Station
+NZ LHRS  NZ Station
+NZ LIRS  NZ Station
+NZ LIRZ  NZ Station
+NZ LOKS  NZ Station
+NZ LOTT  NZ Station
+NZ LPDS  NZ Station
+NZ LREZ  NZ Station
+NZ LRSC  NZ Station
+NZ LRSS  NZ Station
+NZ LSRC  NZ Station
+NZ LTZ   NZ Station
+NZ MAGS  NZ Station
+NZ MARZ  NZ Station
+NZ MATS  NZ Station
+NZ MAVS  NZ Station
+NZ MAVZ  NZ Station
+NZ MBAZ  NZ Station
+NZ MCAS  NZ Station
+NZ MCHZ  NZ Station
+NZ MCNS  NZ Station
+NZ MECS  NZ Station
+NZ MENS  NZ Station
+NZ MGCS  NZ Station
+NZ MHCZ  NZ Station
+NZ MHEZ  NZ Station
+NZ MHGZ  NZ Station
+NZ MISS  NZ Station
+NZ MKAZ  NZ Station
+NZ MKBS  NZ Station
+NZ MKRZ  NZ Station
+NZ MKVS  NZ Station
+NZ MLZ   NZ Station
+NZ MMCS  NZ Station
+NZ MMKS  NZ Station
+NZ MNGS  NZ Station
+NZ MNKT  NZ Station
+NZ MNZS  NZ Station
+NZ MOLS  NZ Station
+NZ MORS  NZ Station
+NZ MOTS  NZ Station
+NZ MOVZ  NZ Station
+NZ MPSS  NZ Station
+NZ MQZ   NZ Station
+NZ MRHZ  NZ Station
+NZ MRNZ  NZ Station
+NZ MRZ   NZ Station
+NZ MSMC  NZ Station
+NZ MSWZ  NZ Station
+NZ MSZ   NZ Station
+NZ MTHS  NZ Station
+NZ MTHZ  NZ Station
+NZ MTPS  NZ Station
+NZ MTVZ  NZ Station
+NZ MTW   NZ Station
+NZ MUGZ  NZ Station
+NZ MWDS  NZ Station
+NZ MWFS  NZ Station
+NZ MWZ   NZ Station
+NZ MXZ   NZ Station
+NZ MYRZ  NZ Station
+NZ NAAS  NZ Station
+NZ NAPT  NZ Station
+NZ NBEZ  NZ Station
+NZ NBLC  NZ Station
+NZ NBRT  NZ Station
+NZ NCBS  NZ Station
+NZ NCDS  NZ Station
+NZ NCHS  NZ Station
+NZ NCPT  NZ Station
+NZ NELS  NZ Station
+NZ NEWS  NZ Station
+NZ NEZ   NZ Station
+NZ NGHS  NZ Station
+NZ NGRZ  NZ Station
+NZ NGZ   NZ Station
+NZ NLMS  NZ Station
+NZ NMEZ  NZ Station
+NZ NMHZ  NZ Station
+NZ NNBS  NZ Station
+NZ NNZ   NZ Station
+NZ NOVZ  NZ Station
+NZ NPCS  NZ Station
+NZ NSBS  NZ Station
+NZ NSPS  NZ Station
+NZ NTVZ  NZ Station
+NZ NWFS  NZ Station
+NZ OAMS  NZ Station
+NZ ODZ   NZ Station
+NZ OGWZ  NZ Station
+NZ OHSS  NZ Station
+NZ OHWZ  NZ Station
+NZ OKCZ  NZ Station
+NZ OMRZ  NZ Station
+NZ OPCS  NZ Station
+NZ OPSS  NZ Station
+NZ OPWS  NZ Station
+NZ OPZ   NZ Station
+NZ ORCS  NZ Station
+NZ ORPS  NZ Station
+NZ OTAT  NZ Station
+NZ OTKS  NZ Station
+NZ OTVZ  NZ Station
+NZ OUZ   NZ Station
+NZ OXZ   NZ Station
+NZ PAPS  NZ Station
+NZ PARS  NZ Station
+NZ PAWZ  NZ Station
+NZ PEEC  NZ Station
+NZ PFAS  NZ Station
+NZ PGFS  NZ Station
+NZ PGMS  NZ Station
+NZ PHHS  NZ Station
+NZ PKE   NZ Station
+NZ PKGZ  NZ Station
+NZ PKVZ  NZ Station
+NZ PLWZ  NZ Station
+NZ PNBS  NZ Station
+NZ PNHZ  NZ Station
+NZ PNMS  NZ Station
+NZ PNRS  NZ Station
+NZ POIZ  NZ Station
+NZ POKS  NZ Station
+NZ POLS  NZ Station
+NZ POTS  NZ Station
+NZ POWZ  NZ Station
+NZ PPHS  NZ Station
+NZ PREZ  NZ Station
+NZ PRGZ  NZ Station
+NZ PRHZ  NZ Station
+NZ PRNS  NZ Station
+NZ PRPC  NZ Station
+NZ PRRZ  NZ Station
+NZ PRWZ  NZ Station
+NZ PTHS  NZ Station
+NZ PTOS  NZ Station
+NZ PUYT  NZ Station
+NZ PUZ   NZ Station
+NZ PVCS  NZ Station
+NZ PWES  NZ Station
+NZ PWZ   NZ Station
+NZ PXZ   NZ Station
+NZ PYZ   NZ Station
+NZ QCCS  NZ Station
+NZ QRZ   NZ Station
+NZ QTPS  NZ Station
+NZ RACZ  NZ Station
+NZ RAGZ  NZ Station
+NZ RAHZ  NZ Station
+NZ RATZ  NZ Station
+NZ RCBS  NZ Station
+NZ RDCS  NZ Station
+NZ REHS  NZ Station
+NZ RHSC  NZ Station
+NZ RIGZ  NZ Station
+NZ RITZ  NZ Station
+NZ RIZ   NZ Station
+NZ RKAC  NZ Station
+NZ ROLC  NZ Station
+NZ ROTS  NZ Station
+NZ RPCS  NZ Station
+NZ RPZ   NZ Station
+NZ RRKS  NZ Station
+NZ RRRZ  NZ Station
+NZ RTZ   NZ Station
+NZ RUGZ  NZ Station
+NZ RVAZ  NZ Station
+NZ SACS  NZ Station
+NZ SBAM  NZ Station
+NZ SBRC  NZ Station
+NZ SCAC  NZ Station
+NZ SDNS  NZ Station
+NZ SEAS  NZ Station
+NZ SEDS  NZ Station
+NZ SEVS  NZ Station
+NZ SHFC  NZ Station
+NZ SHLC  NZ Station
+NZ SJFS  NZ Station
+NZ SKFS  NZ Station
+NZ SLRC  NZ Station
+NZ SMHS  NZ Station
+NZ SMTC  NZ Station
+NZ SNGZ  NZ Station
+NZ SNVZ  NZ Station
+NZ SOCS  NZ Station
+NZ SOMS  NZ Station
+NZ SPRS  NZ Station
+NZ STAS  NZ Station
+NZ STKS  NZ Station
+NZ SUMS  NZ Station
+NZ SUMT  NZ Station
+NZ SWNC  NZ Station
+NZ SYZ   NZ Station
+NZ TACS  NZ Station
+NZ TAFS  NZ Station
+NZ TAIS  NZ Station
+NZ TARZ  NZ Station
+NZ TAUT  NZ Station
+NZ TBAS  NZ Station
+NZ TBCS  NZ Station
+NZ TCW   NZ Station
+NZ TDHS  NZ Station
+NZ TEPS  NZ Station
+NZ TFSS  NZ Station
+NZ TGRZ  NZ Station
+NZ THHS  NZ Station
+NZ THQ2  NZ Station
+NZ THZ   NZ Station
+NZ TIRS  NZ Station
+NZ TIWZ  NZ Station
+NZ TKAS  NZ Station
+NZ TKGZ  NZ Station
+NZ TKHS  NZ Station
+NZ TKNZ  NZ Station
+NZ TLZ   NZ Station
+NZ TMDS  NZ Station
+NZ TMVZ  NZ Station
+NZ TMWZ  NZ Station
+NZ TOKS  NZ Station
+NZ TOVZ  NZ Station
+NZ TOZ   NZ Station
+NZ TPPS  NZ Station
+NZ TRMS  NZ Station
+NZ TRVZ  NZ Station
+NZ TRWZ  NZ Station
+NZ TSFS  NZ Station
+NZ TSZ   NZ Station
+NZ TUDS  NZ Station
+NZ TUHS  NZ Station
+NZ TUVZ  NZ Station
+NZ TUWZ  NZ Station
+NZ TUZ   NZ Station
+NZ TWAS  NZ Station
+NZ TWGZ  NZ Station
+NZ TWVZ  NZ Station
+NZ UHCS  NZ Station
+NZ UHSS  NZ Station
+NZ URZ   NZ Station
+NZ UTU   NZ Station
+NZ VRZ   NZ Station
+NZ VUWS  NZ Station
+NZ WACZ  NZ Station
+NZ WAIS  NZ Station
+NZ WAKC  NZ Station
+NZ WAKS  NZ Station
+NZ WANS  NZ Station
+NZ WATZ  NZ Station
+NZ WAZ   NZ Station
+NZ WBCS  NZ Station
+NZ WBFS  NZ Station
+NZ WBHS  NZ Station
+NZ WCDS  NZ Station
+NZ WCSS  NZ Station
+NZ WCZ   NZ Station
+NZ WDAS  NZ Station
+NZ WDFS  NZ Station
+NZ WDPS  NZ Station
+NZ WEL   NZ Station
+NZ WEMS  NZ Station
+NZ WFSS  NZ Station
+NZ WHAS  NZ Station
+NZ WHFS  NZ Station
+NZ WHHZ  NZ Station
+NZ WHRZ  NZ Station
+NZ WHSZ  NZ Station
+NZ WHTZ  NZ Station
+NZ WHZ   NZ Station
+NZ WIAZ  NZ Station
+NZ WIGC  NZ Station
+NZ WKHS  NZ Station
+NZ WKZ   NZ Station
+NZ WLGT  NZ Station
+NZ WMGZ  NZ Station
+NZ WNAS  NZ Station
+NZ WNHS  NZ Station
+NZ WNKS  NZ Station
+NZ WNPS  NZ Station
+NZ WNVZ  NZ Station
+NZ WPHZ  NZ Station
+NZ WPRZ  NZ Station
+NZ WPWS  NZ Station
+NZ WRAS  NZ Station
+NZ WRCS  NZ Station
+NZ WSFC  NZ Station
+NZ WTAZ  NZ Station
+NZ WTMC  NZ Station
+NZ WTVZ  NZ Station
+NZ WTYS  NZ Station
+NZ WVAS  NZ Station
+NZ WVFS  NZ Station
+NZ WVZ   NZ Station
+O2 ALVA  ALVA
+O2 ALVA  O2 Station
+O2 ARC2  ARC2
+O2 ARC2  O2 Station
+O2 CALT  CALT
+O2 CALT  O2 Station
+O2 CHAN  CHAN
+O2 CHAN  O2 Station
+O2 CRES  CRES
+O2 CRES  O2 Station
+O2 CVNG  CVNG
+O2 CVNG  O2 Station
+O2 DOVR  DOVR
+O2 DOVR  O2 Station
+O2 DRIP  DRIP
+O2 DRIP  O2 Station
+O2 DRUM  DRUM
+O2 DUST  DUST
+O2 DUST  O2 Station
+O2 ERNS  ERNS
+O2 ERNS  O2 Station
+O2 FREE  FREE
+O2 FREE  O2 Station
+O2 FW01  FW01
+O2 FW01  O2 Station
+O2 FW02  FW02
+O2 FW02  O2 Station
+O2 FW03  FW03
+O2 FW03  O2 Station
+O2 FW04  FW04
+O2 FW04  O2 Station
+O2 FW05  FW05
+O2 FW05  O2 Station
+O2 FW06  FW06
+O2 FW06  O2 Station
+O2 FW07  FW07
+O2 FW07  O2 Station
+O2 FW09  FW09
+O2 FW09  O2 Station
+O2 FW10  FW10
+O2 FW10  O2 Station
+O2 GORE  GORE
+O2 GORE  O2 Station
+O2 KS01  KS01
+O2 KS01  O2 Station
+O2 KS08  KS08
+O2 KS08  O2 Station
+O2 KS13  KS13
+O2 KS13  O2 Station
+O2 MRSH  MRSH
+O2 MRSH  O2 Station
+O2 PERK  O2 Station
+O2 PERK  PERK
+O2 PERY  O2 Station
+O2 PERY  PERY
+O2 POCA  POCA
+O2 PW01  O2 Station
+O2 PW01  PW01
+O2 PW05  O2 Station
+O2 PW05  PW05
+O2 PW06  O2 Station
+O2 PW06  PW06
+O2 PW07  O2 Station
+O2 PW07  PW07
+O2 PW09  O2 Station
+O2 PW09  PW09
+O2 PW10  O2 Station
+O2 PW10  PW10
+O2 PW13  O2 Station
+O2 PW13  PW13
+O2 PW15  O2 Station
+O2 PW15  PW15
+O2 PW17  O2 Station
+O2 PW17  PW17
+O2 PW18  O2 Station
+O2 PW18  PW18
+O2 PW19  O2 Station
+O2 PW19  PW19
+O2 PW30  O2 Station
+O2 PW30  PW30
+O2 QUIN  O2 Station
+O2 QUIN  QUIN
+O2 RNSP  O2 Station
+O2 RNSP  RNSP
+O2 ROSS  O2 Station
+O2 ROSS  ROSS
+O2 SC01  SC01
+O2 SC02  O2 Station
+O2 SC02  SC02
+O2 SC03  O2 Station
+O2 SC03  SC03
+O2 SC04  O2 Station
+O2 SC04  SC04
+O2 SC06  O2 Station
+O2 SC06  SC06
+O2 SC07  O2 Station
+O2 SC07  SC07
+O2 SC08  O2 Station
+O2 SC08  SC08
+O2 SC09  O2 Station
+O2 SC09  SC09
+O2 SC10  O2 Station
+O2 SC10  SC10
+O2 SC11  O2 Station
+O2 SC11  SC11
+O2 SC12  O2 Station
+O2 SC12  SC12
+O2 SC13  O2 Station
+O2 SC13  SC13
+O2 SC14  O2 Station
+O2 SC14  SC14
+O2 SC15  O2 Station
+O2 SC15  SC15
+O2 SC16  O2 Station
+O2 SC16  SC16
+O2 SC17  O2 Station
+O2 SC17  SC17
+O2 SC18  O2 Station
+O2 SC18  SC18
+O2 SC19  O2 Station
+O2 SC19  SC19
+O2 SC20  O2 Station
+O2 SC20  SC20
+O2 SHWN  O2 Station
+O2 SHWN  SHWN
+O2 SMNL  O2 Station
+O2 SMNL  SMNL
+O2 STIG  O2 Station
+O2 STIG  STIG
+O2 TUTT  O2 Station
+O2 TUTT  TUTT
+O2 UCTY  O2 Station
+O2 UCTY  UCTY
+O2 YUKO  O2 Station
+O2 YUKO  YUKO
+OC DOCA  OC Station
+OE ARSA  OE Station
+OE DAVA  OE Station
+OE KBA   OE Station
+OH BCOH  OH Station
+OH BGOH  OH Station
+OH BSPO  OH Station
+OH CHWO  OH Station
+OH CPOH  OH Station
+OH DSFO  OH Station
+OH FOXO  OH Station
+OH KDOH  OH Station
+OH KIOH  OH Station
+OH KLOH  OH Station
+OH LEBO  OH Station
+OH LLSO  OH Station
+OH M53A  OH Station
+OH MFOH  OH Station
+OH MWLO  OH Station
+OH O53A  OH Station
+OH P51A  OH Station
+OH P52A  OH Station
+OH SROH  OH Station
+OH SSF2  OH Station
+OH SSPO  OH Station
+OH SVWO  OH Station
+OH VLOH  OH Station
+OH WODO  OH Station
+OK AMES  AMES
+OK AMES  OK Station
+OK BLOK  BLOK
+OK BLOK  OK Station
+OK BLUF  BLUF
+OK BLUF  OK Station
+OK CHOK  CHOK
+OK CHOK  OK Station
+OK CROK  CROK
+OK CROK  OK Station
+OK CSTR  CSTR
+OK CSTR  OK Station
+OK DEOK  DEOK
+OK DEOK  OK Station
+OK ELIS  ELIS
+OK ELIS  OK Station
+OK FNO   FNO
+OK FNO   OK Station
+OK FRLY  FRLY
+OK GC02  GC02
+OK GC02  OK Station
+OK HTCH  HTCH
+OK HTCH  OK Station
+OK LOOK  LOOK
+OK LOOK  OK Station
+OK MOOR  MOOR
+OK MOOR  OK Station
+OK NOKA  NOKA
+OK NOKA  OK Station
+OK QUOK  OK Station
+OK QUOK  QUOK
+OK RLO2  RLO2
+OK SMO   OK Station
+OK SMO   SMO
+OK SWND  OK Station
+OK SWND  SWND
+OK U32A  U32A
+OK W35A  OK Station
+OK W35A  W35A
+OK WILB  OK Station
+OK WILB  WILB
+OK X34A  OK Station
+OK X34A  X34A
+OK X37A  X37A
+ON ABR01 "OBSN: [ABR01] Abrolhos, BA"
+ON ABR01 Abrolhos, BA
+ON ABR01 ON Station
+ON ALF01 "OBSN: [ALF01] Guarapari, ES"
+ON ALF01 ON Station
+ON ANA01 "OBSN: [ANA01] Lindo Horizonte, BA"
+ON CAJ01 "OBSN: [CAJ01] Cajati, SP"
+ON CAM01 OBSN: [CAM01] Campos, RJ
+ON CMC01 "OBSN: [CMC01] Camacan, BA"
+ON CMC01 ON Station
+ON DUB01 OBSN: [DUB01] Duas Barras, RJ
+ON GDU01 "OBSN: [GDU01] Guandu, BA"
+ON GUA01 "OBSN: [GUA01] Guaratinga, BA"
+ON JAC01 OBSN: [JAC01] Jacupiranga, SP
+ON MAJ01 OBSN: [MAJ01] Major Gercino, SC
+ON MAN01 OBSN: [MAN01] Mangaratiba, RJ
+ON NAN01 "OBSN: [NAN01] Nanuque, MG"
+ON PET01 OBSN: [PET01] Pedro de Toledo, SP
+ON PET01 ON Station
+ON POA01 "OBSN: [POA01] Ponta - SC"
+ON RIB01 OBSN: [RIB01] Rio Bananal, ES
+ON SLP01 OBSN: [SLP01] Sao Luis do Paraitinga, SP
+ON TER01 OBSN: [TER01] Treze de Maio, SC
+ON TIJ01 OBSN: [TIJ01] Tijucas do Sul, PR
+ON TRI01 "OBSN: [TRI01] ILHA DA TRINDADE, ES"
+ON VAS01 OBSN: [VAS01] Vassouras, RJ
+OO AXAS1 OO Station
+OO AXAS2 OO Station
+OO AXBA1 OO Station
+OO AXCC1 OO Station
+OO AXEC1 OO Station
+OO AXEC2 OO Station
+OO AXEC3 OO Station
+OO AXID1 OO Station
+OO HYSB1 OO Station
+OV CAO2  OV Station
+OV JUDI  OV Station
+OV LAFE  OV Station
+OV VAVL  OV Station
+OV VRBA  OV Station
+OV VTUN  OV Station
+OX ACOM  OX Station
+OX CIMO  OX Station
+OX DRE   OX Station
+OX FUSE  OX Station
+OX PRED  OX Station
+OX SABO  OX Station
+PA ANDY1 PA station
+PA ANDY2 PA station
+PA ANDY3 PA station
+PA ANDY5 PA station
+PA ANDY6 PA station
+PA BARU2 PA station
+PA BARU3 PA station
+PA BARU4 PA station
+PA BARU5 PA station
+PA BRU2  PA station
+PA CIM2A PA station
+PA CIM2B PA station
+PA CIM2C PA station
+PA CIMA  PA station
+PA CIMA1 PA station
+PA CIMA2 PA station
+PA EPI2  PA station
+PA HAM3  PA station
+PA HAM3A PA station
+PA HAM3B PA station
+PA HAM3C PA station
+PA HAM4  PA station
+PA HAM4A PA station
+PA HAM4B PA station
+PA HAM4C PA station
+PA HAM5  PA station
+PA HAM5A PA station
+PA HAM5B PA station
+PA HAM5C PA station
+PA HAM6  PA station
+PA HAM6A PA station
+PA HAM6B PA station
+PA HAM6C PA station
+PA HAM7  PA station
+PA HAM7A PA station
+PA HAM7B PA station
+PA HAM7C PA station
+PA NATC  PA station
+PA NEV1  PA station
+PA NEV2  PA station
+PA NEV3  PA station
+PA NEV4  PA station
+PA NEV5  PA station
+PA NEV6  PA station
+PA NEV7  PA station
+PA NEV8  PA station
+PA RAM   PA station
+PA RAMA  PA station
+PA RAMB  PA station
+PA RAMC  PA station
+PA SBOV1 PA station
+PA SBOV2 PA station
+PA SHARK PA station
+PA SHRK1 PA station
+PB AVN2  PB Station
+PB B001  PB Station
+PB B003  PB Station
+PB B004  PB Station
+PB B005  PB Station
+PB B006  PB Station
+PB B007  PB Station
+PB B009  PB Station
+PB B010  PB Station
+PB B011  PB Station
+PB B012  PB Station
+PB B012  ucluelet1bbc2005, Ucluelet, BC, CA
+PB B013  PB Station
+PB B014  PB Station
+PB B017  PB Station
+PB B018  PB Station
+PB B019  PB Station
+PB B020  PB Station
+PB B022  PB Station
+PB B023  PB Station
+PB B024  PB Station
+PB B024  kuntza024bor2006, Portland, OR, USA
+PB B026  PB Station
+PB B027  PB Station
+PB B028  PB Station
+PB B030  PB Station
+PB B031  PB Station
+PB B032  PB Station
+PB B033  PB Station
+PB B035  PB Station
+PB B036  PB Station
+PB B039  PB Station
+PB B040  PB Station
+PB B045  PB Station
+PB B046  PB Station
+PB B047  PB Station
+PB B049  PB Station
+PB B054  PB Station
+PB B057  PB Station
+PB B058  PB Station
+PB B065  PB Station
+PB B066  PB Station
+PB B072  PB Station
+PB B073  PB Station
+PB B075  PB Station
+PB B078  PB Station
+PB B081  PB Station
+PB B082  PB Station
+PB B082A PB Station
+PB B084  PB Station
+PB B086  PB Station
+PB B086A PB Station
+PB B087  PB Station
+PB B088  PB Station
+PB B093  PB Station
+PB B201  PB Station
+PB B203  PB Station
+PB B204  PB Station
+PB B206  PB Station
+PB B207  PB Station
+PB B208  PB Station
+PB B916  PB Station
+PB B917  PB Station
+PB B918  PB Station
+PB B921  PB Station
+PB B926  PB Station
+PB B927  PB Station
+PB B928  PB Station
+PB B932  PB Station
+PB B933  PB Station
+PB B934  PB Station
+PB B935  PB Station
+PB B941  PB Station
+PB B943  PB Station
+PB B944  PB Station
+PB B945  PB Station
+PB B946  PB Station
+PB DESC  PB Station
+PB GLRS  PB Station
+PB GUAX  PB Station
+PB P001  PB Station
+PB P176  PB Station
+PB P181  PB Station
+PB P197  PB Station
+PB P198  PB Station
+PB P198  PetalumAirCN2004, CA
+PB P199  PB Station
+PB P201  PB Station
+PB P223  PB Station
+PB P224  PB Station
+PB P248  PB Station
+PB P262  PB Station
+PB P482  PB Station
+PB P484  PB Station
+PB P486  BorregoAirCS2004, CA
+PB P486  PB Station
+PB P494  PB Station
+PB P505  PB Station
+PB P506  PB Station
+PB P797  PB Station
+PB PIN2  PB Station
+PB PMOB  PB Station
+PB POTR  PB Station
+PB RAAP  PB Station
+PB SIO5  PB Station
+PB SLMS  PB Station
+PB USGC  PB Station
+PE ALL04 PE Station
+PE IUPA  PE Station
+PE PABE  PE Station
+PE PABK  PE Station
+PE PACC  PE Station
+PE PACH  PE Station
+PE PACW  PE Station
+PE PADC  PE Station
+PE PAGS  PE Station
+PE PAKC  PE Station
+PE PAKS  PE Station
+PE PALB  PE Station
+PE PALR  PE Station
+PE PAMP  PE Station
+PE PAMR  PE Station
+PE PAOC  PE Station
+PE PAPL  PE Station
+PE PARS  PE Station
+PE PASH  PE Station
+PE PBL2  PE Station
+PE PN1   PE Station
+PE POV1  PE Station
+PE POV2  PE Station
+PE POV3  PE Station
+PE POV4  PE Station
+PE PSAL  PE Station
+PE PSBK  PE Station
+PE PSBV  PE Station
+PE PSDB  PE Station
+PE PSMA  PE Station
+PE PSSH  PE Station
+PE PSSK  PE Station
+PE PSUB  PE Station
+PE PSUF  PE Station
+PE PSWB  PE Station
+PE UPAO  PE Station
+PF BLE   BLE
+PF BLE   PF Station
+PF BON   BON
+PF BON   PF Station
+PF BOR   BOR
+PF BOR   PF Station
+PF C98   C98
+PF CAM   CAM
+PF CAM   PF Station
+PF CAS   CAS
+PF CAS   PF Station
+PF CIL   CIL
+PF CIL   PF Station
+PF CPR   CPR
+PF CRA   CRA
+PF CRA   PF Station
+PF CSS   CSS
+PF CSS   PF Station
+PF DOD   DOD
+PF DOD   PF Station
+PF DSO   DSO
+PF DSO   PF Station
+PF ENO   ENO
+PF ENO   PF Station
+PF FEU   FEU
+PF FEU   PF Station
+PF FJS   FJS
+PF FJS   PF Station
+PF FOR   FOR
+PF FOR   PF Station
+PF FRE   FRE
+PF FRE   PF Station
+PF GBS   GBS
+PF GBS   PF Station
+PF GPN   GPN
+PF GPN   PF Station
+PF GPS   GPS
+PF GPS   PF Station
+PF HDL   HDL
+PF HDL   PF Station
+PF HIM   HIM
+PF HIM   PF Station
+PF LAC   LAC
+PF LAC   PF Station
+PF LCR   LCR
+PF LCR   PF Station
+PF MAID  MAID
+PF MAID  PF Station
+PF MAT   MAT
+PF MAT   PF Station
+PF MVL   MVL
+PF MVL   PF Station
+PF NSR   NSR
+PF NSR   PF Station
+PF NTR   NTR
+PF NTR   PF Station
+PF PBR   PBR
+PF PBR   PF Station
+PF PCR   PCR
+PF PCR   PF Station
+PF PER   PER
+PF PER   PF Station
+PF PHR   PF Station
+PF PHR   PHR
+PF PJR   PF Station
+PF PJR   PJR
+PF PRA   PF Station
+PF PRA   PRA
+PF PRO   PF Station
+PF PRO   PRO
+PF PVD   PF Station
+PF PVD   PVD
+PF REB   REB
+PF RVA   PF Station
+PF RVA   RVA
+PF SNE   PF Station
+PF SNE   SNE
+PF TEO   PF Station
+PF TEO   TEO
+PF TKR   PF Station
+PF TKR   TKR
+PF TTR   PF Station
+PF TTR   TTR
+PF TXR   PF Station
+PF TXR   TXR
+PL BEL   Belsk Poland
+PL BEL   PL Station
+PL GKP   Gorka Klasztorna Poland
+PL GKP   PL Station
+PL HSPB  Hornsund
+PL HSPB  PL Station
+PL KSP   Ksiaz Poland
+PL KSP   PL Station
+PL KWP   Kalwaria Paclawska
+PL KWP   PL Station
+PL KWP   PLSN/GEOFON Station Kalwaria Paclawska, Poland
+PL NIE   Niedzica Poland
+PL NIE   PL Station
+PL OJC   Ojcow Poland
+PL OJC   PL Station
+PL SUW   PL Station
+PL SUW   Suwalki
+PM PESTR PM Station
+PM PFVI  PM Station
+PM PMOZ  PM Station
+PM PVAQ  PM Station
+PM ROSA  PM Station
+PO MATQ  PO Station
+PQ HAKB  PQ Station
+PQ KLONY PQ Station
+PQ NAB1  PQ Station
+PQ NBC4  PQ Station
+PQ NBC5  PQ Station
+PQ NBC7  PQ Station
+PQ NBC8  PQ Station
+PQ OGILY PQ Station
+PR AGPR  AGPR
+PR AGPR  PR Station
+PR AOPR  AOPR
+PR AOPR  PR Station
+PR BRR1  PR Station
+PR BY02  PR Station
+PR CBR1  PR Station
+PR CDVI  ST. CROIX VI (4125)
+PR CELP  CELP
+PR CG01  PR Station
+PR CLB1  PR Station
+PR CLS1  PR Station
+PR COM1  PR Station
+PR CR01  PR Station
+PR CRPR  CRPR
+PR CRPR  PR Station
+PR ECPR  ECPR
+PR ECPR  PR Station
+PR EMPR  EMPR
+PR EMPR  PR Station
+PR GBPR  PR Station
+PR GCPR  GCPR
+PR GCPR  PR Station
+PR GNC1  PR Station
+PR GY01  PR Station
+PR GYM1  PR Station
+PR GYN1  PR Station
+PR HM01  PR Station
+PR HUMP  HUMP
+PR HUMP  PR Station
+PR ICMP  PR Station
+PR IDE   Desecheo
+PR IDE   PR Station
+PR IGPR  IGPR
+PR IGPR  PR Station
+PR IMPR  PR Station
+PR ISPR  PR Station
+PR LJS1  PR Station
+PR LSP   Las Mesas
+PR MLPR  MLPR
+PR MLPR  PR Station
+PR MNB1  PR Station
+PR MRC1  PR Station
+PR MTP   MTP
+PR MTP   PR Station
+PR MTP   Vieques
+PR NGB1  PR Station
+PR OBIP  PR Station
+PR PCDR  PR Station
+PR PDPR  PDPR
+PR PDPR  PR Station
+PR PRSN  PR Station
+PR PRSN  PRSN
+PR QBPR  PR Station
+PR ROPR  PR Station
+PR SMDR  PR Station
+PR SNC1  PR Station
+PR SNG1  PR Station
+PR SNS1  PR Station
+PR TA02  PR Station
+PR UUPR  PR Station
+PR VGB1  PR Station
+PR VQS2  PR Station
+PR YAC2  PR Station
+PS PATS  PS Station
+PS PSI   PS Station
+PT DHH   PT Station
+PT HILB  PT Station
+PT HLK   PT Station
+PT HON   PT Station
+PT HPAH  PT Station
+PT KEKH  PT Station
+PT KHLH  PT Station
+PT KHLU  PT Station
+PT KHU   PT Station
+PT KKH   PT Station
+PT MHA   PT Station
+PT MLOA  PT Station
+PY BPH01 PY Station
+PY BPH02 PY Station
+PY BPH03 PY Station
+PY BPH04 PY Station
+PY BPH06 PY Station
+PY BPH07 PY Station
+PY BPH08 PY Station
+PY BPH09 PY Station
+PY BPH10 PY Station
+PY BPH11 PY Station
+PY BPH12 PY Station
+PY BPH13 PY Station
+QM GGLO  GGLO
+QM KNKL  KNKL
+QM KOUG  KOUG
+RA BELV  RA Station
+RA CAGN  RA Station
+RA CGBP  CGBP
+RA CGMB  CGMB
+RA CGMH  CGMH
+RA ECH   RA Station
+RA GBGA  RA Station
+RA GLAN  RA Station
+RA GPBA  RA Station
+RA IRPV  RA Station
+RA IRVG  RA Station
+RA LIQF  RA Station
+RA MENA  RA Station
+RA MILA  MILA
+RA MILA  RA Station
+RA MPRA  RA Station
+RA NALS  RA Station
+RA NCAD  RA Station
+RA NCAU  RA Station
+RA NLIB  RA Station
+RA NPOR  RA Station
+RA NSJA  RA Station
+RA OCCD  RA Station
+RA OCLD  RA Station
+RA OCMD  RA Station
+RA OCMN  RA Station
+RA OCOL  RA Station
+RA OCOR  RA Station
+RA OCSF  RA Station
+RA OCSJ  RA Station
+RA OGAN  RA Station
+RA OGAP  RA Station
+RA OGBA  RA Station
+RA OGCA  RA Station
+RA OGDH  RA Station
+RA OGEP  RA Station
+RA OGFO  RA Station
+RA OGH1  RA Station
+RA OGH2  RA Station
+RA OGH3  RA Station
+RA OGH4  RA Station
+RA OGH5  RA Station
+RA OGH6  RA Station
+RA OGH7  RA Station
+RA OGIM  RA Station
+RA OGLE  RA Station
+RA OGLP  RA Station
+RA OGME  RA Station
+RA OGMU  RA Station
+RA OGPC  RA Station
+RA OGPO  RA Station
+RA OGSR  RA Station
+RA PYAD  RA Station
+RA PYAS  RA Station
+RA PYBA  RA Station
+RA PYBB  RA Station
+RA PYCA  RA Station
+RA PYFE  RA Station
+RA PYFO  RA Station
+RA PYHE  RA Station
+RA PYLI  RA Station
+RA PYLL  RA Station
+RA PYLS  RA Station
+RA PYLU  RA Station
+RA PYPC  RA Station
+RA PYPD  RA Station
+RA PYPE  RA Station
+RA PYPM  RA Station
+RA PYPP  RA Station
+RA PYPT  RA Station
+RA PYPU  RA Station
+RA PYSA  RA Station
+RA PYTB  RA Station
+RA PYTO  RA Station
+RA SBTA  RA Station
+RA SLAF  RA Station
+RA SMFF  RA Station
+RA STBO  RA Station
+RA STBR  RA Station
+RA STBU  RA Station
+RA STDM  RA Station
+RA STFL  RA Station
+RA STHE  RA Station
+RA STMU  RA Station
+RA STR   RA Station
+RA STRB  RA Station
+RA STRO  RA Station
+RA STSF  RA Station
+RA STUF  RA Station
+RA UBBR  RA Station
+RA UBQP  RA Station
+RA UBVA  RA Station
+RA UNIO  RA Station
+RA YTMZ  RA Station
+RA YTMZ  YTMZ
+RC CMI   RC Station
+RD ETNF  RD Station
+RD ETSF  RD Station
+RD FLAF  RD Station
+RD LFF   RD Station
+RD LOR   RD Station
+RD MFF   RD Station
+RD MTLF  RD Station
+RD ORIF  RD Station
+RD PGF   RD Station
+RD RJF   RD Station
+RD ROSF  RD Station
+RD SAVF  RD Station
+RE BFSK  RE Station
+RE BRBY  RE Station
+RE CAFE  RE Station
+RE CAFE2 RE Station
+RE CSTS  RE Station
+RE DDWD  RE Station
+RE EACA  RE Station
+RE EACA1 RE Station
+RE EACA2 RE Station
+RE FRNT  RE Station
+RE GRCO2 RE Station
+RE HOVR2 RE Station
+RE HOVR4 RE Station
+RE HOVR6 RE Station
+RE JKLK  RE Station
+RE JKLK1 RE Station
+RE JKLK2 RE Station
+RE JRDN  RE Station
+RE JRDN1 RE Station
+RE JRDN2 RE Station
+RE MRTZ  RE Station
+RE MTCL  RE Station
+RE MTCL3 RE Station
+RE NEME  RE Station
+RE NEME1 RE Station
+RE NEME3 RE Station
+RE NORM  RE Station
+RE NORM1 RE Station
+RE NORM2 RE Station
+RE ONFB  RE Station
+RE ONFB1 RE Station
+RE ONFB2 RE Station
+RE SCGN  RE Station
+RE SHST  RE Station
+RE SNJT  RE Station
+RE SNJT1 RE Station
+RE SNJT2 RE Station
+RE TRNT  RE Station
+RE UPST  RE Station
+RE UPST1 RE Station
+RE UPST2 RE Station
+RE UPST3 RE Station
+RE UPST4 RE Station
+RF CARC  FVG Accelerometric Network
+RF GEPF  FVG Accelerometric Network
+RF MOGG  FVG Accelerometric Network
+RF MORT  VFG Accelerometric Network
+RI LPCA  RI Station
+RM DLV   RM Station
+RM SLV   RM Station
+RO ARCR  ARCR
+RO BAC   Bacau
+RO BAIL  Bailesti
+RO BANR  Banloc
+RO BUC1  BUC1
+RO BUR01 RO Station
+RO BUR02 RO Station
+RO BUR03 RO Station
+RO BUR04 RO Station
+RO BUR05 RO Station
+RO BUR06 RO Station
+RO BUR07 RO Station
+RO BUR08 RO Station
+RO BUR09 RO Station
+RO BUR31 RO Station
+RO BZS   Buzias
+RO COPA  Copaceanca
+RO CRAR  CRAR
+RO CRAR  Craiova
+RO DRGR  Valea Draganului
+RO GZR   Gura Zlata
+RO HERR  Herculane
+RO IAS   Iasi
+RO LEHL  Lehliu
+RO LOT   Lotru
+RO MANR  MANR
+RO MLR   Muntele Rosu - Romania
+RO PETR  Petresti
+RO PUNG  Punghina
+RO RASA  Lehliu
+RO SIRR  Siria
+RO SLCR  Slobozia Conachi
+RO TOPG  Topolog
+RO VLAD  Vladila
+RO VOIR  Voina
+RO VRI   Vrancioaia
+RU ALER  Aleksandrovskoe, Krasnodar region, Russia
+RU ANN   Anapa, Krasnodar region, Russia
+RU DVE   D-Vedeno, Chechen Republic, Russia
+RU ERBR  Yeremizino-Borisovskaja, Krasnodar region, Russia
+RU GLDR  Gladkovsky, Krasnodar region, Russia
+RU GOFR  Gofitskoye, Krasnodar region, Russia
+RU GOYR  Goytkh, Krasnodar region, Russia
+RU GROC  Groznyy, Chechen Republic, Russia
+RU GRYR  Gornoje, Krasnodar region, Russia
+RU GUZR  Guzeripl, Krasnodar region, Russia
+RU KBTC  Kuba-Taba, Stavropol region, Russia
+RU KLMR  Klimovskaya, Arkhangelsk region, Russia
+RU KLNR  Kaliningrad, Russia
+RU LABN  Labinsk, Krasnodar region, Russia
+RU MAK   Makhachkala, Dagestan, Russia
+RU MRNR  Marjino, Krasnodar region, Russia
+RU NCK   Nalchik, Kabardino-Balkar Republic, Russia
+RU NVNR  Nevinnomyssk, Stavropol region, Russia
+RU PSTR  Posyet, Russia
+RU SHA1  Shidzhatmaz, Stavropol region, Russia
+RU SOC   Sochi, Krasnodar region, Russia
+RU SPGR  Shapsug, Krasnodar region, Russia
+RU SRGR  Sergievskij, Krasnodar region, Russia
+RU SUKR  Sukko, Krasnodar region, Russia
+RU SVE   Sverdlovsk, Russia
+RU TMNR  Tamansky, Krasnodar region, Russia
+RU VSLR  Vesyoloye, Krasnodar region, Ruissia
+RV BELVA RV Station
+RV BRLDA RV Station
+RV FAIRA RV Station
+RV FOXCA RV Station
+RV HSPGA RV Station
+RV KIMIA RV Station
+RV MKRVA RV Station
+RV PECRA RV Station
+RV PKSKA RV Station
+RV REDDA RV Station
+RV SNUFA RV Station
+RV STPRA RV Station
+RV TONYA RV Station
+RV WTMTA RV Station
+RV YELLA RV Station
+S  AI6VX S Station
+S  AISJA S Station
+S  ASHB  S Station
+S  AUCK  S Station
+S  BCFL  S Station
+S  BNOR  S Station
+S  CARU  S Station
+S  CBD9  S Station
+S  CCID  S Station
+S  CCIOW S Station
+S  CGDM  S Station
+S  CHCA  S Station
+S  DAX   S Station
+S  DLRBA S Station
+S  DXMA  S Station
+S  E1TX  S Station
+S  ELMI  S Station
+S  EVILB S Station
+S  GJGH  S Station
+S  GONOT S Station
+S  GONOU S Station
+S  GPMA  S Station
+S  GTO1  S Station
+S  HETL1 S Station
+S  IDLM  S Station
+S  INFBB S Station
+S  JCMT  S Station
+S  JERIS S Station
+S  JKAK  S Station
+S  JKMA  S Station
+S  KCMA  S Station
+S  KLNK  S Station
+S  KM6QX S Station
+S  KNTV  S Station
+S  LCIG  S Station
+S  MAOK  S Station
+S  MBH   S Station
+S  MEMSZ S Station
+S  MGID  S Station
+S  MHIN  S Station
+S  MOBS1 S Station
+S  NHMC  S Station
+S  NMPA  S Station
+S  RALNH S Station
+S  ROMN  S Station
+S  RUFF  S Station
+S  SAMA  S Station
+S  SBA2  S Station
+S  SBMA  S Station
+S  SCI2  S Station
+S  SLMA  S Station
+S  SMOK  S Station
+S  TCD1  S Station
+S  THSTX S Station
+S  TKJI  S Station
+S  TLAZ  S Station
+S  TOCA  S Station
+S  TOGA  S Station
+S  TOPH  S Station
+S  TXAN  S Station
+S  UKWCS S Station
+S  UNION S Station
+S  UPIL  S Station
+S  USA1  S Station
+S  UTTH  S Station
+S  WBID  S Station
+S  WHHS1 S Station
+S  WOLL  S Station
+S  XTC1  S Station
+S1 AUALB St Joseph's College
+S1 AUALC S1 Station
+S1 AUALC St Philip's College
+S1 AUAPY Ernabella Anangu School
+S1 AUAYR Ayr State High School
+S1 AUAYR S1 Station
+S1 AUBRM Broome Senior High School
+S1 AUBRM S1 Station
+S1 AUBRN Burnie High School
+S1 AUBSH Beerwah State High School
+S1 AUBUS Georgiana Molloy Anglican School
+S1 AUBUS S1 Station
+S1 AUCAR S1 Station
+S1 AUCAR St Mary Star of the Sea
+S1 AUCAS Cummins Area School
+S1 AUCSH Cairns State High School
+S1 AUCSH S1 Station
+S1 AUDAR Daramalan College
+S1 AUDAR S1 Station
+S1 AUDCS Dubbo College Senior Campus
+S1 AUDCS S1 Station
+S1 AUDHS Darwin High School
+S1 AUDHS S1 Station
+S1 AUGRF Marian Catholic College
+S1 AUGRF S1 Station
+S1 AUHAR St Anne's School
+S1 AUHPC Hawkesdale P12 School
+S1 AUJCS Jamestown Community School
+S1 AUKAL John Paul College
+S1 AUKAR S1 Station
+S1 AUKAR St Luke's College
+S1 AUKAT Katherine High School
+S1 AUKHS Kincumber High School
+S1 AUKHS S1 Station
+S1 AUKSC Keysborough Secondary College
+S1 AUKSC S1 Station
+S1 AUKUL Kulin District High School
+S1 AUKUL S1 Station
+S1 AULHS Lilydale High School
+S1 AULRC Lightning Ridge Central School
+S1 AULRC S1 Station
+S1 AUMAG Moama Anglican Grammar
+S1 AUMAG S1 Station
+S1 AUMAR Marden Senior College
+S1 AUMAZ Mazenod Senior College
+S1 AUMAZ S1 Station
+S1 AUMBR Murray Bridge High School
+S1 AUMBR S1 Station
+S1 AUMHS Melrose High School
+S1 AUMHS S1 Station
+S1 AUMOU Moura State High School
+S1 AUMTC Mt Clear College/Earth Ed
+S1 AUMTC S1 Station
+S1 AUMTS Mt Stromlo
+S1 AUMTS S1 Station
+S1 AUMUL Mullumbimby High School
+S1 AUNHS Nhulunbuy High School
+S1 AUNRC North Rockhampton State High School
+S1 AUNRC S1 Station
+S1 AUPHS Peel High School
+S1 AUPHS S1 Station
+S1 AUPKL Parklands High School
+S1 AUPKL S1 Station
+S1 AURMK Renmark High School
+S1 AUROX Roxby Downs Area School
+S1 AURSC Rosebud Secondary College
+S1 AUSIS Australian National Universtiy
+S1 AUSMG S1 Station
+S1 AUSMG Snowy Mountains Grammar School
+S1 AUSSC Sale College
+S1 AUTAR Taroona High School
+S1 AUTKS The King's School
+S1 AUTOO Toowoomba State High School
+S1 AUUHS S1 Station
+S1 AUUHS Ulladulla High School
+S1 AUWSH Wavell State High School
+SB GVA01 SB Station
+SB GVA02 SB Station
+SB GVA03 SB Station
+SB GVA04 SB Station
+SB GVA05 SB Station
+SB GVA06 SB Station
+SB GVA07 SB Station
+SB GVA08 SB Station
+SB GVDA  SB Station
+SB VAFB1 SB Station
+SB VAFB2 SB Station
+SB WLA   SB Station
+SB WLA01 SB Station
+SB WLA02 SB Station
+SB WLA03 SB Station
+SB WLA04 SB Station
+SB WLA05 SB Station
+SB WLA06 SB Station
+SB WLA10 SB Station
+SC 121A  SC Station
+SC BORJA LIM009 Gerencia Zonal Sencico Lima
+SC CAR   SC Station
+SC CBET  SC Station
+SC CL2B  SC Station
+SC CPRX  SC Station
+SC DAG   SC Station
+SC GDL2  SC Station
+SC JAL   SC Station
+SC LEM   SC Station
+SC PDB   SC Station
+SC SBY   SC Station
+SC SCAR2 Gerencia Zonal de SENCICO, Puente Grau, Arequipa
+SC SCARQ AQP003 Gerencia Zonal Sencico Arequipa
+SC SCAYA AYA001 Gerencia Zonal Sencico Ayacucho
+SC SCCHI CHI001 Gerencia Zonal Sencico Chiclayo
+SC SCCHO CHO001 Gerencia Zonal Sencico Chorrilllos
+SC SCCUS CUS002 Gerencia Zonal Sencico Cusco
+SC SCHYO HYO001 Gerencia Zonal Sencico Huancayo
+SC SCICA ICA003 Gerencia Zonal Sencico Ica
+SC SCIQU IQU001 Gerencia Zonal Sencico Iquitos
+SC SCOLI Gerencia Zonal Sencico Los Olivos
+SC SCPIU PIU001 Gerencia Zonal Sencico Piura
+SC SCPUC CHO001 Gerencia Zonal Sencico Pucallpa
+SC SCTAC TAC004 Gerencia Zonal Sencico Tacna
+SC SCTRU TRU001 Gerencia Zonal Sencico Trujillo
+SC SMC   SC Station
+SC SRH   SC Station
+SC SSS   SC Station
+SC Y22A  SC Station
+SC Y22D  SC Station
+SE BLA   SE Station
+SG MEMB  SG Station
+SG RCHS  SG Station
+SJ BARS  SJ-Serbia
+SJ DJES  SJ-Serbia
+SJ ZAGS  SJ-Serbia
+SJ ZAPS  SJ-Serbia
+SK CRVS  Station Cervenica-Dubnik, Slovakia
+SK KECS  Station Kecovo, Slovakia
+SK KOLS  Station Kolonicke sedlo, Slovakia
+SK MODS  Station Modra-Piesok, Slovakia
+SK SMOL  SMOL
+SK SPC   SPC
+SK SRO   Station Srobarova, Slovakia
+SK VYHS  Station Vyhne, Slovakia
+SK ZST   Station Zelezna Studnicka, Slovakia
+SN AMD   SN Station
+SN BTW   SN Station
+SN HEL   SN Station
+SN LEC   SN Station
+SN PUV   SN Station
+SN YFT   SN Station
+SS COI   SS Station
+SV CEDA  SV Station
+SV CNCH  SV Station
+SV EDP   SV station
+SV EDP2  SV station
+SV JAYA  SV Station
+SV MTO3  SV Station
+SV NUBE  SV Station
+SV PACA  SV Station
+SV PAVA  SV Station
+SV SNET  SV Station
+SX FBE   Saxonia_Station_Freiberg
+SX FROHN Saxonia_Station_FROHN
+SX GUNZ  Saxonia_Station_Gunzen
+SX LANDS Saxonia_Station_LANDS
+SX MEINS Saxonia_Station_MEINS
+SX MUHB  SX_Station_Muldenstein
+SX MULD  Saxonia_Station_Muldenberg
+SX NEUB  Saxonia_Station_Neuenburg
+SX NEUB  ULEIPZIG Station Neuenburg, Germany
+SX ROHR  Saxonia_Station_Rohrbach
+SX SCHF  Saxonia_Station_Schoenfels
+SX TANN  Saxonia_Station_Tannenbergsthal
+SX TANN  ULEIPZIG Station Tannenbergsthal, Germany
+SX TRIB  Saxonia_Station
+SX WERD  Saxonia_Station_Werda
+SX WERN  Saxonia_Station_Wernitzgruen
+SX WIMM  SX/GRSN_Station_Wimmelburg
+SX WIMM  ULEIPZIG Station Wimmelburg, Germany
+TC DRK0  TC Station
+TC EGUA  TC Station
+TC LCR2  TC Station
+TC MARA  TC Station
+TC PTJ1  TC Station
+TC QUEP  TC Station
+TC TCS1  TC Station
+TC TRB2  TC Station
+TC TRT2  TC Station
+TC UPAL  TC Station
+TD TD002 TD Station
+TD TD008 TD Station
+TD TD009 TD Station
+TD TD022 TD Station
+TH ABG1  TH_Station_Forsthaus_Leinawald
+TH ANNA  TSN_Station_Fundgrube_St._Anna
+TH BBWF  Thuringia_Station_Besucherbergwerk_Finstertal
+TH BONN  OTSN_Station_Klostergut_Bonnrode
+TH CHRS  TH_Station_Christianenhaus
+TH CRUX  OTSN_Station_Bergwerk_Schwarze_Crux
+TH FRAU  TH_Station_Fraureuth
+TH GEIDO Obergeissendorf
+TH GLEI  Burg_Gleichenstein
+TH GRZ1  Mausoleum_Waldhaus_Greiz
+TH HKWD  TSN_Station_Heukewalde
+TH HWTS  TSN_Station
+TH KAMM  TSN_Station_Kammerforst
+TH LEIB1 OTSN_Station_Leibis1
+TH LUHNE OTSN_Station_Luhne-Lengefeld
+TH MEHR  TH_Station_Mehrstedt
+TH MENTE TH_Station_Menteroda
+TH MLFH  OTSN_Station
+TH MOB1  OTSN_Station_Mobil1
+TH MOB2  OTSN_Station_Mobil2
+TH MOB3  OTSN_Station_Mobil3
+TH MOB5  OTSN_Station_Mobil5
+TH MODW  OTSN_Station_Modelwitz
+TH MORAS OTSN_Station_Morassina_Schaubergwerk
+TH MUEN  TH_Station_Kloster_Muenchenlohra
+TH NEUST TS_Neustadt
+TH PLN   OTSN_Station_Plauen
+TH POSS  OTSN_Station
+TH RANIS TH_Station_Burg_Ranis
+TH SONN  OTSN_Sonnenstein
+TH SPAHL SPAHL
+TH TAUT  OTSN_Station_Tautenburg
+TH THWA  Thueringer_Wald_Luisenthal
+TH VITZ  OTSN_Station
+TH WARTH Alte_Warth
+TH ZEITZ Thuringia_Station_Zeitz
+TH ZEU   Talsperre_Zeulenroda
+TJ GEZN  Gezan, Tajikistan
+TJ MANEM Manem, Tajikistan
+TJ SHAA  Shaartuz, Tajikistan
+TM CHBT  TM Station
+TM CMMT  TM Station
+TM CRAI  CRAI staion
+TM CRAI  TM Station
+TM LOEI  TM Station
+TM MHIT  TM Station
+TM PBKT  TM Station
+TM PHRA  TM Station
+TM PRAC  TM Station
+TM SKLT  TM Station
+TM SRDT  SRDT SrinakarinDam Phase1
+TM SRDT  TM Station
+TM SRIT  SRIT staion
+TM SRIT  TM Station
+TM SURA  TM Station
+TM TMDB  TM Station
+TM UBPT  UBPT Phase1
+TR DLPL  DLPL
+TR MCLT  MCLT
+TR SKI   SKI
+TR SVB   SVB
+TR TOSP  TOSP
+TS SURI  Test Suricat
+TT TAMR  Station Tamra, Tunisia
+TT TATN  Station Tataouine, Tunisia
+TT THTN  Station Thala, Tunisia
+TU BAYC  Bayramic, Canakkale
+TU ELBA  Catalca, Istanbul
+TU KAND  Kandira, Kocaeli
+TW KMNB  TW Station
+TW NACB  TW Station
+TW SSLB  TW Station
+TW TPUB  TW Station
+TW TWGB  TW Station
+TW YHNB  TW Station
+TW YULB  TW Station
+TX 237B  TX Station
+TX 237B  Washetta, Montalba, TX, USA
+TX 435B  Jarrell, TX, USA
+TX 435B  TX Station
+TX 833A  Chaparral WMA, Artesia Wells, TX, USA
+TX 833A  TX Station
+TX ALPN  Alpine
+TX ALPN  TX Station
+TX APMT  Aspermont
+TX APMT  TX Station
+TX BRDY  Brady
+TX BRDY  TX Station
+TX CRHG  Carthage
+TX CRHG  TX Station
+TX D024  SALT
+TX DG01  Pecos City Water
+TX DKNS  Dickens
+TX DKNS  TX Station
+TX DRIO  Del Rio
+TX DRIO  TX Station
+TX DRZT  Perryton
+TX DRZT  TX Station
+TX EF00  Eagle Ford 0
+TX EF01  Floresville
+TX EF02  Christine
+TX EF03  Eagle Ford 3
+TX EF03  TX Station
+TX EF04  Eagle Ford 4
+TX EF04  TX Station
+TX EF05  TX Station
+TX EF05  Yorktown
+TX ELG6  SSW of El Indio, TX
+TX ET01  Chireno
+TX ET01  TX Station
+TX FLRS  Floresville
+TX FLRS  TX Station
+TX FW01  Dallas Executive Airport
+TX FW01  TX Station
+TX FW02  City of Haslet
+TX FW02  TX Station
+TX FW03  Perrin-Whitt Elementary School
+TX FW04  TX Station
+TX FW04  University of Dallas
+TX FW05  TX Station
+TX FW05  UT at Dallas
+TX FW06  Azle
+TX FW06  TX Station
+TX FW07  TX Station
+TX FW07  Weatherford
+TX FW08  Lillian
+TX FW09  Farmers Branch
+TX FW09  TX Station
+TX FW11  TX Station
+TX FW11  UT at Arlington
+TX FW12  TX Station
+TX FW12  Venus
+TX FW13  Cleburne
+TX FW13  TX Station
+TX FW14  Alvarado
+TX FW14  TX Station
+TX FW15  TCU
+TX FW15  TX Station
+TX FW16  Waxahatchie
+TX HBVL  Hebbronville
+TX HBVL  TX Station
+TX HNDO  Hondo
+TX HNDO  TX Station
+TX HNVL  Huntsville
+TX INDO  El Indio, TX
+TX MB01  Midkiff
+TX MB01  TX Station
+TX MB02  Rankin
+TX MB02  TX Station
+TX MB04  Seminole
+TX MB04  TX Station
+TX MB05  Klondike
+TX MB05  TX Station
+TX MB06  Greenwood
+TX MB06  TX Station
+TX MB07  TX Station
+TX MB07  West Midland
+TX MB08  TX Station
+TX MB08  UTPB
+TX MB09  Lenorah
+TX MB10  Stanton
+TX MB10  TX Station
+TX MB11  Midland Basin
+TX MLDN  Muldoon
+TX MLDN  TX Station
+TX MNHN  Monahans
+TX MNHN  TX Station
+TX ODSA  Odessa
+TX ODSA  TX Station
+TX OG01  Odessa NE
+TX OG02  Odessa NNE
+TX OG03  Gardendale
+TX OG04  Ratcliff Ranch Golf Links
+TX OZNA  Ozona
+TX OZNA  TX Station
+TX PB01  Balmorhea State Park
+TX PB01  TX Station
+TX PB02  Crockett Middle School (Pecos)
+TX PB03  TX Station
+TX PB03  Verhalen
+TX PB04  TX Station
+TX PB04  Verhalen
+TX PB05  Permian Basin 5
+TX PB05  TX Station
+TX PB06  Pyote
+TX PB07  Mentone
+TX PB07  TX Station
+TX PB08  Fort Stockton
+TX PB08  TX Station
+TX PB09  Culberson County
+TX PB10  Southeast of Toyah
+TX PB10  TX Station
+TX PB11  China Draw
+TX PB11  TX Station
+TX PB12  Southwest of Toyah
+TX PB12  TX Station
+TX PB13  Reeves - Culberson Border
+TX PB13  TX Station
+TX PB14  TX Station
+TX PB14  Weatherby Road
+TX PB15  South of Coyonosa
+TX PB16  Coyonosa
+TX PB16  TX Station
+TX PB17  Fort Stockton
+TX PB17  TX Station
+TX PB18  Southwest of Coyanosa
+TX PB18  TX Station
+TX PB19  TX Station
+TX PB19  West of Imperial
+TX PB21  Reeves Ward Border
+TX PB21  TX Station
+TX PB22  South of Coyonosa
+TX PB27  North of Pyote
+TX PB28  Culberson South
+TX PB28  TX Station
+TX PB29  Culberson North
+TX PB29  TX Station
+TX PB30  Pecos City Water South
+TX PB30  TX Station
+TX PB31  Salt Creek
+TX PB31  TX Station
+TX PB32  CR 111
+TX PB33  Gresham
+TX PB33  TX Station
+TX PB34  Salt Mine 2
+TX PCOS  Crockett Middle School Pecos
+TX PCOS  TX Station
+TX PECS  Pecos
+TX PECS  TX Station
+TX PH01  Abilates
+TX PH02  TX Station
+TX PH02  Texas Public Hunt System CROSS BAR MGT.AREA
+TX PH03  Pantex
+TX PH03  TX Station
+TX PH04  Fire Station 11
+TX PLPT  Palo Pinto
+TX PLPT  TX Station
+TX POST  Post
+TX POST  TX Station
+TX RTBA  Rita Blanca
+TX RTBA  TX Station
+TX SAND  Sanderson
+TX SAND  TX Station
+TX SGCY  Sterling City
+TX SGCY  TX Station
+TX SMWD  Samnorwood
+TX SMWD  TX Station
+TX SN01  Snyder 1
+TX SN02  Snyder 2
+TX SN02  TX Station
+TX SN03  Snyder 3
+TX SN03  TX Station
+TX SN04  Snyder 4
+TX SN04  TX Station
+TX SN05  Snyder 5
+TX SN06  Snyder 6
+TX SN07  Snyder 7
+TX SN07  TX Station
+TX SN08  Arah
+TX SN08  TX Station
+TX SN09  Hermleigh
+TX SN09  TX Station
+TX SN10  Rotan
+TX SN10  TX Station
+TX SNAG  San Augustine
+TX SNAG  TX Station
+TX TREL  TX Station
+TX TREL  Terrell
+TX VHRN  TX Station
+TX VHRN  Van Horn
+TX WTFS  TX Station
+TX WTFS  Witchita Falls
+UA MI05  MI
+UA MI07  MI
+UC COLI  UC Station
+UC EZV3  UC Station
+UC EZV4  UC Station
+UC EZV5  UC Station
+UC SOMA  UC Station
+UC USMO  UC Station
+UC USNE  UC Station
+UC ZRCO  UC Station
+UI MGOO  UI Station
+UI TBID  UI Station
+UO ALSE  UO Station
+UO BCAT  UO Station
+UO BEER  UO Station
+UO BENT  UO Station
+UO BUCK  UO Station
+UO CARM  UO Station
+UO CARP  UO Station
+UO CAVE  UO Station
+UO CCSO  UO Station
+UO COBRA UO Station
+UO COQI  UO Station
+UO DAYS  UO Station
+UO DBO   UO Station
+UO DEPO  UO Station
+UO DFAZ  UO Station
+UO DING  UO Station
+UO DNIS  UO Station
+UO DRAN  UO Station
+UO ELSIE UO Station
+UO EOLA  UO Station
+UO ETON  UO Station
+UO FALZ  UO Station
+UO FHAC  UO Station
+UO GROV  UO Station
+UO HAGG  UO Station
+UO HAPY  UO Station
+UO HBUG  UO Station
+UO IRYS  UO Station
+UO JAZZ  UO Station
+UO JEFF  UO Station
+UO JESE  UO Station
+UO KBO   UO Station
+UO KEB   UO Station
+UO KNAP  UO Station
+UO KUHN  UO Station
+UO KVCS  UO Station
+UO LADD  UO Station
+UO LAIR  UO Station
+UO LAKE  UO Station
+UO LEAB  UO Station
+UO LEWL  UO Station
+UO LINC  UO Station
+UO LOCK  UO Station
+UO LOKI  UO Station
+UO LOST  UO Station
+UO LOWP  UO Station
+UO MAPT  UO Station
+UO MINN  UO Station
+UO MONKS UO Station
+UO MPLT  UO Station
+UO NATH  UO Station
+UO NBFR  UO Station
+UO NOMA  UO Station
+UO OTLW  UO Station
+UO OTTR  UO Station
+UO PERY  UO Station
+UO PETE  UO Station
+UO PF09  UO Station
+UO PF10  UO Station
+UO PF16  UO Station
+UO PF22  UO Station
+UO PF25  UO Station
+UO PF27  UO Station
+UO PF29  UO Station
+UO PF31  UO Station
+UO PINE  UO Station
+UO PRARI UO Station
+UO RAID  UO Station
+UO RAIN  UO Station
+UO RDEO  UO Station
+UO ROXY  UO Station
+UO RSBO  UO Station
+UO RUCH  UO Station
+UO SALT  UO Station
+UO SAUVY UO Station
+UO SISQ  UO Station
+UO SLTZ  UO Station
+UO TOOM  UO Station
+UO TRIG  UO Station
+UO TRIPT UO Station
+UO UCHR  UO Station
+UO VERN  UO Station
+UO VINO  UO Station
+UO VITI  UO Station
+UO WALD  UO Station
+UO WIKI  UO Station
+UO WILL  UO Station
+UO WLOO  UO Station
+UO WOOD  UO Station
+UO WYLD  UO Station
+UO YANK  UO Station
+UP AAL   AAL; Jomala, &Aring;land
+UP BREU  BRE; Bredtraesk, Bjurholm
+UP DEL   DEL; Delary
+UP LANU  LAN; Lannavaara
+UP SJUU  SJU; Sjulsmark, Lule&aring;
+UP STRU  STR; Stroemstad
+UP UPP   UP1; Uppsala
+UP VIKU  VIK; Hinnerstorp, Vikbolandet
+US AAM   US Station
+US ACSO  US Station
+US AGMN  US Station
+US AMTX  US Station
+US BINY  US Station
+US BLA   US Station
+US BMO   US Station
+US BOZ   US Station
+US BRAL  US Station
+US BW06  US Station
+US CBKS  US Station
+US CBN   US Station
+US DGMT  US Station
+US DUG   US Station
+US ECSD  US Station
+US EGMT  US Station
+US ELK   US Station
+US ERPA  US Station
+US EYMN  US Station
+US GLMI  US Station
+US GOGA  US Station
+US HAWA  US Station
+US HDIL  US Station
+US HLID  US Station
+US HWUT  US Station
+US ISCO  US Station
+US JCT   US Station
+US JFWS  US Station
+US KSU1  US Station
+US KVTX  US Station
+US LAO   US Station
+US LBNH  US Station
+US LONY  US Station
+US LRAL  US Station
+US MCWV  US Station
+US MIAR  US Station
+US MNTX  US Station
+US MSO   US Station
+US MVCO  US Station
+US NATX  US Station
+US NEW   US Station
+US NHSC  US Station
+US OGNE  US Station
+US OXF   US Station
+US PKME  US Station
+US RLMT  US Station
+US SCIA  US Station
+US SDCO  US Station
+US TPNV  US Station
+US TZTN  US Station
+US WMOK  US Station
+US WRAK  US Station
+US WUAZ  US Station
+US WVOR  US Station
+UU ALP   UU Station
+UU ALT   UU Station
+UU AMF   UU Station
+UU ARGU  UU Station
+UU ARUT  UU Station
+UU AVE   UU Station
+UU BCS   UU Station
+UU BCU   UU Station
+UU BCW   UU Station
+UU BEI   UU Station
+UU BES   UU Station
+UU BGU   UU Station
+UU BGU1  UU Station
+UU BGU2  UU Station
+UU BGU3  UU Station
+UU BGU4  UU Station
+UU BHU   UU Station
+UU BHUT  UU Station
+UU BMUT  UU Station
+UU BRP1  UU Station
+UU BRP2  UU Station
+UU BRP3  UU Station
+UU BRP4  UU Station
+UU BRPU  UU Station
+UU BRWY  UU Station
+UU BSS   UU Station
+UU BSUT  UU Station
+UU BTU   UU Station
+UU BYP   UU Station
+UU CAPU  UU Station
+UU CCPU  UU Station
+UU CCUT  UU Station
+UU CFS   UU Station
+UU COY   UU Station
+UU CRLU  UU Station
+UU CTU   UU Station
+UU CVH   UU Station
+UU CVRU  UU Station
+UU CWU   UU Station
+UU DAU   UU Station
+UU DBD   UU Station
+UU DCM   UU Station
+UU DCU   UU Station
+UU DOT   UU Station
+UU DWU   UU Station
+UU ECUT  UU Station
+UU EKU   UU Station
+UU ELE   UU Station
+UU ELU   UU Station
+UU EMF   UU Station
+UU EMU   UU Station
+UU EOCU  UU Station
+UU EPU   UU Station
+UU ETW   UU Station
+UU FLU   UU Station
+UU FMC   UU Station
+UU FOR1  UU Station
+UU FOR2  UU Station
+UU FOR5  UU Station
+UU FOR6  UU Station
+UU FOR7  UU Station
+UU FOR8  UU Station
+UU FORB  UU Station
+UU FORU  UU Station
+UU FORW  UU Station
+UU FPU   UU Station
+UU FSB1  UU Station
+UU FSB2  UU Station
+UU FSB3  UU Station
+UU FSU   UU Station
+UU FTT   UU Station
+UU GAWY  UU Station
+UU GMO   UU Station
+UU GMU   UU Station
+UU HAFB  UU Station
+UU HDU   UU Station
+UU HEB   UU Station
+UU HER   UU Station
+UU HES   UU Station
+UU HHS   UU Station
+UU HLJ   UU Station
+UU HMU   UU Station
+UU HRU   UU Station
+UU HTU   UU Station
+UU HVU   UU Station
+UU IAE   UU Station
+UU ICF   UU Station
+UU ICU   UU Station
+UU IMU   UU Station
+UU JRP   UU Station
+UU JVW2  UU Station
+UU KLJ   UU Station
+UU KNB   UU Station
+UU LCMT  UU Station
+UU LCU   UU Station
+UU LDJ   UU Station
+UU LEVU  UU Station
+UU LGC   UU Station
+UU LHUT  UU Station
+UU LIUT  UU Station
+UU LKC   UU Station
+UU LMUT  UU Station
+UU LRG   UU Station
+UU LSU   UU Station
+UU LTU   UU Station
+UU MAB   UU Station
+UU MCU   UU Station
+UU MGCU  UU Station
+UU MHD   UU Station
+UU MHS2  UU Station
+UU MID   UU Station
+UU MLI   UU Station
+UU MMU   UU Station
+UU MOUT  UU Station
+UU MPU   UU Station
+UU MSU   UU Station
+UU MTUT  UU Station
+UU NAI   UU Station
+UU NAIU  UU Station
+UU NLU   UU Station
+UU NMU   UU Station
+UU NOQ   UU Station
+UU NOQ3  UU Station
+UU NOQ4  UU Station
+UU NOQ5  UU Station
+UU NOQ6  UU Station
+UU NPI   UU Station
+UU OCP   UU Station
+UU OPS   UU Station
+UU OWUT  UU Station
+UU PCL   UU Station
+UU PCR   UU Station
+UU PEUT  UU Station
+UU PGC   UU Station
+UU PNSU  UU Station
+UU PSU1  UU Station
+UU PSU2  UU Station
+UU PSU3  UU Station
+UU PSU4  UU Station
+UU PSUT  UU Station
+UU PTU   UU Station
+UU RBU   UU Station
+UU RCJ   UU Station
+UU RDMU  UU Station
+UU REUT  UU Station
+UU ROA   UU Station
+UU RPF   UU Station
+UU RRCU  UU Station
+UU RSUT  UU Station
+UU SAIU  UU Station
+UU SCC   UU Station
+UU SCS   UU Station
+UU SCUT  UU Station
+UU SCY   UU Station
+UU SGSU  UU Station
+UU SGU   UU Station
+UU SJF   UU Station
+UU SNO   UU Station
+UU SNUT  UU Station
+UU SPR2  UU Station
+UU SPS   UU Station
+UU SPU   UU Station
+UU SRU   UU Station
+UU SSC   UU Station
+UU SUU   UU Station
+UU SVWY  UU Station
+UU SWUT  UU Station
+UU SZCU  UU Station
+UU TCMU  UU Station
+UU TCRU  UU Station
+UU TCU   UU Station
+UU TCUT  UU Station
+UU TPU   UU Station
+UU TRS   UU Station
+UU UHP   UU Station
+UU UTH   UU Station
+UU UUE   UU Station
+UU VNL   UU Station
+UU VRUT  UU Station
+UU WBC   UU Station
+UU WCF   UU Station
+UU WCO   UU Station
+UU WCU   UU Station
+UU WDO   UU Station
+UU WES   UU Station
+UU WHS   UU Station
+UU WMUT  UU Station
+UU WTU   UU Station
+UU WVUT  UU Station
+UU ZNPU  UU Station
+UW ALKI  UW Station
+UW ALLI  UW Station
+UW ALST  UW Station
+UW ALVY  UW Station
+UW ANGUS UW Station
+UW ARTIC UW Station
+UW ASR   UW Station
+UW AUG   UW Station
+UW BABR  UW Station
+UW BAND  UW Station
+UW BAYC  UW Station
+UW BBO   UW Station
+UW BDGR  UW Station
+UW BEAV  UW Station
+UW BECK  UW Station
+UW BELF  UW Station
+UW BEN   UW Station
+UW BEND  UW Station
+UW BERY  UW Station
+UW BHAM  UW Station
+UW BHW   UW Station
+UW BICK  UW Station
+UW BILS  UW Station
+UW BLDG  UW Station
+UW BLN   UW Station
+UW BLOW  UW Station
+UW BLT   UW Station
+UW BNG   UW Station
+UW BOGA  UW Station
+UW BOIS  UW Station
+UW BOOK  UW Station
+UW BRAN  UW Station
+UW BRAV  UW Station
+UW BRGL  UW Station
+UW BRKS  UW Station
+UW BRO   UW Station
+UW BROK  UW Station
+UW BRPT  UW Station
+UW BRUIN UW Station
+UW BRV   UW Station
+UW BTHL  UW Station
+UW BVW   UW Station
+UW CABL  UW Station
+UW CBS   UW Station
+UW CCRK  UW Station
+UW CDF   UW Station
+UW CDMR  UW Station
+UW CHIMA UW Station
+UW CHZZ  UW Station
+UW CINE  UW Station
+UW CNNB  UW Station
+UW COLT  UW Station
+UW CONW  UW Station
+UW COOM  UW Station
+UW COOS  UW Station
+UW CORE  UW Station
+UW COWS  UW Station
+UW CPARK UW Station
+UW CPW   UW Station
+UW CRF   UW Station
+UW CTR   UW Station
+UW CUBS  UW Station
+UW CUGR  UW Station
+UW CVSD  UW Station
+UW CWFG  UW Station
+UW DAVN  UW Station
+UW DAYT  UW Station
+UW DDRF  UW Station
+UW DEAL  UW Station
+UW DLTA  UW Station
+UW DMNG  UW Station
+UW DONK  UW Station
+UW DOORS UW Station
+UW DOSE  UW Station
+UW DOTY  UW Station
+UW DREG  UW Station
+UW DY2   UW Station
+UW EAGLE UW Station
+UW EARN  UW Station
+UW EDM   UW Station
+UW EDSN  UW Station
+UW EGRN  UW Station
+UW ELGR  UW Station
+UW ELK   UW Station
+UW ELL   UW Station
+UW ELW   UW Station
+UW EPH2  UW Station
+UW ERIE  UW Station
+UW ERW   UW Station
+UW ET4   UW Station
+UW ETW   UW Station
+UW EVCC  UW Station
+UW EVGW  UW Station
+UW EYES  UW Station
+UW FHE   UW Station
+UW FINN  UW Station
+UW FISH2 UW Station
+UW FL2   UW Station
+UW FLRE  UW Station
+UW FMW   UW Station
+UW FORK  UW Station
+UW GBB   UW Station
+UW GHW   UW Station
+UW GMW   UW Station
+UW GNW   UW Station
+UW GPW   UW Station
+UW GRE   UW Station
+UW GRIF  UW Station
+UW GRIZZ UW Station
+UW GRNT  UW Station
+UW GRUT  UW Station
+UW GSM   UW Station
+UW GTWN  UW Station
+UW GUEM  UW Station
+UW H1K   UW Station
+UW H2E   UW Station
+UW H2O   UW Station
+UW H2W   UW Station
+UW H3A   UW Station
+UW H4A   UW Station
+UW HANS  UW Station
+UW HART  UW Station
+UW HAWK  UW Station
+UW HBO   UW Station
+UW HDW   UW Station
+UW HFMN  UW Station
+UW HGBL  UW Station
+UW HICC  UW Station
+UW HILL  UW Station
+UW HOG   UW Station
+UW HOHM  UW Station
+UW HOLY  UW Station
+UW HOMA  UW Station
+UW HOOD  UW Station
+UW HOPR  UW Station
+UW HOQUI UW Station
+UW HSO   UW Station
+UW HSR   UW Station
+UW HTW   UW Station
+UW HUBA  UW Station
+UW HURR  UW Station
+UW HWIW  UW Station
+UW IRON  UW Station
+UW IZEE  UW Station
+UW JCW   UW Station
+UW JEDS  UW Station
+UW JORV  UW Station
+UW KCAM  UW Station
+UW KDK   UW Station
+UW KEEL  UW Station
+UW KELS  UW Station
+UW KENT  UW Station
+UW KEYS  UW Station
+UW KFAL  UW Station
+UW KIMR  UW Station
+UW KINR  UW Station
+UW KITP  UW Station
+UW KMO   UW Station
+UW KNEL  UW Station
+UW KREP  UW Station
+UW LACKA UW Station
+UW LANE  UW Station
+UW LARL  UW Station
+UW LAWT  UW Station
+UW LAYC  UW Station
+UW LBRT  UW Station
+UW LCCR  UW Station
+UW LCMC  UW Station
+UW LCV   UW Station
+UW LCW2  UW Station
+UW LEBA  UW Station
+UW LEID  UW Station
+UW LEOT  UW Station
+UW LEVE  UW Station
+UW LIGO  UW Station
+UW LKVW  UW Station
+UW LNO   UW Station
+UW LO2   UW Station
+UW LOC   UW Station
+UW LOKMT UW Station
+UW LON   UW Station
+UW LOPEZ UW Station
+UW LRIV  UW Station
+UW LTY   UW Station
+UW LUMI  UW Station
+UW LWCK  UW Station
+UW LYND  UW Station
+UW MAC   UW Station
+UW MACH  UW Station
+UW MANO  UW Station
+UW MARY  UW Station
+UW MAUP  UW Station
+UW MBKE  UW Station
+UW MBPA  UW Station
+UW MBW   UW Station
+UW MCLN  UW Station
+UW MCW   UW Station
+UW MDW   UW Station
+UW MEGW  UW Station
+UW MJ2   UW Station
+UW MKAH  UW Station
+UW MNRO  UW Station
+UW MNSN  UW Station
+UW MONO  UW Station
+UW MONTE UW Station
+UW MOODY UW Station
+UW MOON  UW Station
+UW MORO  UW Station
+UW MOX   UW Station
+UW MPL   UW Station
+UW MPO   UW Station
+UW MRIN  UW Station
+UW MRN   UW Station
+UW MS99  UW Station
+UW MTM   UW Station
+UW MULN  UW Station
+UW NAC   UW Station
+UW NAHC  UW Station
+UW NATEM UW Station
+UW NBND  UW Station
+UW NCO   UW Station
+UW NEERS UW Station
+UW NEL   UW Station
+UW NEMA  UW Station
+UW NEWO  UW Station
+UW NFES  UW Station
+UW NIHS  UW Station
+UW NIKE  UW Station
+UW NINO  UW Station
+UW NMDY  UW Station
+UW NMRF  UW Station
+UW NN19  UW Station
+UW NN21  UW Station
+UW NOB   UW Station
+UW NOWS  UW Station
+UW NTAT  UW Station
+UW NWPT  UW Station
+UW OAKH  UW Station
+UW OCEN  UW Station
+UW OCP   UW Station
+UW OD2   UW Station
+UW OHC   UW Station
+UW OLGA  UW Station
+UW OLQN  UW Station
+UW OMAK  UW Station
+UW ONAB  UW Station
+UW OOW2  UW Station
+UW ORCA  UW Station
+UW OSD   UW Station
+UW OSQM  UW Station
+UW OT3   UW Station
+UW OTR   UW Station
+UW PABH  UW Station
+UW PALIS UW Station
+UW PAN4H UW Station
+UW PAT2  UW Station
+UW PAYL  UW Station
+UW PCEP  UW Station
+UW PCFR  UW Station
+UW PELL  UW Station
+UW PERL  UW Station
+UW PHIN  UW Station
+UW PIE   UW Station
+UW PIER  UW Station
+UW PLBD  UW Station
+UW PRIN  UW Station
+UW PRO   UW Station
+UW PUBD  UW Station
+UW PUPY  UW Station
+UW PURDY UW Station
+UW RADR  UW Station
+UW RATT  UW Station
+UW RAW   UW Station
+UW RBOK  UW Station
+UW RCM   UW Station
+UW RCS   UW Station
+UW RED2  UW Station
+UW REED  UW Station
+UW RER   UW Station
+UW RNAV  UW Station
+UW RNO2  UW Station
+UW RNWY  UW Station
+UW ROBC  UW Station
+UW RPW   UW Station
+UW RPW2  UW Station
+UW RRHS  UW Station
+UW RSLG  UW Station
+UW RSW   UW Station
+UW RVC   UW Station
+UW RVRV  UW Station
+UW RVSD  UW Station
+UW SACA  UW Station
+UW SAIL  UW Station
+UW SALO  UW Station
+UW SAW   UW Station
+UW SAXON UW Station
+UW SCC2  UW Station
+UW SDRO  UW Station
+UW SEA   UW Station
+UW SEAS  UW Station
+UW SEAS2 UW Station
+UW SHUK  UW Station
+UW SHW   UW Station
+UW SILV  UW Station
+UW SJIF  UW Station
+UW SKAMO UW Station
+UW SKGF  UW Station
+UW SKIT  UW Station
+UW SKYK  UW Station
+UW SLA   UW Station
+UW SLDQ  UW Station
+UW SLF   UW Station
+UW SMOO  UW Station
+UW SMSH  UW Station
+UW SNI   UW Station
+UW SNI2  UW Station
+UW SOS   UW Station
+UW SOUA  UW Station
+UW SP2   UW Station
+UW SPFR  UW Station
+UW SPOW  UW Station
+UW SSO2  UW Station
+UW STAR  UW Station
+UW STNW  UW Station
+UW STOR  UW Station
+UW STW   UW Station
+UW SVOH  UW Station
+UW SWID  UW Station
+UW TAHO  UW Station
+UW TAPPS UW Station
+UW TBLMT UW Station
+UW TBM   UW Station
+UW TDH   UW Station
+UW TDHS  UW Station
+UW TDL   UW Station
+UW TILL  UW Station
+UW TIOG  UW Station
+UW TKCO  UW Station
+UW TKEY  UW Station
+UW TOKE  UW Station
+UW TOLE  UW Station
+UW TOLO  UW Station
+UW TORK  UW Station
+UW TOUCH UW Station
+UW TREE  UW Station
+UW TRFA  UW Station
+UW TRW   UW Station
+UW TUCA  UW Station
+UW TULA  UW Station
+UW TUMW  UW Station
+UW TWISP UW Station
+UW TWW   UW Station
+UW UGSD  UW Station
+UW UMAT  UW Station
+UW UMPQ  UW Station
+UW UPL   UW Station
+UW UWFH  UW Station
+UW VBE   UW Station
+UW VCR   UW Station
+UW VFP   UW Station
+UW VGB   UW Station
+UW VLL   UW Station
+UW VT2   UW Station
+UW VVHS  UW Station
+UW WA2   UW Station
+UW WAHL  UW Station
+UW WAT   UW Station
+UW WAT2  UW Station
+UW WEDR  UW Station
+UW WEL2  UW Station
+UW WENA  UW Station
+UW WFHS  UW Station
+UW WHGC  UW Station
+UW WILA  UW Station
+UW WINDI UW Station
+UW WISC  UW Station
+UW WISH  UW Station
+UW WOLL  UW Station
+UW WPEQ  UW Station
+UW WPO   UW Station
+UW WRD   UW Station
+UW WRMB  UW Station
+UW WRW   UW Station
+UW WTRV  UW Station
+UW WWHS  UW Station
+UW WYNO  UW Station
+UW YA2   UW Station
+UW YACH  UW Station
+UW YACT  UW Station
+UW YELM  UW Station
+UW YPT   UW Station
+VD ARMEN VD Station
+VD GRUME VD Station
+VD SARCL VD Station
+VD SARSB VD Station
+VE BAUV  Baul - Cojedes
+VE BIRV  Birongo - Miranda
+VE CACV  VE Station
+VE CAPV  VE Station
+VE FUNV  VE Station
+VE MCQV  VE Station
+VE PCRV  VE Station
+VE TACV  VE Station
+VE TERV  VE Station
+VE TURV  VE Station
+VI ADA   ADA
+VI ASB   ASB
+VI FAG   FAG
+VI GIL   GIL
+VI ISKR  SKROKKALDA, ICELAND
+VI SKR   SKR
+WA ZON   WA Station
+WI ABD   ABD
+WI ABD   WI Station
+WI ANBD  ANBD
+WI BIM   BIM
+WI BIM   WI Station
+WI CBE   CBE
+WI CBE   WI Station
+WI DHS   DHS
+WI DHS   WI Station
+WI DSD   DSD
+WI DSD   WI Station
+WI DSLB  DSLB
+WI GCMP  GCMP
+WI ILAM  ILAM
+WI ILAM  WI Station
+WI MAGL  MAGL
+WI MAGL  WI Station
+WI MPOM  MPOM
+WI SAM   SAM
+WI SAM   WI Station
+WI SBLM  SBLM
+WI SBLM  WI Station
+WI SLBI  SLBI
+WI TDBA  TDBA
+WI TDBA  WI Station
+WM AVE   ROA/UCM/GEOFON Station Averroes, Morocco
+WM CART  ROA/UCM/GEOFON Station Cartagena, Spain
+WM CART  WM Station
+WM MAHO  ROA/UCM/GEOFON Station Mahon, Menorca, Spain
+WM SFS   ROA/UCM/GEOFON Station San Fernando, Spain
+WM SFS   WM Station
+WM TIO   ROA/UCM/GEOFON Station Tiouine, Morocco
+WM UCM   WM Station
+WO 4G520 Station
+WO 4G52E Station
+WO 4G52M Station
+WO 4G52N Station
+WO 4G52Z Station
+WU ACTO  WU Station
+WU BASO  WU Station
+WU BMRO  WU Station
+WU BRCO  WU Station
+WU BUKO  WU Station
+WU BWLO  WU Station
+WU DELO  WU Station
+WU DRCO  WU Station
+WU DRWO  WU Station
+WU ELFO  WU Station
+WU KLBO  WU Station
+WU MEDO  WU Station
+WU PECO  WU Station
+WU PEMO  WU Station
+WU PKRO  WU Station
+WU PLVO  WU Station
+WU TOBO  WU Station
+WU TORO  WU Station
+WU TYNO  WU Station
+WU WLVO  WU Station
+WY MCID  WY Station
+WY YDC   WY Station
+WY YDD   WY Station
+WY YEE   WY Station
+WY YFT   WY Station
+WY YGC   WY Station
+WY YHB   WY Station
+WY YHH   WY Station
+WY YHL   WY Station
+WY YJC   WY Station
+WY YLA   WY Station
+WY YLT   WY Station
+WY YMC   WY Station
+WY YML   WY Station
+WY YMP   WY Station
+WY YMR   WY Station
+WY YMS   WY Station
+WY YMV   WY Station
+WY YNE   WY Station
+WY YNM   WY Station
+WY YPC   WY Station
+WY YPK   WY Station
+WY YPM   WY Station
+WY YPP   WY Station
+WY YSB   WY Station
+WY YTP   WY Station
+WY YUF   WY Station
+WY YWB   WY Station
+XL MG01  XL Station
+XL MG03  XL Station
+XL MG04  XL Station
+XL MG05  XL Station
+XL MG07  XL Station
+XL MG09  XL Station
+XL MG10  XL Station
+XL MG11  XL Station
+XU GRWE  XU Station
+YH WSCT  YH Station
+YN RA01  YN Station
+YN RA02  YN Station
+YN RA03  YN Station
+YN RA05  YN Station
+YN RA08  YN Station
+YN RA10  YN Station
+YN RA11  YN Station
+YN RA12  YN Station
+YN SGBF0 YN Station
+YN SGBFA YN Station
+YN SGBN2 YN Station
+YN SGBS1 YN Station
+YN SGBS3 YN Station
+YU ALTN  ALTN
+YU CFTB  CFTB
+YU ENGR  ENGR
+YU ESNK  ESNK
+YU FSTK  FSTK
+YU ILYS  ILYS
+YU KRNA  KRNA
+YU KRSK  KRSK
+YU ORHG  ORHG
+YU SFRN  SFRN
+YU SNTZ  SNTZ
+YU TRML  TRML
+YU TSVK  TSVK
+YU ZYBG  ZYBG
+YW RDK10 YW Station
+YW RDK12 YW Station
+YX UNM2  YX Station
+YX UNM3  YX Station
+YX UNM5  YX Station
+YZ CAMPI CAMPI
+ZW IFS3  ZW Station
+ZW ILCC  ZW Station
+ZW IPD1  ZW Station
+ZW IPD1V ZW Station
+ZW ITSC  ZW Station

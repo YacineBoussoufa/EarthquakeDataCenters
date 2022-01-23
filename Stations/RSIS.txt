@@ -1,0 +1,312 @@
+BL POPB  PORTO PRIMAVERA - SP
+BR IPMB  Ipameri, GO
+BL IGCB  IGARAPEACU-PA
+BL CANB  ITAMBARACA - PR
+BL BEB3  SITIO SAO FRANCISCO - BEBEDOURO -SP
+BL BESB  BOA ESPERANCA - PI
+BR TBTG  Tabatinga, AM
+IU PAYG  Puerto Ayora, Galapagos Islands
+G  ATD   Arta Cave - Arta, Republic of Djibouti
+BL CPSB  Cacapava do Sul, RS
+BL BB19B Bebedouro 19, SP
+BR ETMB  Extrema, RO
+II ASCN  Butt Crater, Ascension Island
+BL CANS  Sao Roque de Minas, MG
+II BORG  Borgarfjordur, Asbjarnarstadir, Iceland
+AU GIRL  Giralia, WA
+BL PAZB  ARUANA - GO
+II UOSS  Univ. of Sharjah, Sharjah, United Arab Emirates
+BL PARB  Paraibuna, SP
+BL ROIB  Rosario do Ivai, PR
+II TAU   Hobart, Tasmania, Australia
+ON JAC01 OBSN: [JAC01] Jacupiranga, SP
+AU MANU  Manus Island, Papau New Guinea
+II KWAJ  Kwajalein Atoll, Pacific Ocean
+IU PMSA  Palmer Station, Antarctica
+ON CAM01 OBSN: [CAM01] Campos, RJ
+ON ANA01 "OBSN: [ANA01] Lindo Horizonte, BA"
+CY FSCY  Frank Sound, Grand Cayman, Cayman Islands
+IU PET   Petropavlovsk, Russia
+IU DWPF  Disney Wilderness Preserve, Florida, USA
+NB NBCA  Caruaru-PE, Brazil
+AU NIUE  Niue Island, Niue
+GT LPAZ  La Paz , Bolivia
+BL PMNB  Patos de Minas, MG
+G  SPB   Sao Paulo, Brazil
+TM SRDT  SRDT SrinakarinDam Phase1
+ON DUB01 OBSN: [DUB01] Duas Barras, RJ
+N4 061Z  Ochoppi, FL, USA
+PB B024  kuntza024bor2006, Portland, OR, USA
+ON GUA01 "OBSN: [GUA01] Guaratinga, BA"
+BL VAO   Valinhos, SP
+II SHEL  Horse Pasture, St. Helena Island
+CM URI   Uribia, Guajira, Colombia
+AU FITZ  Fitzroy Crossing, Western Australia
+BL BEB7  FAZENDA STO ANTONIO
+BL BEB6  FAZENDA SAO GERALDO -  BEBEDOURO - SP
+BL BEB1  SITIO STO ANTONIO - BEBEDOURO - SP
+IM H08S2 Diego Garcia Hydroacoustic Site S2, United Kingdom
+BL JUQB  JUQUIA - SAO PAULO
+BL BEB2  FAZENDA SAO LUIZ -  BEBEDOURO - SP
+BL BEB9  FAZENDA STA BARBARA
+BL BEB8  FAZENDA VERANEIO - BEBEDOURO - SP
+G  PPTF  Pamatai - Papeete - Tahiti island - French Polynesia, Franc
+BL SNVB  SERRA DO NAVIO-AP
+CM MAP   Isla de Malpelo, Colombia
+BL DIAM  Diamantina, MG
+BR PRPB  Parauapebas, PA
+BL PTMB  PORTO MURTINHO - MS
+BL PLTB  Pelotas/PedrasAltas, RS
+DK MUD   Station Monsted Kalkmine, Denmark
+GE SNAA  GEOFON/AWI Station Sanae, Antarctica
+NB NBTA  Tacaratu- PE, Brazil
+G  KIP   Kipapa, Hawaii, USA
+IU KIP   Kipapa, Hawaii, USA
+IU OTAV  Otavalo, Ecuador
+II KIV   Kislovodsk, Russia
+BL CS6B  JAGUARETAMA - CE
+ON RIB01 OBSN: [RIB01] Rio Bananal, ES
+BL MAP01 FAZENDA MODERNA - MONTE AZUL PAULISTA - SP
+NB NBBC  Barreira do Corda - MA, Brazil
+BL BEB4B SITIO SANTA TEREZINHA - TAIACU - SP
+IU TRQA  Tornquist, Argentina
+BL ITRB  Iturama, MG
+II MBAR  Mbarara, Uganda
+BR ARAG  Araguaiana, MT
+IU SLBS  Sierra la Laguna Baja California Sur, Mexico
+BL BB15B FAZENDA CINTIA - BB - BEBEDOURO - SP
+BL NUPA  NUPORANGA - SP
+G  TRIS  Tristan da Cunha
+BR TEFE  Tefe, AM
+BL PTGB  Pitanga, PR
+BL BEB   BELEM - PA
+BL CRTB  CORRENTINA, BA
+BL CRTA  CORRENTINA - BA
+BL PORB  PORANGATU - GO
+BL TRSB  TERESINA-PI
+BL BAMB  BAMBUI - MG
+IU MBWA  Marble Bar, Western Australia
+PB P198  PetalumAirCN2004, CA
+BL PEXB  Peixes, TO
+IU KOWA  Kowa, Mali
+BR ROSB  Rosario, MA
+GT DBIC  Dimbokro, Ivory Coast
+IU SAML  Samuel, Brazil
+BL BB16B SITIO JOVAL - BB - BEBEDOURO - SP
+NB NBMA  Mauriti- CE, Brazil
+TJ MANEM Manem, Tajikistan
+BR BOAV  Boa Vista, RR
+KO DKL   Dikili-Izmir-Turkey
+IU COLA  College Outpost, Alaska, USA
+BL C2SB  Chapadao do Sul, MS
+ON SLP01 OBSN: [SLP01] Sao Luis do Paraitinga, SP
+BL APOB  FAZENDA SAO GERONIMO - APORE - GO
+TM UBPT  UBPT Phase1
+GE UGM   GEOFON Station Wanagama, Indonesia
+BL CCUB  CACU - GO
+IU GUMO  Guam, Mariana Islands
+NB RBRC  Universidade do Acre -AC
+VE BIRV  Birongo - Miranda
+BR MCPB  Macapa, AP
+TJ SHAA  Shaartuz, Tajikistan
+BL PACB  PACAEMBU - SP
+IU KBS   Ny-Alesund, Spitzbergen, Norway
+BL FRTB  Fartura, SP
+BR MALB  Monte Alegre, PA
+NB NBBL  Bica de Lurdes, Rio Formoso- PE, Brazil
+BL SICB  Siqueira Campos, PR
+BL BEB15 FAZENDA CINTIA  BEBEDOURO - SP
+BL BEB14 SITIO PALMEIRAS - BEBEDOURO - SP
+BL BEB17 SITIO SAO LEOPOLDO - BEBEDOURO - SP
+BL BEB16 SITIO JOVAL -  BEBEDOURO - SP
+BL BEB11 ESTANCIA DOURADA - ANDES - SP
+BL BEB10 FAZENDA SANTA ZULMIRA - BEBEDOURO - SP
+BL BEB13 FAZENDA RIO TURVO - BEBEDOURO - SP
+BL BEB12 ESTANCIA MONIDENI - BEBEDOURO - SP
+IC ENH   Enshi, Hubei Province, China
+BR MAL2  Monte Alegre, PA
+BR VILB  Vilhena, RO
+BL UNIA  UNAI - MG
+BL BEB19 FAZENDA SANTA ZULMIRA - BEBEDOURO - SP
+BL BEB18 SITIO SAO PEDRO - BEBEDOURO - SP
+GT BOSA  Boshof, South Africa
+IU KEV   Kevo, Finland
+ON GDU01 "OBSN: [GDU01] Guandu, BA"
+BL MCI9  Montes Claros 9, MG (Fzda MClaros)
+BL MCI8  Montes Claros 8, MG (Fzda Vitoria)
+BL PCBA  PIRACICABA - SP
+II JTS   Las Juntas de Abangares, Costa Rica
+KO SIRT  Sirnak-Turkey
+BL CRJB  CARAJAS-PA
+NB NBLA  Lagarto- SE, Brazil
+ON TER01 OBSN: [TER01] Treze de Maio, SC
+BL IBTB  Ibaiti, PR
+BL MCI7  Montes Claros 7, MG (Exercito)
+BL MCI6  Montes Claros 6, MG (Fzda Jeca Tatu)
+PR CDVI  ST. CROIX VI (4125)
+G  MPG   Montagne des Peres - French Guiana, France
+BL BEB4A ESTANCIA DOURADA - BEBEDOURO - SP
+II KURK  Kurchatov, Kazakhstan
+BL CLDB  Colider, MT
+BL ESAR  Angra dos Reis, RJ
+JM NMIA0 Norman Manley International Airport
+BR ITTB  Itaituba, PA
+ON ABR01 "OBSN: [ABR01] Abrolhos, BA"
+BL BSCB  Bom Sucesso, MG
+CM MON   Monteria, Cordoba, Colombia
+BL PCMB  Pacaembu, SP
+NB NBPB  Pedra Branca-CE, Brazil
+NB NBPV  Pedro Velho- RN, Brazil
+ON NAN01 "OBSN: [NAN01] Nanuque, MG"
+G  SSB   Tunnel de Badole - Saint Sauveur en Rue, France
+BL ITAB  Ita, SC
+IU COR   Corvallis, Oregon, USA
+BR NTVD  Natividade, TO
+IU LVC   Limon Verde, Chile
+BL NUPB  NUPORANGA - SP
+G  RER   Riviere de l'Est - Sainte Rose - La Reunion island, France
+BL APOB2 FAZENDA SAO JOAO - APORE - GO
+PB B012  ucluelet1bbc2005, Ucluelet, BC, CA
+BL TLMB  Telemaco Borba, PR
+BL SJMB  Sao Joao de Manteninha, MG
+IU FURI  Mt. Furi, Ethiopia
+NB PFBR  Pau dos Ferros, RN
+BL CDSB  FAZ RANCHO IDEAL - CHAPADAO DO SUL - MS
+NB NBPS  Pedro Segundo- PI, Brazil
+KO BZK   Bozkurt-Kastamonu-Turkey
+II KAPI  Kappang, Sulawesi, Indonesia
+IC MDJ   Mudanjiang, Heilongjiang Province, China
+IU MAJO  Matsushiro, Japan
+BL AREB  AREADO - MG
+BR SNDB  Serra Nova Dourada, MT
+ON CAJ01 "OBSN: [CAJ01] Cajati, SP"
+IU ANMO  Albuquerque, New Mexico, USA
+G  NOUC  Port Laguerre - New Caledonia, France
+BR SALB  Santo Antonio do Leverger, MT
+G  FDF   Fort de France - Martinique island, France
+BR PDRB  PT Gauchos, MT
+BR SGCB  S.o Gabriel da Cachoeira, AM
+BL TRCB  Terra Rica, PR
+IM I06H2 Cocos Islands Infrasound Array, Site H2, Australia
+GE TIRR  GEOFON Station Tirgusor, Romania
+BL ITQB  Itaqui, RS
+IU PMG   Port Moresby, New Guinea
+BL COR2  CALDAS NOVAS - GO
+C  GO07  "C: [GO07] Milladeo Hill, Chile"
+DK BSD   BORNHOLM SKOVBRYNET, DENMARK
+TJ GEZN  Gezan, Tajikistan
+ON VAS01 OBSN: [VAS01] Vassouras, RJ
+BR NPGB  Novo Progresso, PA
+BR SALV  Santo Antonio do Leverger, MT
+BL RCLB  Rio Claro, SP
+BL GNSB  GOIANESIA - GO
+IU PAB   San Pablo, Spain
+BL GNSA  GOIANESIA - GO
+AU XMI   Christmas Island Airport, Australia
+BL CORB  CALDAS NOVAS - GO
+ON ALF01 "OBSN: [ALF01] Guarapari, ES"
+BL IPNA  IPERUNA - SP
+G  CLF   Chambon la Foret Observatory, France
+BL BEB9A FAZENDA SANTA BARBARA - BEBEDOURO - SP
+BL CNLB  Canela, RS
+ON POA01 "OBSN: [POA01] Ponta - SC"
+G  TAOE  Taiohae - Marquesas islands, France
+II AAK   Ala Archa, Kyrgyzstan
+II MSEY  Mahe, Seychelles
+G  TAM   Tamanrasset, Algeria
+BR SDBA  Sao Desiderio, BA
+NB NBPN  Ponto Novo- BA, Brazil
+II MSVF  Monasavu, Fiji
+BL JATB  JATAI - GO
+BR SMTB  Santa Maria do Tocantins, TO
+BL BB22B Bebedouro 22, SP
+ON TIJ01 OBSN: [TIJ01] Tijucas do Sul, PR
+BL TRIB  Ilha Solteira, SP
+ON CMC01 "OBSN: [CMC01] Camacan, BA"
+IU SFJD  Sondre Stromfjord, Greenland
+BL MARB  Manoel Ribas, PR
+ON MAJ01 OBSN: [MAJ01] Major Gercino, SC
+BL VABB  Valinhos, SP
+BL NOVB  NOVA VENEZA-SC
+PB P486  BorregoAirCS2004, CA
+NB NBPA  Parau-RN, Brazil
+IC BJT   Baijiatuan, Beijing, China
+BR AGBLB Aguas Belas. PE
+G  INU   Inuyama, Japan
+BR CZSB  Cruzeiro do Sul, AC
+CM RUS   La Rusia, Boyaca, Colombia
+IU TATO  Taipei, Taiwan
+GE SOCY  GEOFON Station Socotra, Yemen
+II OBN   Obninsk, Russia
+N4 V61A  Roper, NC, USA
+NB NBIT  Itape-BA, Brazil
+NB NBCL  Cascavel-CE, Brazil
+ON PET01 OBSN: [PET01] Pedro de Toledo, SP
+TM SRIT  SRIT staion
+BR JAN7  Januaria, MG
+IU BBSR  Bermuda Institute of Ocean Sciences, St George's Bermuda
+BL BEB20 FAZENDA VERANEIO - BEBEDOURO - SP
+BL BEB21 SITIO SAO LEOPOLDO - BEBEDOURO - SP
+BL BEB22 FAZENDA VERANEIO - BEBEDOURO - SP
+G  IVI   Ivittuut, Greenland
+IU YSS   Yuzhno Sakhalinsk, Russia
+BL ARCA  Aracuai, MG
+CU MTDJ  Mount Denham, Jamaica
+BL STMB  SANTAREM-PA
+II ERM   Erimo, Hokkaido Island, Japan
+BL PDCB  PEDRA DO CAVALO - BA
+JM BBJ   Bamboo St. Ann,  Jamaica
+PR MTP   Vieques
+BL CAUB  CARUARU - PE
+GE DAG   GEOFON/AWI Station Danmarkshavn, Greenland
+KO ELL   Elmali-Antalya-Turkey
+BR PTLB  Pontes e Lacerda, MT
+VE BAUV  Baul - Cojedes
+BL BSFB  Barra do Sao Francisco, ES
+BL PMNA  PATO DE MINAS - MG
+BL SLMB  SAO LUIS DE MONTES BELOS - GO
+IC HIA   Hailar, Neimenggu Autonomous Region, China
+IU DAV   Davao, Philippines
+GT LBTB  Lobatse, Botswana, Africa
+BL CAMB  Estacao CAMB, BLSP-Net
+G  SANVU Espiritu Santo, Vanuatu
+II TLY   Talaya, Russia
+IU CHTO  Chiang Mai, Thailand
+NB NBMO  Morrinhos- CE, Brazil
+C  GO05  Hualane, Chile
+BL SJI1  Urupes, SP
+G  UNM   Unam - Mexico, Mexico
+NB NBAN  Anadia- AL, Brazil
+NB NBLV  Livramento- PB, Brazil
+NB SBBR  Sobral, CE
+JM STH   Stony Hill, Jamaica
+II LVZ   Lovozero, Russia
+BL AQDB  Aquidauana, MS
+IU ANTO  Ankara, Turkey
+BL AQDA  AQUIDAUANA - MS
+IU ULN   Ulaanbaatar, Mongolia
+BR MACA  Manacapuru, AM
+AU MILA  Mila, NSW
+NB ACJC  Joao Camara-RN, Brazil
+N4 545B  Wilberts Farm, Edgard, LA, USA
+BL BEB9B FAZENDA SANTA BARBARA - BEBEDOURO - SP
+II ESK   Eskdalemuir, Scotland, UK
+ON TRI01 "OBSN: [TRI01] ILHA DA TRINDADE, ES"
+BL JNRB  JANUARIA - MG
+BR MC01  Montes Claros, Brazil
+IU SDV   Santo Domingo, Venezuela
+II ARU   Arti, Russia
+BL BEB4  ESTANCIA DOURADA - BEBEDOURO - SP
+BL PRCB  PARACATU - MG
+IC LSA   Tibet, China
+II PALK  Pallekele, Sri Lanka
+BR TMAB  Tome-Acu,PA
+BL ITPB  ITAPEBI-BA
+BL TRMB  TRES MARIAS-MG
+BL PP1B  Sonora, MS
+BL PP1A  USINA PONTE DE PEDRA - SONORA - MS
+ON MAN01 OBSN: [MAN01] Mangaratiba, RJ
+BL IGAB  IGARATA - SP
+TM CRAI  CRAI staion
+AU MCQ   Macquarie Island, Australia
+BR JANB  Januaria, MG

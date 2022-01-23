@@ -1,0 +1,9 @@
+G  NOUC  Port Laguerre - New Caledonia, France
+G  SANVU Espiritu Santo, Vanuatu
+ND JNKNC Jinek - 98814, Lifou - Iles Loyaute - Nouvelle-Caledonie -
+ND KOUNC Koumac - 98812 - Province Nord - Nouvelle-Caledonie - Fran
+ND MARNC Mare - 98815 - Iles Loyaute - Nouvelle-Caledonie - France
+ND ONTNC Ouen Toro - 98818, Noumea - Province Sud - Nouvelle-Caledo
+ND OUENC ile Ouen - 98817, Le Mont-Dore - Province Sud - Nouvelle-C
+ND PINNC L'Ile-des-Pins - 98809 - Province Sud - Nouvelle-Caledonie
+ND YATNC Yate - 98832 - Province Sud - Nouvelle-Caledonie - France

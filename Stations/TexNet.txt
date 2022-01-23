@@ -1,0 +1,135 @@
+4O DB02  Diamondback UB0002
+4O DB03  Diamondback UB0003
+4O DB04  Diamondback UB0004
+4O LWM1  Layne Water Midstream 1
+4O MBBB1 MBBB1
+4O MID02 DiamondBack Midland 02
+4O PR01  Schlumberger 1
+4O SA02  Saturn HM Philips State 94 Lease
+4O SA04  Saturn Double C SWD Lease
+4O SA06  Saturn I Take It All C SWD
+4O WB01  Salt Mine 1
+4T EL01  Ellington AFB
+4T EL02  Ellington AFB
+4T EL03  Ellington AFB
+4T EL08  Ellington AFB
+4T FMR1  JFB Heard 1 Well
+4T FMR2  JFB heard 1 Well
+4T FMR3  JFB Heard 1 Well
+4T FMR4  SAGE4
+4T NM01  WSW of Eunice,  NM
+4T NM02  Loving,  NM
+4T NM03  WNW of Eunice, NM
+TX 237B  Washetta, Montalba, TX, USA
+TX 435B  Jarrell, TX, USA
+TX 833A  Chaparral WMA, Artesia Wells, TX, USA
+TX ALPN  Alpine
+TX APMT  Aspermont
+TX BRDY  Brady
+TX CRHG  Carthage
+TX D024  SALT
+TX DG01  Pecos City Water
+TX DKNS  Dickens
+TX DRIO  Del Rio
+TX DRZT  Perryton
+TX EF00  Eagle Ford 0
+TX EF01  Floresville
+TX EF02  Christine
+TX EF03  Eagle Ford 3
+TX EF04  Eagle Ford 4
+TX EF05  Yorktown
+TX ELG6  SSW of El Indio, TX
+TX ET01  Chireno
+TX FLRS  Floresville
+TX FW01  Dallas Executive Airport
+TX FW02  City of Haslet
+TX FW03  Perrin-Whitt Elementary School
+TX FW04  University of Dallas
+TX FW05  UT at Dallas
+TX FW06  Azle
+TX FW07  Weatherford
+TX FW08  Lillian
+TX FW09  Farmers Branch
+TX FW11  UT at Arlington
+TX FW12  Venus
+TX FW13  Cleburne
+TX FW14  Alvarado
+TX FW15  TCU
+TX FW16  Waxahatchie
+TX HBVL  Hebbronville
+TX HNDO  Hondo
+TX HNVL  Huntsville
+TX INDO  El Indio, TX
+TX MB01  Midkiff
+TX MB02  Rankin
+TX MB04  Seminole
+TX MB05  Klondike
+TX MB06  Greenwood
+TX MB07  West Midland
+TX MB08  UTPB
+TX MB09  Lenorah
+TX MB10  Stanton
+TX MB11  Midland Basin
+TX MLDN  Muldoon
+TX MNHN  Monahans
+TX ODSA  Odessa
+TX OG01  Odessa NE
+TX OG02  Odessa NNE
+TX OG03  Gardendale
+TX OG04  Ratcliff Ranch Golf Links
+TX OZNA  Ozona
+TX PB01  Balmorhea State Park
+TX PB02  Crockett Middle School (Pecos)
+TX PB03  Verhalen
+TX PB04  Verhalen
+TX PB05  Permian Basin 5
+TX PB06  Pyote
+TX PB07  Mentone
+TX PB08  Fort Stockton
+TX PB09  Culberson County
+TX PB10  Southeast of Toyah
+TX PB11  China Draw
+TX PB12  Southwest of Toyah
+TX PB13  Reeves - Culberson Border
+TX PB14  Weatherby Road
+TX PB15  South of Coyonosa
+TX PB16  Coyonosa
+TX PB17  Fort Stockton
+TX PB18  Southwest of Coyanosa
+TX PB19  West of Imperial
+TX PB21  Reeves Ward Border
+TX PB22  South of Coyonosa
+TX PB27  North of Pyote
+TX PB28  Culberson South
+TX PB29  Culberson North
+TX PB30  Pecos City Water South
+TX PB31  Salt Creek
+TX PB32  CR 111
+TX PB33  Gresham
+TX PB34  Salt Mine 2
+TX PCOS  Crockett Middle School Pecos
+TX PECS  Pecos
+TX PH01  Abilates
+TX PH02  Texas Public Hunt System CROSS BAR MGT.AREA
+TX PH03  Pantex
+TX PH04  Fire Station 11
+TX PLPT  Palo Pinto
+TX POST  Post
+TX RTBA  Rita Blanca
+TX SAND  Sanderson
+TX SGCY  Sterling City
+TX SMWD  Samnorwood
+TX SN01  Snyder 1
+TX SN02  Snyder 2
+TX SN03  Snyder 3
+TX SN04  Snyder 4
+TX SN05  Snyder 5
+TX SN06  Snyder 6
+TX SN07  Snyder 7
+TX SN08  Arah
+TX SN09  Hermleigh
+TX SN10  Rotan
+TX SNAG  San Augustine
+TX TREL  Terrell
+TX VHRN  Van Horn
+TX WTFS  Witchita Falls

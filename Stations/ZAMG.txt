@@ -1,0 +1,102 @@
+MN TIR   Tirana, Albania
+HT LIT   LITOKHORON, GREECE
+KO DKL   Dikili-IZMIR
+RO VOIR  Voina
+SK KECS  Station Kecovo, Slovakia
+RO PUNG  Punghina
+BS PRD   Provadia, Bulgaria, BDSN
+SJ BARS  SJ-Serbia
+HA ATHU  Athens University,Greece
+GE ARPR  GEOFON/MedNet/KOERI Station Arapgir, Turkey
+HA ATAL  Atalanti,Greece
+MK VAY   0000
+HT KNT   Kendrikon, Greece
+KO PHSR  Pinarhisar-KIRKLARELI
+MD KIS   Chisinau
+HA LAKA  Lakka,Greece
+RO RASA  Lehliu
+II KIV   Kislovodsk, Russia
+TU ELBA  Catalca, Istanbul
+GE APE   NOA/GEOFON Station Apeiranthos,Naxos, Greece
+RO VLAD  Vladila
+HL NVR   Nevrokopi, Greece
+TU KAND  Kandira, Kocaeli
+HT PAIG  PALIOURI, GREECE
+SJ DJES  SJ-Serbia
+RO TOPG  Topolog
+MK SKO   0000
+GE MARCO GEOFON/IMAA-CNR Station Tramutola, Italy
+HT KAVA  Kavala, Greece
+BS JMB   Jambol, Bulgaria, BDSN
+RO SLCR  Slobozia Conachi
+MN BLY   Banja Luka, Bosnia and Herzegovina
+RO SIRR  Siria
+HT GRG   GRIVA, GREECE
+GE KARP  NOA/RUB/GEOFON Station Karpathos,Greece
+BS PSN   Preselentzi, Bulgaria, BDSN
+IU KIEV  Kiev, Ukraine
+MN KLV   Kalavryta, Achaia, Greece
+GE PSZ   GKKI/GEOFON Station Piszkes, Hungary
+CL PSAM  Psaromita multiparametre
+KO MDUB  Mudurnu-BOLU
+GE MATE  U Basilicata/GEOFON Station Matera, Italy
+RO GZR   Gura Zlata
+GE KTHA  NOA/GEOFON Station Kythira, Greece
+SK ZST   Station Zelezna Studnicka, Slovakia
+MN BZS   Buzias, Romania
+CL MG05  Magoula
+GE ISP   GEOFON/MedNet/KOERI Station Isparta, Turkey
+CL MG06  Magoula
+MN IDI   Anogia, Greece
+KO BZK   Bozkurt-KASTAMONU
+HU LTVH  Letavertes, Hungary
+GE TIRR  GEOFON Station Tirgusor, Romania
+GE CSS   GEOFON/GII Station Mathiatis, Cyprus
+RO VRI   Vrancioaia
+SJ ZAPS  SJ-Serbia
+KO ELL   Elmali-ANTALYA
+RO LEHL  Lehliu
+KO BALB  BALIKESIR
+HT SRS   SERRAI, GREECE
+HL SMTH  Samothraki Island, Greece
+CL TRIZ  Trizonia
+MN PDG   Podgorica, Montenegro
+RO HERR  Herculane
+KO EDRB  EDIRNE
+HT ALN   ALEXANDROUPOLIS, GREECE
+HL ITM   Ithomi,Messinia,Greece
+HL KEK   Corfu,Greece
+MN KEK   Kerkira Island, Greece
+HL PLG   Poligiros,Chalkidiki,Greece
+HU MORH  Moragy, Hungary
+BS PLD   Plovdiv, Bulgaria, BDSN
+GE MORC  GEOFON Station Moravsky Beroun, Czech Republic
+CL MG04  Magoula
+HU BEHE  Becsehely, Hungary
+CL MG07  Magoula
+CL MG00  Magoula
+CL MG02  Magoula
+CL MG03  Magoula
+CL AGRP  Agrapidokambos
+RO BAC   Bacau
+RO LOT   Lotru
+RO BAIL  Bailesti
+SK MODS  Station Modra-Piesok, Slovakia
+HT SOH   SOKHOS, GREECE
+PL KWP   PLSN/GEOFON Station Kalwaria Paclawska, Poland
+HU AMBH  Ambrozfalva, Hungary
+RO PETR  Petresti
+RO DRGR  Valea Draganului
+RO COPA  Copaceanca
+RO BANR  Banloc
+GE THERA Station Santorini, Greece
+RO MLR   Muntele Rosu - Romania
+IU ANTO  Ankara, Turkey
+UA MI07  MI
+UA MI05  MI
+TU BAYC  Bayramic, Canakkale
+RO CRAR  Craiova
+SJ ZAGS  SJ-Serbia
+KO SNOP  SINOP
+HL ARG   Archaggelos, Rhodes, Greece
+CL ROD3  Rodini

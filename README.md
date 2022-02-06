@@ -41,6 +41,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br</td></tr>
 		<tr><td align="left">SCSN-USC<br>(South Carolina Seismic Network)</td><td align="left">eeyore.seis.sc.edu:6382</td></tr>
 		<tr><td align="left">Seisme IRD</td><td align="left">rtserve.ird.nc</td></tr>
+		<tr><td align="left">Staneo</td><td align="left">vibrato.staneo.fr</td></tr>
 		<tr><td align="left">SNAC NOA</td><td align="left">snac.gein.noa.gr</td></tr>
 		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu</td></tr>
 		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>

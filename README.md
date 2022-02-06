@@ -22,6 +22,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
     		<tr><td align="left">GEONET</td><td align="left">link.geonet.org.nz</td></tr>
 		<tr><td align="left">Geoscience Australia</td><td align="left">seis-pub.ga.gov.au</td></tr>
 		<tr><td align="left">GSRAS (?)</td><td align="left">89.22.182.133</td></tr>
+		<tr><td align="left">Helsinki</td><td align="left">finseis.seismo.helsinki.fi</td></tr>
 		<tr><td align="left">Haiti</td><td align="left">ayiti.unice.fr</td></tr>
 		<tr><td align="left">ICGC</td><td align="left">ws.icgc.cat</td></tr>
 		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu</td></tr>
@@ -30,14 +31,17 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">IRIS Jamaseis</td><td align="left">jamaseis.iris.edu</td></tr>
 		<tr><td align="left">ISNET - UNINA<br>Università degli Studi di Napoli Federico II</td><td align="left">185.15.171.86</td></tr>
 		<tr><td align="left">LMU</td><td align="left">erde.geophysik.uni-muenchen.de</td></tr>
+		<tr><td align="left">NIGGG</td><td align="left">195.96.231.100</td></tr>
 		<tr><td align="left">NRCAN</td><td align="left">earthquakescanada.nrcan.gc.ca</td></tr>
 		<tr><td align="left">OBSEBRE</td><td align="left">obsebre.es</td></tr>
 		<tr><td align="left">OGS</td><td align="left">140.105.68.27</td></tr>
 		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>
+		<tr><td align="left">PLSN (IGF Poland)</td><td align="left">213.135.33.194</td></tr>
 		<tr><td align="left">Red Sìsmica de Puerto Rico</td><td align="left">161.35.236.45</td></tr>
 		<tr><td align="left">Red Sìsmica Baru</td><td align="left">helis.redsismicabaru.com</td></tr>
 		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr</td></tr>
+		<tr><td align="left">SANET</td><td align="left">147.213.113.73</td></tr>
 		<tr><td align="left">RSIS</td><td align="left">rsis1.on.br</td></tr>
 		<tr><td align="left">SCSN-USC<br>(South Carolina Seismic Network)</td><td align="left">eeyore.seis.sc.edu:6382</td></tr>
 		<tr><td align="left">Seisme IRD</td><td align="left">rtserve.ird.nc</td></tr>

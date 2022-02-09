@@ -55,7 +55,6 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">UPR</td><td align="left">worm.uprm.edu</td></tr>
 		<tr><td align="left">USGS</td><td align="left">cwbpub.cr.usgs.gov</td></tr>
 		<tr><td align="left">USP-IAG</td><td align="left">seisrequest.iag.usp.br</td></tr>
-		<tr><td align="left">ZAMG</td><td align="left">195.96.231.100</td></tr>
 	</tbody>
 </table>
 

@@ -58,9 +58,10 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 	</tbody>
 </table>
 
-***Note**: seedlink port is 18000*
+***Note**: seedlink default port is 18000*
 
 ### FDSNWS
+This is a partial list. 
 <table>
 	<thead>
 		<tr><th align="left">Name</th><th align="left">Link</th></tr>

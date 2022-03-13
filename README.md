@@ -48,6 +48,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">Staneo</td><td align="left">vibrato.staneo.fr</td></tr>
 		<tr><td align="left">SNAC NOA</td><td align="left">snac.gein.noa.gr</td></tr>
 		<tr><td align="left">TexNet</td><td align="left">rtserve.beg.utexas.edu</td></tr>
+		<tr><td align="left">Thai Meteorological Department</td><td align="left">119.46.126.38</td></tr>
 		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>
 		<tr><td align="left">UNITS<br>Università degli studi di Trieste</td><td align="left">rtweb.units.it</td></tr>
 		<tr><td align="left">UNIV-AG<br>Université des Antilles</td><td align="left">seedsrv0.ovmp.martinique.univ-ag.fr</td></tr>

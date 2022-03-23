@@ -37,7 +37,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">OGS</td><td align="left">140.105.68.27</td></tr>
 		<tr><td align="left">Oklahoma University</td><td align="left">rtserve.ou.edu</td></tr>
 		<tr><td align="left">ORFEUS</td><td align="left">eida.orfeus-eu.org</td></tr>
-		<tr><td align="left">PLSN (IGF Poland)</td><td align="left">213.135.33.194</td></tr>
+		<tr><td align="left">PLSN (IGF Poland)</td><td align="left">hudson.igf.edu.pl</td></tr>
 		<tr><td align="left">Red Sìsmica de Puerto Rico</td><td align="left">161.35.236.45</td></tr>
 		<tr><td align="left">Red Sìsmica Baru</td><td align="left">helis.redsismicabaru.com</td></tr>
 		<tr><td align="left">RESIF</td><td align="left">rtserve.resif.fr</td></tr>

@@ -6,6 +6,8 @@ The *SeedLink protocol* is a robust data transmission intended for use on the In
 The *FSDNWS-Station* provides access to station metadata and instrument specifics in FDSN StationXML format. Metadata can be selected on SEED network, station, location or channel identifiers in addition to spatiotemporal constraints. Metadata can be extracted at multiple levels of detail.
 <br>(More information [here](http://www.fdsn.org/webservices/))
 
+Winston is a Java-based seismic wave server, which provides data and plots to clients.
+
 ## List
 
 ### Seedlink
@@ -26,6 +28,7 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 		<tr><td align="left">Haiti</td><td align="left">ayiti.unice.fr</td></tr>
 		<tr><td align="left">ICGC</td><td align="left">ws.icgc.cat</td></tr>
 		<tr><td align="left">IDA Project</td><td align="left">rtserve.ida.ucsd.edu</td></tr>
+		<tr><td align="left">IFZ</td><td align="left">data.ifz.ru</td></tr>
 		<tr><td align="left">IPGP</td><td align="left">rtserver.ipgp.fr</td></tr>
 		<tr><td align="left">IRIS DMC</td><td align="left">rtserve.iris.washington.edu</td></tr>
 		<tr><td align="left">IRIS Jamaseis</td><td align="left">jamaseis.iris.edu</td></tr>
@@ -62,8 +65,36 @@ The *FSDNWS-Station* provides access to station metadata and instrument specific
 
 ***Note**: seedlink default port is 18000*
 
+### Earthworm
+	<table>
+	<thead>
+		<tr><th align="left">Name</th><th align="left">Host</th><th align="left">Port</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">Carpathian Ukraine</td><td align="left">seism.lviv.ua</td><td>16022</td></tr>
+		<tr><td align="left">CSIC GEO3BCN</td><td align="left">earthworm.geo3bcn.csic.es</td><td>16022</td></tr>
+		<tr><td align="left">NCEDC 1</td><td align="left">ncedc.org</td><td>16021</td></tr>
+		<tr><td align="left">NCEDC 2</td><td align="left">ncedc.org</td><td>16022</td></tr>
+		<tr><td align="left">NCEDC 3</td><td align="left">ncedc.org</td><td>16023</td></tr>
+		<tr><td align="left">NCEDC 4</td><td align="left">ncedc.org</td><td>16024</td></tr>
+		<tr><td align="left">UPR</td><td align="left">worm.uprm.edu</td><td>16022</td></tr>
+	</tbody>
+</table>
+
+### Winston Wave Server
+	<table>
+	<thead>
+		<tr><th align="left">Name</th><th align="left">Host</th><th align="left">Port</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">AVO Winston</td><td align="left">pubavo1.wr.usgs.gov</td><td>16022</td></tr>
+		<tr><td align="left">ISNET - UNINA<br>Università degli Studi di Napoli Federico II</td><td align="left">lccedu.fisica.unina.it</td><td>16022</td></tr>
+		<tr><td align="left">Universidad National Costa Rica</td><td align="left">ovsvalve.una.ac.cr</td><td>16022</td></tr>
+	</tbody>
+</table>
+
 ### FDSNWS
-This is a partial list. 
+This is a partial list not updated.
 <table>
 	<thead>
 		<tr><th align="left">Name</th><th align="left">Link</th></tr>

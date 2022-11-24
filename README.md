@@ -66,9 +66,9 @@ Winston is a Java-based seismic wave server, which provides data and plots to cl
 ***Note**: seedlink default port is 18000*
 
 ### Earthworm
-	<table>
+<table>
 	<thead>
-		<tr><th align="left">Name</th><th align="left">Host</th><th align="left">Port</th></tr>
+	<tr><th align="left">Name</th><th align="left">Host</th><th align="left">Port</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="left">Carpathian Ukraine</td><td align="left">seism.lviv.ua</td><td>16022</td></tr>
@@ -82,7 +82,7 @@ Winston is a Java-based seismic wave server, which provides data and plots to cl
 </table>
 
 ### Winston Wave Server
-	<table>
+<table>
 	<thead>
 		<tr><th align="left">Name</th><th align="left">Host</th><th align="left">Port</th></tr>
 	</thead>

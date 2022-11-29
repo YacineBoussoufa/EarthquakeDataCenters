@@ -56,6 +56,7 @@ Winston is a Java-based seismic wave server, which provides data and plots to cl
 		<tr><td align="left">Unical<br>Universita Della Calabria</td><td align="left">www&#46;sismocal.org</td></tr>
 		<tr><td align="left">UNITS<br>Università degli studi di Trieste</td><td align="left">rtweb.units.it</td></tr>
 		<tr><td align="left">UNIV-AG<br>Université des Antilles</td><td align="left">seedsrv0.ovmp.martinique.univ-ag.fr</td></tr>
+		<tr><td align="left">Universidade de Évora</td><td align="left">clv-cge.uevora.pt</td></tr>
 		<tr><td align="left">Universidad de Colima</td><td align="left">148.213.24.15</td></tr>
 		<tr><td align="left">UPR</td><td align="left">worm.uprm.edu</td></tr>
 		<tr><td align="left">USGS</td><td align="left">cwbpub.cr.usgs.gov</td></tr>
